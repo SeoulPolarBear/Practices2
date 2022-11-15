@@ -13,13 +13,13 @@
  ### 2022-the first half(Python)
 <ol>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220401">Data Structure</a></li>
-  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220403">Python if</a></li>
-  
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220403">Python if</a></li> 
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220404">Python for,function1</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220406">Python filter,lambda,map</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220408">Python socket</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220410">Python inherit</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220411">Python Numpy</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220413">Python Pandas</a></li>
  </ol>
  
 
