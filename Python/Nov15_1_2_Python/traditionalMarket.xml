@@ -1,0 +1,2654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListTraditionalMarket>
+	<list_total_count>330</list_total_count>
+	<RESULT>
+		<CODE>INFO-000</CODE>
+		<MESSAGE>정상 처리되었습니다</MESSAGE>
+	</RESULT>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>갈현시장</M_NAME>
+		<M_ADDR><![
+	[
+		424
+	
+-16]]>
+		</M_ADDR>
+		<LAT>37.6235874</LAT>
+		<LNG>126.9173853</LNG>
+	</row>
+	<row>
+		<M_CODE>12</M_CODE>
+		<GUNAME>동작구</GUNAME>
+		<M_NAME>강남시장</M_NAME>
+		<M_ADDR><![CDATA[상도동 488]]></M_ADDR>
+		<LAT>37.5187486</LAT>
+		<LNG>127.0206399</LNG>
+	</row>
+	<row>
+		<M_CODE>1</M_CODE>
+		<GUNAME>강남구</GUNAME>
+		<M_NAME>강남시장</M_NAME>
+		<M_ADDR><![CDATA[신사동510-11]]></M_ADDR>
+		<LAT>37.4967455</LAT>
+		<LNG>126.9534877</LNG>
+	</row>
+	<row>
+		<M_CODE>1</M_CODE>
+		<GUNAME>강남구</GUNAME>
+		<M_NAME>강남역 지하도상가</M_NAME>
+		<M_ADDR><![CDATA[역삼동821-1]]></M_ADDR>
+		<LAT>37.4985945</LAT>
+		<LNG>127.028026</LNG>
+	</row>
+	<row>
+		<M_CODE>15</M_CODE>
+		<GUNAME>서초구</GUNAME>
+		<M_NAME>강남터미널지하도상점가1구역</M_NAME>
+		<M_ADDR><![CDATA[서초구 반포동 163]]></M_ADDR>
+		<LAT>37.5004776</LAT>
+		<LNG>126.98606</LNG>
+	</row>
+	<row>
+		<M_CODE>15</M_CODE>
+		<GUNAME>서초구</GUNAME>
+		<M_NAME>강남터미널지하도상점가2구역</M_NAME>
+		<M_ADDR><![CDATA[서초구 반포동 163-1]]></M_ADDR>
+		<LAT>37.5004776</LAT>
+		<LNG>126.98606</LNG>
+	</row>
+	<row>
+		<M_CODE>15</M_CODE>
+		<GUNAME>서초구</GUNAME>
+		<M_NAME>강남터미널지하도상점가3구역</M_NAME>
+		<M_ADDR><![CDATA[서초구 반포동 225]]></M_ADDR>
+		<LAT>37.5004776</LAT>
+		<LNG>126.98606</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>강북종합골목시장</M_NAME>
+		<M_ADDR><![CDATA[수유3동 177번지 일대]]></M_ADDR>
+		<LAT>37.6405676</LAT>
+		<LNG>127.0270519</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>강북종합시장</M_NAME>
+		<M_ADDR><![CDATA[수유3동 179-5]]></M_ADDR>
+		<LAT>37.6420367</LAT>
+		<LNG>127.0256339</LNG>
+	</row>
+	<row>
+		<M_CODE>7</M_CODE>
+		<GUNAME>구로구</GUNAME>
+		<M_NAME>개봉중앙시장</M_NAME>
+		<M_ADDR><![CDATA[개봉2동 324-1]]></M_ADDR>
+		<LAT>37.4916649</LAT>
+		<LNG>126.8538838</LNG>
+	</row>
+	<row>
+		<M_CODE>7</M_CODE>
+		<GUNAME>구로구</GUNAME>
+		<M_NAME>개봉프라자</M_NAME>
+		<M_ADDR><![CDATA[고척동 269-1]]></M_ADDR>
+		<LAT>37.5020179</LAT>
+		<LNG>126.851172</LNG>
+	</row>
+	<row>
+		<M_CODE>1</M_CODE>
+		<GUNAME>강남구</GUNAME>
+		<M_NAME>개포2동 중심상가</M_NAME>
+		<M_ADDR><![CDATA[개포동 186-17]]></M_ADDR>
+		<LAT>37.4892459</LAT>
+		<LNG>127.0687911</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>경동광성상가</M_NAME>
+		<M_ADDR><![CDATA[제기동 849]]></M_ADDR>
+		<LAT>37.5792906</LAT>
+		<LNG>127.0403356</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>경동시장</M_NAME>
+		<M_ADDR><![CDATA[제기동 1018]]></M_ADDR>
+		<LAT>37.5789124</LAT>
+		<LNG>127.0395422</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>경창시장</M_NAME>
+		<M_ADDR><![CDATA[양천구 신월동 447-8]]></M_ADDR>
+		<LAT>37.524924</LAT>
+		<LNG>126.8420896</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>고덕전통시장</M_NAME>
+		<M_ADDR><![CDATA[고덕동 210-3 ]]></M_ADDR>
+		<LAT>37.5575868</LAT>
+		<LNG>127.1689177</LNG>
+	</row>
+	<row>
+		<M_CODE>15</M_CODE>
+		<GUNAME>서초구</GUNAME>
+		<M_NAME>고속터미널 지하철역 상점가 </M_NAME>
+		<M_ADDR><![CDATA[반포동 19-3,4]]></M_ADDR>
+		<LAT>37.5043058</LAT>
+		<LNG>127.0034897</LNG>
+	</row>
+	<row>
+		<M_CODE>7</M_CODE>
+		<GUNAME>구로구</GUNAME>
+		<M_NAME>고척근린시장</M_NAME>
+		<M_ADDR><![CDATA[고척동 257-12]]></M_ADDR>
+		<LAT>37.5024044</LAT>
+		<LNG>126.8505061</LNG>
+	</row>
+	<row>
+		<M_CODE>7</M_CODE>
+		<GUNAME>구로구</GUNAME>
+		<M_NAME>고척프라자</M_NAME>
+		<M_ADDR><![CDATA[고척동 50-48]]></M_ADDR>
+		<LAT>37.5037884</LAT>
+		<LNG>126.8627751</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>공덕시장</M_NAME>
+		<M_ADDR><![CDATA[마포구 공덕동 256-10]]></M_ADDR>
+		<LAT>37.5447975</LAT>
+		<LNG>126.9533474</LNG>
+	</row>
+	<row>
+		<M_CODE>9</M_CODE>
+		<GUNAME>노원구</GUNAME>
+		<M_NAME>공릉동 도깨비시장</M_NAME>
+		<M_ADDR><![CDATA[공릉동 561-35]]></M_ADDR>
+		<LAT>37.6228878</LAT>
+		<LNG>127.0772403</LNG>
+	</row>
+	<row>
+		<M_CODE>1</M_CODE>
+		<GUNAME>강남구</GUNAME>
+		<M_NAME>공무원연금매장 상록스토아 개포점</M_NAME>
+		<M_ADDR><![CDATA[강남구 일원동 613]]></M_ADDR>
+		<LAT>37.4893496</LAT>
+		<LNG>127.0746324</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>공항시장</M_NAME>
+		<M_ADDR><![CDATA[방화동 620-17]]></M_ADDR>
+		<LAT>37.5630013</LAT>
+		<LNG>126.8091012</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>관악신사시장(신림4동)</M_NAME>
+		<M_ADDR><![CDATA[신사동 494-7]]></M_ADDR>
+		<LAT>37.4862908</LAT>
+		<LNG>126.9169544</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>관악종합시장</M_NAME>
+		<M_ADDR><![CDATA[신원동 1602-1]]></M_ADDR>
+		<LAT>37.4816266</LAT>
+		<LNG>126.9279347</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>광성시장</M_NAME>
+		<M_ADDR><![CDATA[광진구 중곡동 229-15]]></M_ADDR>
+		<LAT>37.5635761</LAT>
+		<LNG>127.0811132</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>광장골목시장</M_NAME>
+		<M_ADDR><![CDATA[예지동 293-1]]></M_ADDR>
+		<LAT>37.569375</LAT>
+		<LNG>126.9996711</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>광장시장</M_NAME>
+		<M_ADDR><![CDATA[예지동 6-1]]></M_ADDR>
+		<LAT>37.5700187</LAT>
+		<LNG>126.9988849</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>광희시장</M_NAME>
+		<M_ADDR><![CDATA[신당동 777]]></M_ADDR>
+		<LAT>37.5686346</LAT>
+		<LNG>127.0118902</LNG>
+	</row>
+	<row>
+		<M_CODE>7</M_CODE>
+		<GUNAME>구로구</GUNAME>
+		<M_NAME>구로시장</M_NAME>
+		<M_ADDR><![CDATA[구로동  736-1]]></M_ADDR>
+		<LAT>37.4885348</LAT>
+		<LNG>126.885264</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>구의시장</M_NAME>
+		<M_ADDR><![CDATA[광진구 구의동 66-25]]></M_ADDR>
+		<LAT>37.5456437</LAT>
+		<LNG>127.0885052</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>굽은다리골목시장</M_NAME>
+		<M_ADDR><![CDATA[천호동 397-99 일대]]></M_ADDR>
+		<LAT>37.5422736</LAT>
+		<LNG>127.1317846</LNG>
+	</row>
+	<row>
+		<M_CODE>16</M_CODE>
+		<GUNAME>성동구</GUNAME>
+		<M_NAME>금남시장</M_NAME>
+		<M_ADDR><![CDATA[금호동3가 326]]></M_ADDR>
+		<LAT>37.5484311</LAT>
+		<LNG>127.0226864</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>금천교시장</M_NAME>
+		<M_ADDR><![CDATA[종로구 내자동 1]]></M_ADDR>
+		<LAT>37.576508</LAT>
+		<LNG>126.9722519</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>길동골목시장</M_NAME>
+		<M_ADDR><![CDATA[길동 397-3 일대]]></M_ADDR>
+		<LAT>37.5370752</LAT>
+		<LNG>127.142803</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>길음시장</M_NAME>
+		<M_ADDR><![CDATA[길음동 535-8, 540-2]]></M_ADDR>
+		<LAT>37.6027133</LAT>
+		<LNG>127.0217304</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>까치산시장</M_NAME>
+		<M_ADDR><![CDATA[강서구 화곡8동 342-16]]></M_ADDR>
+		<LAT>37.5315268</LAT>
+		<LNG>126.8478653</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>깡통시장(제기상가번영회)</M_NAME>
+		<M_ADDR><![CDATA[제기동 289 ~ 740]]></M_ADDR>
+		<LAT>37.5864845</LAT>
+		<LNG>127.0413661</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>낙성대 시장(봉천7동)</M_NAME>
+		<M_ADDR><![CDATA[낙성대동 1612일대]]></M_ADDR>
+		<LAT>37.4794447</LAT>
+		<LNG>126.9556689</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>낙원상가</M_NAME>
+		<M_ADDR><![CDATA[낙원동 284-6]]></M_ADDR>
+		<LAT>37.572557</LAT>
+		<LNG>126.9877725</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>��로구</GUNAME>
+		<M_NAME>낙원지하시장(대일상가)</M_NAME>
+		<M_ADDR><![CDATA[낙원동 284-6]]></M_ADDR>
+		<LAT>37.572557</LAT>
+		<LNG>126.9877725</LNG>
+	</row>
+	<row>
+		<M_CODE>7</M_CODE>
+		<GUNAME>구로구</GUNAME>
+		<M_NAME>남구로시장(구 구로자율시장)</M_NAME>
+		<M_ADDR><![CDATA[구로동 730-27]]></M_ADDR>
+		<LAT>37.4904813</LAT>
+		<LNG>126.885048</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>남대문로 지하상가</M_NAME>
+		<M_ADDR><![CDATA[남대문로4가 18-2]]></M_ADDR>
+		<LAT>37.5603813</LAT>
+		<LNG>126.9771774</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>남대문시장</M_NAME>
+		<M_ADDR><![CDATA[남창동 49]]></M_ADDR>
+		<LAT>37.5593733</LAT>
+		<LNG>126.9779334</LNG>
+	</row>
+	<row>
+		<M_CODE>8</M_CODE>
+		<GUNAME>금천구</GUNAME>
+		<M_NAME>남문시장</M_NAME>
+		<M_ADDR><![CDATA[독산동 984-10]]></M_ADDR>
+		<LAT>37.4736825</LAT>
+		<LNG>126.9003838</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>남부골목시장</M_NAME>
+		<M_ADDR><![CDATA[강서구 화곡동 802-19]]></M_ADDR>
+		<LAT>37.5331434</LAT>
+		<LNG>126.8606463</LNG>
+	</row>
+	<row>
+		<M_CODE>15</M_CODE>
+		<GUNAME>서초구</GUNAME>
+		<M_NAME>남부종합시장</M_NAME>
+		<M_ADDR><![CDATA[방배본동 767-1]]></M_ADDR>
+		<LAT>37.4949197</LAT>
+		<LNG>126.9848698</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>남부화곡시장</M_NAME>
+		<M_ADDR><![CDATA[화곡동 830-1]]></M_ADDR>
+		<LAT>37.5330664</LAT>
+		<LNG>126.8589885</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>남서울상가</M_NAME>
+		<M_ADDR><![CDATA[영등포동5가 16,17]]></M_ADDR>
+		<LAT>37.5203995</LAT>
+		<LNG>126.907259</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>남평화시장</M_NAME>
+		<M_ADDR><![CDATA[신당동 772]]></M_ADDR>
+		<LAT>37.5691652</LAT>
+		<LNG>127.0108808</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>노룬산골목시장</M_NAME>
+		<M_ADDR><![CDATA[자양동 44-12]]></M_ADDR>
+		<LAT>37.5366074</LAT>
+		<LNG>127.0645873</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>노룬산시장</M_NAME>
+		<M_ADDR><![CDATA[광진구 자양동 44-2]]></M_ADDR>
+		<LAT>37.5365127</LAT>
+		<LNG>127.0648112</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>녹번시장</M_NAME>
+		<M_ADDR><![CDATA[응암동 74-7]]></M_ADDR>
+		<LAT>37.6005716</LAT>
+		<LNG>126.9304813</LNG>
+	</row>
+	<row>
+		<M_CODE>1</M_CODE>
+		<GUNAME>강남구</GUNAME>
+		<M_NAME>논현종합시장</M_NAME>
+		<M_ADDR><![CDATA[논현동227-4]]></M_ADDR>
+		<LAT>37.5099997</LAT>
+		<LNG>127.034741</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>능동로골목시장</M_NAME>
+		<M_ADDR><![CDATA[자양동 553-219]]></M_ADDR>
+		<LAT>37.5351556</LAT>
+		<LNG>127.0666416</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>답십리시장</M_NAME>
+		<M_ADDR><![CDATA[답십리동 66-39]]></M_ADDR>
+		<LAT>37.5731833</LAT>
+		<LNG>127.0580326</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>답십리현대시장</M_NAME>
+		<M_ADDR><![CDATA[답십리동 14-11]]></M_ADDR>
+		<LAT>37.566736</LAT>
+		<LNG>127.0593193</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>대림골목시장</M_NAME>
+		<M_ADDR><![CDATA[응암동 602   주변골목]]></M_ADDR>
+		<LAT>37.5879032</LAT>
+		<LNG>126.917496</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>대림시장</M_NAME>
+		<M_ADDR><![CDATA[응암동 754-1]]></M_ADDR>
+		<LAT>37.5867628</LAT>
+		<LNG>126.9176104</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>대림시장</M_NAME>
+		<M_ADDR><![CDATA[대림동963-5]]></M_ADDR>
+		<LAT>37.491372</LAT>
+		<LNG>126.9076634</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>대림중앙시장</M_NAME>
+		<M_ADDR><![CDATA[대림2동 1075]]></M_ADDR>
+		<LAT>37.4920588</LAT>
+		<LNG>126.8982724</LNG>
+	</row>
+	<row>
+		<M_CODE>8</M_CODE>
+		<GUNAME>금천구</GUNAME>
+		<M_NAME>대명시장</M_NAME>
+		<M_ADDR><![CDATA[시흥동 884-5]]></M_ADDR>
+		<LAT>37.4542598</LAT>
+		<LNG>126.9017753</LNG>
+	</row>
+	<row>
+		<M_CODE>8</M_CODE>
+		<GUNAME>금천구</GUNAME>
+		<M_NAME>대명시장 및 주변상점가</M_NAME>
+		<M_ADDR><![CDATA[시흥동 885]]></M_ADDR>
+		<LAT>37.4540439</LAT>
+		<LNG>126.9018479</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>대신시장</M_NAME>
+		<M_ADDR><![CDATA[신길동 116-15]]></M_ADDR>
+		<LAT>37.5110632</LAT>
+		<LNG>126.9176563</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>대원종합시장</M_NAME>
+		<M_ADDR><![CDATA[화곡동 1023]]></M_ADDR>
+		<LAT>37.544428</LAT>
+		<LNG>126.8364651</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>대조시장</M_NAME>
+		<M_ADDR><![CDATA[대조동 26-14 주변골목]]></M_ADDR>
+		<LAT>37.6090649</LAT>
+		<LNG>126.9263462</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>도림시장</M_NAME>
+		<M_ADDR><![CDATA[도림동 176]]></M_ADDR>
+		<LAT>37.509963</LAT>
+		<LNG>126.8983395</LNG>
+	</row>
+	<row>
+		<M_CODE>16</M_CODE>
+		<GUNAME>성동구</GUNAME>
+		<M_NAME>도선동상점가</M_NAME>
+		<M_ADDR><![CDATA[도선동 164]]></M_ADDR>
+		<LAT>37.5638393</LAT>
+		<LNG>127.0343287</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>도화동 상점가</M_NAME>
+		<M_ADDR><![CDATA[도화동 179-5]]></M_ADDR>
+		<LAT>37.5408692</LAT>
+		<LNG>126.9491234</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>돈암제일시장</M_NAME>
+		<M_ADDR><![CDATA[동소문동5가 59-21 일대]]></M_ADDR>
+		<LAT>37.5914404</LAT>
+		<LNG>127.0159054</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>동남상가</M_NAME>
+		<M_ADDR><![CDATA[영등포동5가24]]></M_ADDR>
+		<LAT>37.5205835</LAT>
+		<LNG>126.9056278</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>동대문문구완구종합시장</M_NAME>
+		<M_ADDR><![CDATA[창신동 390-29]]></M_ADDR>
+		<LAT>37.5712054</LAT>
+		<LNG>127.0144176</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>동대문상가A동</M_NAME>
+		<M_ADDR><![CDATA[창신동 436-79]]></M_ADDR>
+		<LAT>37.5700505</LAT>
+		<LNG>127.0106149</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>동대문상가B동</M_NAME>
+		<M_ADDR><![CDATA[창신동 436-78]]></M_ADDR>
+		<LAT>37.5700532</LAT>
+		<LNG>127.0119234</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>동대문상가C동</M_NAME>
+		<M_ADDR><![CDATA[창신동 436-65]]></M_ADDR>
+		<LAT>37.5700841</LAT>
+		<LNG>127.0133263</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>동대문종합시장</M_NAME>
+		<M_ADDR><![CDATA[종로6가 289-42]]></M_ADDR>
+		<LAT>37.5701556</LAT>
+		<LNG>127.0081731</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>동대문종합시장D동상가</M_NAME>
+		<M_ADDR><![CDATA[종로6가 270-3]]></M_ADDR>
+		<LAT>37.5706402</LAT>
+		<LNG>127.007323</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>동대문지하쇼핑센터</M_NAME>
+		<M_ADDR><![CDATA[종로구 종로6가 382-1]]></M_ADDR>
+		<LAT>37.57195</LAT>
+		<LNG>127.004975</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>동문시장</M_NAME>
+		<M_ADDR><![CDATA[창신동 437]]></M_ADDR>
+		<LAT>37.5705927</LAT>
+		<LNG>127.0112654</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>동부골목시장</M_NAME>
+		<M_ADDR><![CDATA[상봉동 130-161]]></M_ADDR>
+		<LAT>37.5924445</LAT>
+		<LNG>127.0762912</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>동부시장</M_NAME>
+		<M_ADDR><![CDATA[답십리동 495-1]]></M_ADDR>
+		<LAT>37.5676132</LAT>
+		<LNG>127.0522792</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>동부청과시장</M_NAME>
+		<M_ADDR><![CDATA[용두동 39-1]]></M_ADDR>
+		<LAT>37.5773617</LAT>
+		<LNG>127.0428693</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>동북시장</M_NAME>
+		<M_ADDR><![CDATA[미아1동 701-3]]></M_ADDR>
+		<LAT>37.62022</LAT>
+		<LNG>127.0187554</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>동서시장</M_NAME>
+		<M_ADDR><![CDATA[제기동 650]]></M_ADDR>
+		<LAT>37.5797731</LAT>
+		<LNG>127.0414772</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>동서울시장</M_NAME>
+		<M_ADDR><![CDATA[천호동 422-1]]></M_ADDR>
+		<LAT>37.5421572</LAT>
+		<LNG>127.1281902</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>동성타워프라자</M_NAME>
+		<M_ADDR><![CDATA[신내동 786]]></M_ADDR>
+		<LAT>37.6080721</LAT>
+		<LNG>127.0972863</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>동소문 스카이상가</M_NAME>
+		<M_ADDR><![CDATA[돈암동 606일대]]></M_ADDR>
+		<LAT>37.5972608</LAT>
+		<LNG>127.0104807</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>동원골목시장</M_NAME>
+		<M_ADDR><![CDATA[면목동 103-1]]></M_ADDR>
+		<LAT>37.5897144</LAT>
+		<LNG>127.0913791</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>동원시장</M_NAME>
+		<M_ADDR><![CDATA[면목동 101-1]]></M_ADDR>
+		<LAT>37.5898175</LAT>
+		<LNG>127.0898538</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>동진시장</M_NAME>
+		<M_ADDR><![CDATA[연남동 227-15,38]]></M_ADDR>
+		<LAT>37.5623664</LAT>
+		<LNG>126.9266965</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>동평화시장</M_NAME>
+		<M_ADDR><![CDATA[신당동 217-92]]></M_ADDR>
+		<LAT>37.5694433</LAT>
+		<LNG>127.0139147</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>동화시장</M_NAME>
+		<M_ADDR><![CDATA[을지로6가 17-145]]></M_ADDR>
+		<LAT>37.5693599</LAT>
+		<LNG>127.0071031</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>두암시장</M_NAME>
+		<M_ADDR><![CDATA[대림3동717]]></M_ADDR>
+		<LAT>37.4952797</LAT>
+		<LNG>126.8980517</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>둔촌역전통시장</M_NAME>
+		<M_ADDR><![CDATA[성내동 428-9 일대]]></M_ADDR>
+		<LAT>37.527463</LAT>
+		<LNG>127.1351083</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>등마루시장</M_NAME>
+		<M_ADDR><![CDATA[등촌동 637-10]]></M_ADDR>
+		<LAT>37.5566273</LAT>
+		<LNG>126.8601515</LNG>
+	</row>
+	<row>
+		<M_CODE>16</M_CODE>
+		<GUNAME>성동구</GUNAME>
+		<M_NAME>뚝도시장</M_NAME>
+		<M_ADDR><![CDATA[성수동2가 335]]></M_ADDR>
+		<LAT>37.5388169</LAT>
+		<LNG>127.0544709</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>로데오거리상점가</M_NAME>
+		<M_ADDR><![CDATA[천호동 454-50 일대]]></M_ADDR>
+		<LAT>37.5383225</LAT>
+		<LNG>127.1266431</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>로타리상가</M_NAME>
+		<M_ADDR><![CDATA[영등포동5가 20]]></M_ADDR>
+		<LAT>37.5203178</LAT>
+		<LNG>126.905811</LNG>
+	</row>
+	<row>
+		<M_CODE>16</M_CODE>
+		<GUNAME>성동구</GUNAME>
+		<M_NAME>마장축산물시장</M_NAME>
+		<M_ADDR><![CDATA[마장동 510-3]]></M_ADDR>
+		<LAT>37.5697265</LAT>
+		<LNG>127.0383804</LNG>
+	</row>
+	<row>
+		<M_CODE>18</M_CODE>
+		<GUNAME>송파구</GUNAME>
+		<M_NAME>마천시장</M_NAME>
+		<M_ADDR><![CDATA[마천동 140-2]]></M_ADDR>
+		<LAT>37.4982611</LAT>
+		<LNG>127.1505378</LNG>
+	</row>
+	<row>
+		<M_CODE>18</M_CODE>
+		<GUNAME>송파구</GUNAME>
+		<M_NAME>마천중앙시장</M_NAME>
+		<M_ADDR><![CDATA[마천동 134-14]]></M_ADDR>
+		<LAT>37.4973838</LAT>
+		<LNG>127.1500097</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>마포농수산물시장</M_NAME>
+		<M_ADDR><![CDATA[성산2동 533-1]]></M_ADDR>
+		<LAT>37.5651346</LAT>
+		<LNG>126.8979262</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>마포시장</M_NAME>
+		<M_ADDR><![CDATA[마포구 공덕동 256-30]]></M_ADDR>
+		<LAT>37.5448107</LAT>
+		<LNG>126.9538425</LNG>
+	</row>
+	<row>
+		<M_CODE>21</M_CODE>
+		<GUNAME>용산구</GUNAME>
+		<M_NAME>만리시장</M_NAME>
+		<M_ADDR><![CDATA[서계동 260-1]]></M_ADDR>
+		<LAT>37.5512442</LAT>
+		<LNG>126.9635953</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>망원동월드컵시장</M_NAME>
+		<M_ADDR><![CDATA[망원2동 423일대]]></M_ADDR>
+		<LAT>37.5576651</LAT>
+		<LNG>126.9044815</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>망원시장</M_NAME>
+		<M_ADDR><![CDATA[망원1동 411일대]]></M_ADDR>
+		<LAT>37.5558465</LAT>
+		<LNG>126.905727</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>면곡골목시장</M_NAME>
+		<M_ADDR><![CDATA[중곡동 566-3]]></M_ADDR>
+		<LAT>37.5712615</LAT>
+		<LNG>127.0814846</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>면목골목시장</M_NAME>
+		<M_ADDR><![CDATA[면목동 352-9]]></M_ADDR>
+		<LAT>37.5772659</LAT>
+		<LNG>127.0846012</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>면목시장</M_NAME>
+		<M_ADDR><![CDATA[면목동 650]]></M_ADDR>
+		<LAT>37.5795862</LAT>
+		<LNG>127.0862927</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>명동 지하도상가</M_NAME>
+		<M_ADDR><![CDATA[남대문로2가 123]]></M_ADDR>
+		<LAT>37.5634922</LAT>
+		<LNG>126.9816771</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>명동역지하도쇼핑센터</M_NAME>
+		<M_ADDR><![CDATA[중구 충무로2가 65-12]]></M_ADDR>
+		<LAT>37.5610701</LAT>
+		<LNG>126.985591</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>명일골목시장</M_NAME>
+		<M_ADDR><![CDATA[명일동 333-2 일대]]></M_ADDR>
+		<LAT>37.5495042</LAT>
+		<LNG>127.1448791</LNG>
+	</row>
+	<row>
+		<M_CODE>14</M_CODE>
+		<GUNAME>서대문구</GUNAME>
+		<M_NAME>모래내시장</M_NAME>
+		<M_ADDR><![CDATA[남가좌동 290-2]]></M_ADDR>
+		<LAT>37.5705156</LAT>
+		<LNG>126.9158194</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>목2동시장</M_NAME>
+		<M_ADDR><![CDATA[목2동 526]]></M_ADDR>
+		<LAT>37.5459926</LAT>
+		<LNG>126.8739372</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>목3동시장</M_NAME>
+		<M_ADDR><![CDATA[목3동 610-19]]></M_ADDR>
+		<LAT>37.5482627</LAT>
+		<LNG>126.8668146</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>목4동시장</M_NAME>
+		<M_ADDR><![CDATA[목4동 738-1]]></M_ADDR>
+		<LAT>37.5379918</LAT>
+		<LNG>126.8666093</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>목동제일시장</M_NAME>
+		<M_ADDR><![CDATA[목2동 503-1]]></M_ADDR>
+		<LAT>37.5465699</LAT>
+		<LNG>126.8706528</LNG>
+	</row>
+	<row>
+		<M_CODE>18</M_CODE>
+		<GUNAME>송파구</GUNAME>
+		<M_NAME>문정동 로데오거리 상점가</M_NAME>
+		<M_ADDR><![CDATA[문정동 41-5]]></M_ADDR>
+		<LAT>37.4891396</LAT>
+		<LNG>127.1238717</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>미성동 도깨비시장</M_NAME>
+		<M_ADDR><![CDATA[미성동 1563-85]]></M_ADDR>
+		<LAT>37.4743126</LAT>
+		<LNG>126.915919</LNG>
+	</row>
+	<row>
+		<M_CODE>8</M_CODE>
+		<GUNAME>금천구</GUNAME>
+		<M_NAME>박미시장</M_NAME>
+		<M_ADDR><![CDATA[시흥동 956]]></M_ADDR>
+		<LAT>37.4401476</LAT>
+		<LNG>126.904676</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>밤나무골시장</M_NAME>
+		<M_ADDR><![CDATA[하월곡동 76-8 일대]]></M_ADDR>
+		<LAT>37.6083615</LAT>
+		<LNG>127.0358606</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>방산시장</M_NAME>
+		<M_ADDR><![CDATA[주교동 251-1]]></M_ADDR>
+		<LAT>37.5674502</LAT>
+		<LNG>126.9997139</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>방산종합시장</M_NAME>
+		<M_ADDR><![CDATA[주교동 19-1]]></M_ADDR>
+		<LAT>37.5686744</LAT>
+		<LNG>127.0007958</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>방신재래시장</M_NAME>
+		<M_ADDR><![CDATA[강서구 방화동 567-23 ]]></M_ADDR>
+		<LAT>37.5713735</LAT>
+		<LNG>126.8123273</LNG>
+	</row>
+	<row>
+		<M_CODE>18</M_CODE>
+		<GUNAME>송파구</GUNAME>
+		<M_NAME>방이시장</M_NAME>
+		<M_ADDR><![CDATA[방이동 137-8]]></M_ADDR>
+		<LAT>37.5103619</LAT>
+		<LNG>127.1175231</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>방천골목시장</M_NAME>
+		<M_ADDR><![CDATA[미아4동 55번지 일대]]></M_ADDR>
+		<LAT>37.6132484</LAT>
+		<LNG>127.0310988</LNG>
+	</row>
+	<row>
+		<M_CODE>10</M_CODE>
+		<GUNAME>도봉구</GUNAME>
+		<M_NAME>방학동도깨비시장</M_NAME>
+		<M_ADDR><![CDATA[방학동 633번지 45]]></M_ADDR>
+		<LAT>37.6657598</LAT>
+		<LNG>127.0352923</LNG>
+	</row>
+	<row>
+		<M_CODE>14</M_CODE>
+		<GUNAME>서대문구</GUNAME>
+		<M_NAME>백련시장</M_NAME>
+		<M_ADDR><![CDATA[남가좌동 345-4]]></M_ADDR>
+		<LAT>37.5769893</LAT>
+		<LNG>126.9230765</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>번동북부골목시장</M_NAME>
+		<M_ADDR><![CDATA[번1동 411번지 일대]]></M_ADDR>
+		<LAT>37.6356639</LAT>
+		<LNG>127.0309362</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>번동북부시장</M_NAME>
+		<M_ADDR><![CDATA[번1동 413-3]]></M_ADDR>
+		<LAT>37.6362704</LAT>
+		<LNG>127.0303436</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>번동시장</M_NAME>
+		<M_ADDR><![CDATA[장위동 301]]></M_ADDR>
+		<LAT>37.6212389</LAT>
+		<LNG>127.0479357</LNG>
+	</row>
+	<row>
+		<M_CODE>21</M_CODE>
+		<GUNAME>용산구</GUNAME>
+		<M_NAME>보광시장</M_NAME>
+		<M_ADDR><![CDATA[보광동 260-8]]></M_ADDR>
+		<LAT>37.5272004</LAT>
+		<LNG>127.0002583</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>보문골목시장</M_NAME>
+		<M_ADDR><![CDATA[보문동1가204-20]]></M_ADDR>
+		<LAT>37.5856076</LAT>
+		<LNG>127.0205047</LNG>
+	</row>
+	<row>
+		<M_CODE>12</M_CODE>
+		<GUNAME>동작구</GUNAME>
+		<M_NAME>본동인정시장</M_NAME>
+		<M_ADDR><![CDATA[본동 187-1외 66필지]]></M_ADDR>
+		<LAT>37.5121681</LAT>
+		<LNG>126.9518629</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>봉일시장</M_NAME>
+		<M_ADDR><![CDATA[은천동 951-25]]></M_ADDR>
+		<LAT>37.4855955</LAT>
+		<LNG>126.9384154</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>봉천신시장</M_NAME>
+		<M_ADDR><![CDATA[청림동 10-5]]></M_ADDR>
+		<LAT>37.4886564</LAT>
+		<LNG>126.9588306</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>봉천제일종합시장</M_NAME>
+		<M_ADDR><![CDATA[청룡동 921-1]]></M_ADDR>
+		<LAT>37.4812747</LAT>
+		<LNG>126.9444627</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>봉천중앙시장</M_NAME>
+		<M_ADDR><![CDATA[중앙동 32-2]]></M_ADDR>
+		<LAT>37.4838978</LAT>
+		<LNG>126.9541742</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>봉천현대시장</M_NAME>
+		<M_ADDR><![CDATA[은천동 502-4]]></M_ADDR>
+		<LAT>37.4866003</LAT>
+		<LNG>126.9465367</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>사가정골목시장</M_NAME>
+		<M_ADDR><![CDATA[면목동 472-45]]></M_ADDR>
+		<LAT>37.5811138</LAT>
+		<LNG>127.0893651</LNG>
+	</row>
+	<row>
+		<M_CODE>12</M_CODE>
+		<GUNAME>동작구</GUNAME>
+		<M_NAME>사당시장</M_NAME>
+		<M_ADDR><![CDATA[사당4동 318-8]]></M_ADDR>
+		<LAT>37.4828421</LAT>
+		<LNG>126.9749806</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>사러가시장</M_NAME>
+		<M_ADDR><![CDATA[신길동254-1]]></M_ADDR>
+		<LAT>37.5061266</LAT>
+		<LNG>126.9107652</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>삼구시장</M_NAME>
+		<M_ADDR><![CDATA[영등포동5가19]]></M_ADDR>
+		<LAT>37.5203001</LAT>
+		<LNG>126.9058548</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>삼선골목시장</M_NAME>
+		<M_ADDR><![CDATA[동소문동2가146]]></M_ADDR>
+		<LAT>37.5882118</LAT>
+		<LNG>127.0084641</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>삼성동 시장(신림6동)</M_NAME>
+		<M_ADDR><![CDATA[삼성동 808-1]]></M_ADDR>
+		<LAT>37.4718967</LAT>
+		<LNG>126.9335865</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>삼익패션타운</M_NAME>
+		<M_ADDR><![CDATA[남창동 5]]></M_ADDR>
+		<LAT>37.5601407</LAT>
+		<LNG>126.9789572</LNG>
+	</row>
+	<row>
+		<M_CODE>9</M_CODE>
+		<GUNAME>노원구</GUNAME>
+		<M_NAME>상계시장</M_NAME>
+		<M_ADDR><![CDATA[상계동 95-3]]></M_ADDR>
+		<LAT>37.6649354</LAT>
+		<LNG>127.0778111</LNG>
+	</row>
+	<row>
+		<M_CODE>9</M_CODE>
+		<GUNAME>노원구</GUNAME>
+		<M_NAME>상계중앙시장</M_NAME>
+		<M_ADDR><![CDATA[상계동 389-641 외 49필지]]></M_ADDR>
+		<LAT>37.6598167</LAT>
+		<LNG>127.0698702</LNG>
+	</row>
+	<row>
+		<M_CODE>18</M_CODE>
+		<GUNAME>송파구</GUNAME>
+		<M_NAME>새마을시장</M_NAME>
+		<M_ADDR><![CDATA[잠실동 205-15]]></M_ADDR>
+		<LAT>37.508909</LAT>
+		<LNG>127.083835</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>새석관시장</M_NAME>
+		<M_ADDR><![CDATA[석관동 338-18]]></M_ADDR>
+		<LAT>37.6081945</LAT>
+		<LNG>127.052649</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>서교시장</M_NAME>
+		<M_ADDR><![CDATA[서교동 357-1]]></M_ADDR>
+		<LAT>37.5534305</LAT>
+		<LNG>126.9216333</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>서울약령시장</M_NAME>
+		<M_ADDR><![CDATA[제기동 1126-5]]></M_ADDR>
+		<LAT>37.5790133</LAT>
+		<LNG>127.0370317</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>서울중앙시장</M_NAME>
+		<M_ADDR><![CDATA[황학동 409]]></M_ADDR>
+		<LAT>37.566763</LAT>
+		<LNG>127.0197725</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>서원동상점가</M_NAME>
+		<M_ADDR><![CDATA[낙성대동 1612일대]]></M_ADDR>
+		<LAT>37.4794447</LAT>
+		<LNG>126.9556689</LNG>
+	</row>
+	<row>
+		<M_CODE>14</M_CODE>
+		<GUNAME>서대문구</GUNAME>
+		<M_NAME>서중시장</M_NAME>
+		<M_ADDR><![CDATA[남가좌동 286-35]]></M_ADDR>
+		<LAT>37.5712255</LAT>
+		<LNG>126.915782</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>석관시장</M_NAME>
+		<M_ADDR><![CDATA[석관동 270-1]]></M_ADDR>
+		<LAT>37.6091553</LAT>
+		<LNG>127.0602914</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>석관황금시장</M_NAME>
+		<M_ADDR><![CDATA[석관동 279-35 일대]]></M_ADDR>
+		<LAT>37.6095274</LAT>
+		<LNG>127.0614128</LNG>
+	</row>
+	<row>
+		<M_CODE>18</M_CODE>
+		<GUNAME>송파구</GUNAME>
+		<M_NAME>석촌시장</M_NAME>
+		<M_ADDR><![CDATA[석촌동 275-5]]></M_ADDR>
+		<LAT>37.5005463</LAT>
+		<LNG>127.1077776</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>성내골목시장</M_NAME>
+		<M_ADDR><![CDATA[성내동 144-16 일대]]></M_ADDR>
+		<LAT>37.5339855</LAT>
+		<LNG>127.1278144</LNG>
+	</row>
+	<row>
+		<M_CODE>12</M_CODE>
+		<GUNAME>동작구</GUNAME>
+		<M_NAME>성대시장</M_NAME>
+		<M_ADDR><![CDATA[상도동 324-1]]></M_ADDR>
+		<LAT>37.4999554</LAT>
+		<LNG>126.9317392</LNG>
+	</row>
+	<row>
+		<M_CODE>16</M_CODE>
+		<GUNAME>성동구</GUNAME>
+		<M_NAME>성동용답상가시장</M_NAME>
+		<M_ADDR><![CDATA[용답동 49-5]]></M_ADDR>
+		<LAT>37.5636</LAT>
+		<LNG>127.0524367</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>세운상가가동</M_NAME>
+		<M_ADDR><![CDATA[장사동 116-4]]></M_ADDR>
+		<LAT>37.5692642</LAT>
+		<LNG>126.9952101</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>소공지하도상가</M_NAME>
+		<M_ADDR><![CDATA[소공동 87]]></M_ADDR>
+		<LAT>37.564392</LAT>
+		<LNG>126.9799971</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>솔샘시장(미아6,7동골목시장)</M_NAME>
+		<M_ADDR><![CDATA[서울 강북구 미아동]]></M_ADDR>
+		<LAT>37.631765</LAT>
+		<LNG>127.0244275</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>송화골목시장</M_NAME>
+		<M_ADDR><![CDATA[강서구 내발산동 723-10]]></M_ADDR>
+		<LAT>37.5487266</LAT>
+		<LNG>126.835716</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>수유북부시장</M_NAME>
+		<M_ADDR><![CDATA[강북구 수유동 405-5]]></M_ADDR>
+		<LAT>37.6361825</LAT>
+		<LNG>127.0160658</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>수유시장</M_NAME>
+		<M_ADDR><![CDATA[수유1동 54-5]]></M_ADDR>
+		<LAT>37.6307791</LAT>
+		<LNG>127.0229251</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>수유재래시장</M_NAME>
+		<M_ADDR><![CDATA[수유1동 50,53,54번지일대]]></M_ADDR>
+		<LAT>37.6335691</LAT>
+		<LNG>127.0217182</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>수유전통시장(구)수유골목시장</M_NAME>
+		<M_ADDR><![CDATA[수유1동 53,54번지일대]]></M_ADDR>
+		<LAT>37.6316376</LAT>
+		<LNG>127.0218101</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>수유중앙골목시장</M_NAME>
+		<M_ADDR><![CDATA[수유3동 38번지 일대]]></M_ADDR>
+		<LAT>37.6414103</LAT>
+		<LNG>127.021061</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>수유중앙시장</M_NAME>
+		<M_ADDR><![CDATA[수유3동 32-2]]></M_ADDR>
+		<LAT>37.6403266</LAT>
+		<LNG>127.0212903</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>수유프라자</M_NAME>
+		<M_ADDR><![CDATA[수유1동 63]]></M_ADDR>
+		<LAT>37.6317024</LAT>
+		<LNG>127.0234252</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>수일시장</M_NAME>
+		<M_ADDR><![CDATA[수색동 368-24]]></M_ADDR>
+		<LAT>37.582871</LAT>
+		<LNG>126.8951696</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>숭례문상가</M_NAME>
+		<M_ADDR><![CDATA[남창동 51-1]]></M_ADDR>
+		<LAT>37.559404</LAT>
+		<LNG>126.976203</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>숭인시장</M_NAME>
+		<M_ADDR><![CDATA[미아5동 60-5]]></M_ADDR>
+		<LAT>37.6132011</LAT>
+		<LNG>127.0294257</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>시청광장 지하쇼핑센터</M_NAME>
+		<M_ADDR><![CDATA[중구 을지로1가 56]]></M_ADDR>
+		<LAT>37.5662148</LAT>
+		<LNG>126.9796594</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>신곡종합시장</M_NAME>
+		<M_ADDR><![CDATA[신월6동 575-17]]></M_ADDR>
+		<LAT>37.5183539</LAT>
+		<LNG>126.8431331</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>신길시장</M_NAME>
+		<M_ADDR><![CDATA[신길2동 221-1]]></M_ADDR>
+		<LAT>37.5111475</LAT>
+		<LNG>126.9105864</LNG>
+	</row>
+	<row>
+		<M_CODE>12</M_CODE>
+		<GUNAME>동작구</GUNAME>
+		<M_NAME>신노량진시장</M_NAME>
+		<M_ADDR><![CDATA[노량진동 307-9]]></M_ADDR>
+		<LAT>37.5082655</LAT>
+		<LNG>126.9393044</LNG>
+	</row>
+	<row>
+		<M_CODE>10</M_CODE>
+		<GUNAME>도봉구</GUNAME>
+		<M_NAME>신도봉시장</M_NAME>
+		<M_ADDR><![CDATA[도봉동611]]></M_ADDR>
+		<LAT>37.6702503</LAT>
+		<LNG>127.0411947</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>신동시장</M_NAME>
+		<M_ADDR><![CDATA[신길동259]]></M_ADDR>
+		<LAT>37.5063342</LAT>
+		<LNG>126.9095388</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>신림종합시장</M_NAME>
+		<M_ADDR><![CDATA[신사동 505-1]]></M_ADDR>
+		<LAT>37.5205192</LAT>
+		<LNG>127.0187722</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>신림중앙시장</M_NAME>
+		<M_ADDR><![CDATA[조원동 541]]></M_ADDR>
+		<LAT>37.4831492</LAT>
+		<LNG>126.9114671</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>신림현대상가</M_NAME>
+		<M_ADDR><![CDATA[서림동 1694]]></M_ADDR>
+		<LAT>37.4748983</LAT>
+		<LNG>126.932346</LNG>
+	</row>
+	<row>
+		<M_CODE>1</M_CODE>
+		<GUNAME>강남구</GUNAME>
+		<M_NAME>신사상가</M_NAME>
+		<M_ADDR><![CDATA[압구정동454]]></M_ADDR>
+		<LAT>37.5322699</LAT>
+		<LNG>127.0283743</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>신설종합시장</M_NAME>
+		<M_ADDR><![CDATA[숭인동 206-9]]></M_ADDR>
+		<LAT>37.5726504</LAT>
+		<LNG>127.0203023</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>신성시장</M_NAME>
+		<M_ADDR><![CDATA[광진구 중곡동 79-13]]></M_ADDR>
+		<LAT>37.5579689</LAT>
+		<LNG>127.0884519</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>신수시장</M_NAME>
+		<M_ADDR><![CDATA[신수동 288-1]]></M_ADDR>
+		<LAT>37.5454167</LAT>
+		<LNG>126.9355466</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>신신림시장</M_NAME>
+		<M_ADDR><![CDATA[삼성동 390-1]]></M_ADDR>
+		<LAT>37.470879</LAT>
+		<LNG>126.9321922</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>신아타운</M_NAME>
+		<M_ADDR><![CDATA[신내동 666]]></M_ADDR>
+		<LAT>37.6063993</LAT>
+		<LNG>127.0946663</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>신영사러가시장</M_NAME>
+		<M_ADDR><![CDATA[신길동255-9]]></M_ADDR>
+		<LAT>37.5065156</LAT>
+		<LNG>126.9102021</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>신영시장</M_NAME>
+		<M_ADDR><![CDATA[신월1동  113-33]]></M_ADDR>
+		<LAT>37.5332187</LAT>
+		<LNG>126.8354016</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>신원시장(신림1동)</M_NAME>
+		<M_ADDR><![CDATA[관악구 신원동 1587]]></M_ADDR>
+		<LAT>37.4831585</LAT>
+		<LNG>126.9263634</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>신월3동 골목시장</M_NAME>
+		<M_ADDR><![CDATA[신월3동 154]]></M_ADDR>
+		<LAT>37.5342062</LAT>
+		<LNG>126.8251289</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>신월6동 골목시장</M_NAME>
+		<M_ADDR><![CDATA[신월6동 574-15]]></M_ADDR>
+		<LAT>37.5176108</LAT>
+		<LNG>126.8431403</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>신월7동 골목시장</M_NAME>
+		<M_ADDR><![CDATA[신월7동 921]]></M_ADDR>
+		<LAT>37.522795</LAT>
+		<LNG>126.8329227</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>신월중앙시장</M_NAME>
+		<M_ADDR><![CDATA[화곡동 929-1]]></M_ADDR>
+		<LAT>37.5280534</LAT>
+		<LNG>126.8423446</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>신응암시장</M_NAME>
+		<M_ADDR><![CDATA[응암동427번지]]></M_ADDR>
+		<LAT>37.5937172</LAT>
+		<LNG>126.9189607</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>신정1동 골목시장</M_NAME>
+		<M_ADDR><![CDATA[신정1동 1029]]></M_ADDR>
+		<LAT>37.5205992</LAT>
+		<LNG>126.8538224</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>신정2동 골목시장</M_NAME>
+		<M_ADDR><![CDATA[신정2동 127-19]]></M_ADDR>
+		<LAT>37.5209818</LAT>
+		<LNG>126.8766371</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>신정3동 골목시장</M_NAME>
+		<M_ADDR><![CDATA[신정3동 1181-16]]></M_ADDR>
+		<LAT>37.5184502</LAT>
+		<LNG>126.8526811</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>신정제일시장</M_NAME>
+		<M_ADDR><![CDATA[신정1동 1030-6]]></M_ADDR>
+		<LAT>37.5208052</LAT>
+		<LNG>126.8536649</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>신중부시장</M_NAME>
+		<M_ADDR><![CDATA[오장동 44-12]]></M_ADDR>
+		<LAT>37.5655557</LAT>
+		<LNG>126.9994618</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>신평화패션타운</M_NAME>
+		<M_ADDR><![CDATA[신당동 217]]></M_ADDR>
+		<LAT>37.5694151</LAT>
+		<LNG>127.0115539</LNG>
+	</row>
+	<row>
+		<M_CODE>21</M_CODE>
+		<GUNAME>용산구</GUNAME>
+		<M_NAME>신흥시장</M_NAME>
+		<M_ADDR><![CDATA[용산동2가 1-480]]></M_ADDR>
+		<LAT>37.5452591</LAT>
+		<LNG>126.9850373</LNG>
+	</row>
+	<row>
+		<M_CODE>10</M_CODE>
+		<GUNAME>도봉구</GUNAME>
+		<M_NAME>쌍문역골목시장</M_NAME>
+		<M_ADDR><![CDATA[쌍문동 94-29]]></M_ADDR>
+		<LAT>37.6483532</LAT>
+		<LNG>127.0329504</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>쑥고개 시장(봉천8동)</M_NAME>
+		<M_ADDR><![CDATA[청룡동 1545 일대]]></M_ADDR>
+		<LAT>37.4785883</LAT>
+		<LNG>126.94158</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>아리랑시장</M_NAME>
+		<M_ADDR><![CDATA[정릉동966-56]]></M_ADDR>
+		<LAT>37.6026278</LAT>
+		<LNG>127.0128066</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>아현골목시장</M_NAME>
+		<M_ADDR><![CDATA[아현동 327일대]]></M_ADDR>
+		<LAT>37.5567398</LAT>
+		<LNG>126.9554835</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>암사종합시장</M_NAME>
+		<M_ADDR><![CDATA[암사동 501-17 일대]]></M_ADDR>
+		<LAT>37.5508488</LAT>
+		<LNG>127.1287687</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>약수시장</M_NAME>
+		<M_ADDR><![CDATA[신당3동 372-40]]></M_ADDR>
+		<LAT>37.5533091</LAT>
+		<LNG>127.010844</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>양남시장</M_NAME>
+		<M_ADDR><![CDATA[양평동1가 31]]></M_ADDR>
+		<LAT>37.5232146</LAT>
+		<LNG>126.8904615</LNG>
+	</row>
+	<row>
+		<M_CODE>15</M_CODE>
+		<GUNAME>서초구</GUNAME>
+		<M_NAME>양재시장</M_NAME>
+		<M_ADDR><![CDATA[양재1동 1-7,8-1]]></M_ADDR>
+		<LAT>37.4843575</LAT>
+		<LNG>127.0379452</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>양지골목시장</M_NAME>
+		<M_ADDR><![CDATA[암사동 450-5 일대]]></M_ADDR>
+		<LAT>37.5556317</LAT>
+		<LNG>127.1368026</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>양지시장</M_NAME>
+		<M_ADDR><![CDATA[응암동 754-1]]></M_ADDR>
+		<LAT>37.5867628</LAT>
+		<LNG>126.9176104</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>양지종합시장</M_NAME>
+		<M_ADDR><![CDATA[강동구 암사3동 450-3]]></M_ADDR>
+		<LAT>37.5556329</LAT>
+		<LNG>127.1365727</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>양평시장</M_NAME>
+		<M_ADDR><![CDATA[영등포구 양평동4가 161-180]]></M_ADDR>
+		<LAT>37.5369869</LAT>
+		<LNG>126.8975189</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>에리어식스</M_NAME>
+		<M_ADDR><![CDATA[신당동 776]]></M_ADDR>
+		<LAT>37.5681165</LAT>
+		<LNG>127.0119499</LNG>
+	</row>
+	<row>
+		<M_CODE>1</M_CODE>
+		<GUNAME>강남구</GUNAME>
+		<M_NAME>역삼종합시장</M_NAME>
+		<M_ADDR><![CDATA[역삼동796-22]]></M_ADDR>
+		<LAT>37.492866</LAT>
+		<LNG>127.0391023</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>역촌중앙시장</M_NAME>
+		<M_ADDR><![CDATA[갈현동 467-1]]></M_ADDR>
+		<LAT>37.6132801</LAT>
+		<LNG>126.9161603</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>연서시장</M_NAME>
+		<M_ADDR><![CDATA[불광동 310-131]]></M_ADDR>
+		<LAT>37.6194295</LAT>
+		<LNG>126.9219484</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>연신내상점가</M_NAME>
+		<M_ADDR><![CDATA[갈현동 393-15 일대]]></M_ADDR>
+		<LAT>37.6225222</LAT>
+		<LNG>126.9190746</LNG>
+	</row>
+	<row>
+		<M_CODE>14</M_CODE>
+		<GUNAME>서대문구</GUNAME>
+		<M_NAME>연희사러가</M_NAME>
+		<M_ADDR><![CDATA[연희동 131-1]]></M_ADDR>
+		<LAT>37.5671143</LAT>
+		<LNG>126.9296233</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>염리시장</M_NAME>
+		<M_ADDR><![CDATA[염리동 36-249]]></M_ADDR>
+		<LAT>37.5505872</LAT>
+		<LNG>126.9468413</LNG>
+	</row>
+	<row>
+		<M_CODE>12</M_CODE>
+		<GUNAME>동작구</GUNAME>
+		<M_NAME>영도시장</M_NAME>
+		<M_ADDR><![CDATA[상도동176]]></M_ADDR>
+		<LAT>37.5043756</LAT>
+		<LNG>126.9404131</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>영동교골목시장</M_NAME>
+		<M_ADDR><![CDATA[자양동 246-111]]></M_ADDR>
+		<LAT>37.5379791</LAT>
+		<LNG>127.0633222</LNG>
+	</row>
+	<row>
+		<M_CODE>1</M_CODE>
+		<GUNAME>강남구</GUNAME>
+		<M_NAME>영동전통시장</M_NAME>
+		<M_ADDR><![CDATA[논현동140외 44필지]]></M_ADDR>
+		<LAT>37.5099317</LAT>
+		<LNG>127.0236485</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>영등포기계상가</M_NAME>
+		<M_ADDR><![CDATA[양평동1가 247]]></M_ADDR>
+		<LAT>37.5233737</LAT>
+		<LNG>126.8862462</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>영등포로타리지하도상점가</M_NAME>
+		<M_ADDR><![CDATA[영등포구 영등포동3가 441]]></M_ADDR>
+		<LAT>37.518</LAT>
+		<LNG>126.9082</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>영등포시장기계공구상가</M_NAME>
+		<M_ADDR><![CDATA[영등포동2가 234]]></M_ADDR>
+		<LAT>37.5212005</LAT>
+		<LNG>126.9095921</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>영등포시장지하도상점가</M_NAME>
+		<M_ADDR><![CDATA[영등포동5가 20]]></M_ADDR>
+		<LAT>37.5203178</LAT>
+		<LNG>126.905811</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>영등포역지하도상점가</M_NAME>
+		<M_ADDR><![CDATA[영등포동 618]]></M_ADDR>
+		<LAT>37.5165086</LAT>
+		<LNG>126.9071731</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>영등포유통상가</M_NAME>
+		<M_ADDR><![CDATA[당산동2가 30-2]]></M_ADDR>
+		<LAT>37.5224017</LAT>
+		<LNG>126.8939244</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>영등포전통시장</M_NAME>
+		<M_ADDR><![CDATA[영등포동 2가 335]]></M_ADDR>
+		<LAT>37.5198516</LAT>
+		<LNG>126.9082668</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>영신상가</M_NAME>
+		<M_ADDR><![CDATA[영등포동5가 18]]></M_ADDR>
+		<LAT>37.5197447</LAT>
+		<LNG>126.9067913</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>영일시장</M_NAME>
+		<M_ADDR><![CDATA[문래동3가 10]]></M_ADDR>
+		<LAT>37.5160613</LAT>
+		<LNG>126.9006862</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>영진시장</M_NAME>
+		<M_ADDR><![CDATA[서교동 485-14]]></M_ADDR>
+		<LAT>37.553449</LAT>
+		<LNG>126.9126477</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>영진시장A동</M_NAME>
+		<M_ADDR><![CDATA[신길동2365]]></M_ADDR>
+		<LAT>37.5003501</LAT>
+		<LNG>126.9158572</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>영진시장B동</M_NAME>
+		<M_ADDR><![CDATA[신길동 2363]]></M_ADDR>
+		<LAT>37.5002782</LAT>
+		<LNG>126.9166015</LNG>
+	</row>
+	<row>
+		<M_CODE>14</M_CODE>
+		<GUNAME>서대문구</GUNAME>
+		<M_NAME>영천시장</M_NAME>
+		<M_ADDR><![CDATA[영천동 294외]]></M_ADDR>
+		<LAT>37.5708828</LAT>
+		<LNG>126.9610464</LNG>
+	</row>
+	<row>
+		<M_CODE>7</M_CODE>
+		<GUNAME>구로구</GUNAME>
+		<M_NAME>오류시장</M_NAME>
+		<M_ADDR><![CDATA[오류동 38-7]]></M_ADDR>
+		<LAT>37.496359</LAT>
+		<LNG>126.8436443</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>용강동 상점가</M_NAME>
+		<M_ADDR><![CDATA[용강동 40-2]]></M_ADDR>
+		<LAT>37.5396806</LAT>
+		<LNG>126.9441795</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>용두시장</M_NAME>
+		<M_ADDR><![CDATA[용두동 231-5]]></M_ADDR>
+		<LAT>37.5783896</LAT>
+		<LNG>127.0294952</LNG>
+	</row>
+	<row>
+		<M_CODE>21</M_CODE>
+		<GUNAME>용산구</GUNAME>
+		<M_NAME>용문시장</M_NAME>
+		<M_ADDR><![CDATA[용문동 42, 원효로3가 1번지]]></M_ADDR>
+		<LAT>37.536037</LAT>
+		<LNG>126.9601262</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>우리시장</M_NAME>
+		<M_ADDR><![CDATA[대림1동904-20]]></M_ADDR>
+		<LAT>37.4963098</LAT>
+		<LNG>126.9053243</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>우림골목시장</M_NAME>
+		<M_ADDR><![CDATA[망우동 463-44]]></M_ADDR>
+		<LAT>37.596658</LAT>
+		<LNG>127.0982061</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>우림시장</M_NAME>
+		<M_ADDR><![CDATA[난곡동 637-1]]></M_ADDR>
+		<LAT>37.4703259</LAT>
+		<LNG>126.9204015</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>우성상가</M_NAME>
+		<M_ADDR><![CDATA[신월7동 928-1]]></M_ADDR>
+		<LAT>37.5226486</LAT>
+		<LNG>126.8335845</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>우이골목시장</M_NAME>
+		<M_ADDR><![CDATA[수유동 270 일대]]></M_ADDR>
+		<LAT>37.6484956</LAT>
+		<LNG>127.0165578</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>우이시장</M_NAME>
+		<M_ADDR><![CDATA[수유2동 270-186]]></M_ADDR>
+		<LAT>37.6459385</LAT>
+		<LNG>127.0199794</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>원당종합시장</M_NAME>
+		<M_ADDR><![CDATA[인헌동 1638-20]]></M_ADDR>
+		<LAT>37.4743935</LAT>
+		<LNG>126.9658728</LNG>
+	</row>
+	<row>
+		<M_CODE>19</M_CODE>
+		<GUNAME>양천구</GUNAME>
+		<M_NAME>월정로시장</M_NAME>
+		<M_ADDR><![CDATA[신월1동 114-1]]></M_ADDR>
+		<LAT>37.5334512</LAT>
+		<LNG>126.8356732</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>유영시장</M_NAME>
+		<M_ADDR><![CDATA[망우동 530-3]]></M_ADDR>
+		<LAT>37.5914012</LAT>
+		<LNG>127.0966931</LNG>
+	</row>
+	<row>
+		<M_CODE>14</M_CODE>
+		<GUNAME>서대문구</GUNAME>
+		<M_NAME>유진상가</M_NAME>
+		<M_ADDR><![CDATA[홍은동 48-84]]></M_ADDR>
+		<LAT>37.5915874</LAT>
+		<LNG>126.9429081</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>을지입구지하상가</M_NAME>
+		<M_ADDR><![CDATA[을지로2가 197]]></M_ADDR>
+		<LAT>37.565893</LAT>
+		<LNG>126.9838088</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>을지지하보도상가</M_NAME>
+		<M_ADDR><![CDATA[을지로2가 161,을지로4가 234-1,을지로5가 28-1]]></M_ADDR>
+		<LAT>37.5657876</LAT>
+		<LNG>126.9872071</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>응암시장</M_NAME>
+		<M_ADDR><![CDATA[응암동 427-126]]></M_ADDR>
+		<LAT>37.5943756</LAT>
+		<LNG>126.9185315</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>이경시장</M_NAME>
+		<M_ADDR><![CDATA[휘경동 151-3]]></M_ADDR>
+		<LAT>37.5945803</LAT>
+		<LNG>127.0660036</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>이문제일시장</M_NAME>
+		<M_ADDR><![CDATA[이문동 250-1]]></M_ADDR>
+		<LAT>37.6044569</LAT>
+		<LNG>127.0624305</LNG>
+	</row>
+	<row>
+		<M_CODE>21</M_CODE>
+		<GUNAME>용산구</GUNAME>
+		<M_NAME>이촌종합시장</M_NAME>
+		<M_ADDR><![CDATA[이촌동 301-7~301-154]]></M_ADDR>
+		<LAT>37.5195958</LAT>
+		<LNG>126.9786805</LNG>
+	</row>
+	<row>
+		<M_CODE>21</M_CODE>
+		<GUNAME>용산구</GUNAME>
+		<M_NAME>이태원시장</M_NAME>
+		<M_ADDR><![CDATA[이태원동 56-9]]></M_ADDR>
+		<LAT>37.5338332</LAT>
+		<LNG>126.9900363</LNG>
+	</row>
+	<row>
+		<M_CODE>14</M_CODE>
+		<GUNAME>서대문구</GUNAME>
+		<M_NAME>인왕시장</M_NAME>
+		<M_ADDR><![CDATA[홍제동 298]]></M_ADDR>
+		<LAT>37.590853</LAT>
+		<LNG>126.9436677</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>인헌시장(봉천11동)</M_NAME>
+		<M_ADDR><![CDATA[인헌동 1638-22]]></M_ADDR>
+		<LAT>37.4741053</LAT>
+		<LNG>126.9659882</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>인현시장</M_NAME>
+		<M_ADDR><![CDATA[중구 인현동2가 192]]></M_ADDR>
+		<LAT>37.5639577</LAT>
+		<LNG>126.9952871</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>자양골목시장</M_NAME>
+		<M_ADDR><![CDATA[자양동 631-18]]></M_ADDR>
+		<LAT>37.5337798</LAT>
+		<LNG>127.0815575</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>자양종합시장</M_NAME>
+		<M_ADDR><![CDATA[광진구 자양동 602 ]]></M_ADDR>
+		<LAT>37.5319839</LAT>
+		<LNG>127.0764006</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>자유상가</M_NAME>
+		<M_ADDR><![CDATA[회현동1가 202]]></M_ADDR>
+		<LAT>37.5611858</LAT>
+		<LNG>126.9800889</LNG>
+	</row>
+	<row>
+		<M_CODE>3</M_CODE>
+		<GUNAME>강북구</GUNAME>
+		<M_NAME>장미원골목시장</M_NAME>
+		<M_ADDR><![CDATA[수유동 316번지 일대]]></M_ADDR>
+		<LAT>37.6448943</LAT>
+		<LNG>127.0163214</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>장신구 특화거리 상점가</M_NAME>
+		<M_ADDR><![CDATA[성내1동 545-6 일대]]></M_ADDR>
+		<LAT>37.5273142</LAT>
+		<LNG>127.1291713</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>장위골목시장</M_NAME>
+		<M_ADDR><![CDATA[장위동 68-225 일대]]></M_ADDR>
+		<LAT>37.6120468</LAT>
+		<LNG>127.0506673</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>장위시장</M_NAME>
+		<M_ADDR><![CDATA[장위동 238-496]]></M_ADDR>
+		<LAT>37.6131151</LAT>
+		<LNG>127.0507287</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>전곡시장</M_NAME>
+		<M_ADDR><![CDATA[장안동 108-5]]></M_ADDR>
+		<LAT>37.5778682</LAT>
+		<LNG>127.0685352</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>전농로터리시장</M_NAME>
+		<M_ADDR><![CDATA[전농동 295-52]]></M_ADDR>
+		<LAT>37.5780176</LAT>
+		<LNG>127.0570456</LNG>
+	</row>
+	<row>
+		<M_CODE>17</M_CODE>
+		<GUNAME>성북구</GUNAME>
+		<M_NAME>정릉시장</M_NAME>
+		<M_ADDR><![CDATA[정릉동 400-15호 일대]]></M_ADDR>
+		<LAT>37.6084606</LAT>
+		<LNG>127.0094845</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>제기시장</M_NAME>
+		<M_ADDR><![CDATA[제기동 135-90]]></M_ADDR>
+		<LAT>37.5862453</LAT>
+		<LNG>127.034831</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>제일상가</M_NAME>
+		<M_ADDR><![CDATA[영등포동5가18]]></M_ADDR>
+		<LAT>37.5197447</LAT>
+		<LNG>126.9067913</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>제일시장</M_NAME>
+		<M_ADDR><![CDATA[대조동 14-1,21]]></M_ADDR>
+		<LAT>37.6105204</LAT>
+		<LNG>126.9292712</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>제일평화시장</M_NAME>
+		<M_ADDR><![CDATA[신당동 775]]></M_ADDR>
+		<LAT>37.5685064</LAT>
+		<LNG>127.0113229</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>조광시장</M_NAME>
+		<M_ADDR><![CDATA[영등포동6가 121-9]]></M_ADDR>
+		<LAT>37.5215175</LAT>
+		<LNG>126.9019866</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>조양시장</M_NAME>
+		<M_ADDR><![CDATA[광진구 자양동 6-20]]></M_ADDR>
+		<LAT>37.5388709</LAT>
+		<LNG>127.0673653</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>조원동 펭귄시장(신림8동)</M_NAME>
+		<M_ADDR><![CDATA[조원동 541-6]]></M_ADDR>
+		<LAT>37.4828486</LAT>
+		<LNG>126.9109691</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>종각지하쇼핑센터</M_NAME>
+		<M_ADDR><![CDATA[종로2가 9 ]]></M_ADDR>
+		<LAT>37.5705876</LAT>
+		<LNG>126.9852752</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>종로4가지하상가</M_NAME>
+		<M_ADDR><![CDATA[종로구 종로4가 121]]></M_ADDR>
+		<LAT>37.5706222</LAT>
+		<LNG>126.9981414</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>종로5가지하상가</M_NAME>
+		<M_ADDR><![CDATA[종로5가 138 ]]></M_ADDR>
+		<LAT>37.5707106</LAT>
+		<LNG>127.0016123</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>종로신진시장</M_NAME>
+		<M_ADDR><![CDATA[종로5가 225-21]]></M_ADDR>
+		<LAT>37.5701987</LAT>
+		<LNG>127.004913</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>중곡제일골목시장</M_NAME>
+		<M_ADDR><![CDATA[중곡동 221-6]]></M_ADDR>
+		<LAT>37.5637838</LAT>
+		<LNG>127.0821644</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>중곡제일시장</M_NAME>
+		<M_ADDR><![CDATA[광진구 중곡동 229-5번지]]></M_ADDR>
+		<LAT>37.5639007</LAT>
+		<LNG>127.0812815</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>중랑교종합상가</M_NAME>
+		<M_ADDR><![CDATA[면목동 129-9]]></M_ADDR>
+		<LAT>37.5907301</LAT>
+		<LNG>127.0867104</LNG>
+	</row>
+	<row>
+		<M_CODE>5</M_CODE>
+		<GUNAME>관악구</GUNAME>
+		<M_NAME>중부시장</M_NAME>
+		<M_ADDR><![CDATA[행운동 34-9]]></M_ADDR>
+		<LAT>37.4845037</LAT>
+		<LNG>126.9558024</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>중부시장</M_NAME>
+		<M_ADDR><![CDATA[오장동 139-11]]></M_ADDR>
+		<LAT>37.5649412</LAT>
+		<LNG>127.0018001</LNG>
+	</row>
+	<row>
+		<M_CODE>20</M_CODE>
+		<GUNAME>영등포구</GUNAME>
+		<M_NAME>중앙노점</M_NAME>
+		<M_ADDR><![CDATA[영등포동5가 20]]></M_ADDR>
+		<LAT>37.5203178</LAT>
+		<LNG>126.905811</LNG>
+	</row>
+	<row>
+		<M_CODE>22</M_CODE>
+		<GUNAME>은평구</GUNAME>
+		<M_NAME>증산종합시장</M_NAME>
+		<M_ADDR><![CDATA[증산동 184-9]]></M_ADDR>
+		<LAT>37.5814436</LAT>
+		<LNG>126.9050573</LNG>
+	</row>
+	<row>
+		<M_CODE>10</M_CODE>
+		<GUNAME>도봉구</GUNAME>
+		<M_NAME>창동골목시장</M_NAME>
+		<M_ADDR><![CDATA[창동 569]]></M_ADDR>
+		<LAT>37.6399193</LAT>
+		<LNG>127.0395248</LNG>
+	</row>
+	<row>
+		<M_CODE>10</M_CODE>
+		<GUNAME>도봉구</GUNAME>
+		<M_NAME>창동신창시장</M_NAME>
+		<M_ADDR><![CDATA[창동 581]]></M_ADDR>
+		<LAT>37.640302</LAT>
+		<LNG>127.0388319</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>창신골목시장</M_NAME>
+		<M_ADDR><![CDATA[창신동 142-33]]></M_ADDR>
+		<LAT>37.5727942</LAT>
+		<LNG>127.0118726</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>천호시장</M_NAME>
+		<M_ADDR><![CDATA[천호동 421-1]]></M_ADDR>
+		<LAT>37.5406471</LAT>
+		<LNG>127.1274741</LNG>
+	</row>
+	<row>
+		<M_CODE>2</M_CODE>
+		<GUNAME>강동구</GUNAME>
+		<M_NAME>천호신시장</M_NAME>
+		<M_ADDR><![CDATA[천호동 422-2]]></M_ADDR>
+		<LAT>37.5415887</LAT>
+		<LNG>127.1280896</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>청계5가 지하쇼핑센터</M_NAME>
+		<M_ADDR><![CDATA[방산동 4-11]]></M_ADDR>
+		<LAT>37.5692232</LAT>
+		<LNG>127.0023416</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>청계6가 지하도상가</M_NAME>
+		<M_ADDR><![CDATA[을지로6가 18-11]]></M_ADDR>
+		<LAT>37.5680321</LAT>
+		<LNG>127.0070996</LNG>
+	</row>
+	<row>
+		<M_CODE>1</M_CODE>
+		<GUNAME>강남구</GUNAME>
+		<M_NAME>청담삼익시장</M_NAME>
+		<M_ADDR><![CDATA[청담동134-20]]></M_ADDR>
+		<LAT>37.5223264</LAT>
+		<LNG>127.0577476</LNG>
+	</row>
+	<row>
+		<M_CODE>1</M_CODE>
+		<GUNAME>강남구</GUNAME>
+		<M_NAME>청담제일시장</M_NAME>
+		<M_ADDR><![CDATA[청담동122]]></M_ADDR>
+		<LAT>37.5264166</LAT>
+		<LNG>127.0496405</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>청량리수산시장</M_NAME>
+		<M_ADDR><![CDATA[용두동 20]]></M_ADDR>
+		<LAT>37.5780466</LAT>
+		<LNG>127.040921</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>청량리전통시장</M_NAME>
+		<M_ADDR><![CDATA[청량리동 777]]></M_ADDR>
+		<LAT>37.5807834</LAT>
+		<LNG>127.0433441</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>청량리종합시장</M_NAME>
+		<M_ADDR><![CDATA[제기동 998]]></M_ADDR>
+		<LAT>37.5793146</LAT>
+		<LNG>127.0408054</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>청량리청과물시장</M_NAME>
+		<M_ADDR><![CDATA[제기동 635-35]]></M_ADDR>
+		<LAT>37.579685</LAT>
+		<LNG>127.0424117</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>청평화시장</M_NAME>
+		<M_ADDR><![CDATA[신당동 217-91]]></M_ADDR>
+		<LAT>37.5694469</LAT>
+		<LNG>127.0149162</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>충신시장</M_NAME>
+		<M_ADDR><![CDATA[충신동 35-8]]></M_ADDR>
+		<LAT>37.5748321</LAT>
+		<LNG>127.0054164</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>태능시장</M_NAME>
+		<M_ADDR><![CDATA[중화동 314-1]]></M_ADDR>
+		<LAT>37.5992969</LAT>
+		<LNG>127.0773964</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>통인시장</M_NAME>
+		<M_ADDR><![CDATA[종로구 통인동 44]]></M_ADDR>
+		<LAT>37.5808176</LAT>
+		<LNG>126.9687083</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>통일상가</M_NAME>
+		<M_ADDR><![CDATA[을지로6가 17]]></M_ADDR>
+		<LAT>37.569131</LAT>
+		<LNG>127.0063144</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>평화시장</M_NAME>
+		<M_ADDR><![CDATA[을지로6가 17]]></M_ADDR>
+		<LAT>37.569131</LAT>
+		<LNG>127.0063144</LNG>
+	</row>
+	<row>
+		<M_CODE>14</M_CODE>
+		<GUNAME>서대문구</GUNAME>
+		<M_NAME>포방터시장</M_NAME>
+		<M_ADDR><![CDATA[홍은동 9-160]]></M_ADDR>
+		<LAT>37.5986596</LAT>
+		<LNG>126.9490927</LNG>
+	</row>
+	<row>
+		<M_CODE>8</M_CODE>
+		<GUNAME>금천구</GUNAME>
+		<M_NAME>푸른터시장</M_NAME>
+		<M_ADDR><![CDATA[금천구 독산동 957]]></M_ADDR>
+		<LAT>37.4780455</LAT>
+		<LNG>126.9013969</LNG>
+	</row>
+	<row>
+		<M_CODE>18</M_CODE>
+		<GUNAME>송파구</GUNAME>
+		<M_NAME>풍납시장</M_NAME>
+		<M_ADDR><![CDATA[풍납동 152-81일대]]></M_ADDR>
+		<LAT>37.5371686</LAT>
+		<LNG>127.1211164</LNG>
+	</row>
+	<row>
+		<M_CODE>25</M_CODE>
+		<GUNAME>중랑구</GUNAME>
+		<M_NAME>한남프라자</M_NAME>
+		<M_ADDR><![CDATA[상봉동 107-6]]></M_ADDR>
+		<LAT>37.5936413</LAT>
+		<LNG>127.0867267</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>한아름시장</M_NAME>
+		<M_ADDR><![CDATA[화양동 10-1]]></M_ADDR>
+		<LAT>37.5435424</LAT>
+		<LNG>127.0698568</LNG>
+	</row>
+	<row>
+		<M_CODE>16</M_CODE>
+		<GUNAME>성동구</GUNAME>
+		<M_NAME>한양시장</M_NAME>
+		<M_ADDR><![CDATA[행당동 19-54]]></M_ADDR>
+		<LAT>37.5594625</LAT>
+		<LNG>127.0404969</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>한일상가</M_NAME>
+		<M_ADDR><![CDATA[종로5가 314-7]]></M_ADDR>
+		<LAT>37.5700469</LAT>
+		<LNG>127.0030004</LNG>
+	</row>
+	<row>
+		<M_CODE>23</M_CODE>
+		<GUNAME>종로구</GUNAME>
+		<M_NAME>한일지하상가(마전교지하쇼핑센터)</M_NAME>
+		<M_ADDR><![CDATA[종로5가 398 ]]></M_ADDR>
+		<LAT>37.5702531</LAT>
+		<LNG>127.0016636</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>합정시장</M_NAME>
+		<M_ADDR><![CDATA[합정동 375-1]]></M_ADDR>
+		<LAT>37.5482105</LAT>
+		<LNG>126.9131162</LNG>
+	</row>
+	<row>
+		<M_CODE>16</M_CODE>
+		<GUNAME>성동구</GUNAME>
+		<M_NAME>행당시장</M_NAME>
+		<M_ADDR><![CDATA[행당동 298-86,118]]></M_ADDR>
+		<LAT>37.5605858</LAT>
+		<LNG>127.0325889</LNG>
+	</row>
+	<row>
+		<M_CODE>8</M_CODE>
+		<GUNAME>금천구</GUNAME>
+		<M_NAME>현대시장</M_NAME>
+		<M_ADDR><![CDATA[시흥동 856~888]]></M_ADDR>
+		<LAT>37.4598194</LAT>
+		<LNG>126.9043195</LNG>
+	</row>
+	<row>
+		<M_CODE>13</M_CODE>
+		<GUNAME>마포구</GUNAME>
+		<M_NAME>홍대 걷고싶은 거리</M_NAME>
+		<M_ADDR><![CDATA[동교동 163~170, 서교동 330-347 일대]]></M_ADDR>
+		<LAT>37.5552071</LAT>
+		<LNG>126.9231251</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>화곡본동시장</M_NAME>
+		<M_ADDR><![CDATA[화곡동 98-45]]></M_ADDR>
+		<LAT>37.5428681</LAT>
+		<LNG>126.8441146</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>화곡중앙골목시장</M_NAME>
+		<M_ADDR><![CDATA[강서구 화곡동 370-37]]></M_ADDR>
+		<LAT>37.5350523</LAT>
+		<LNG>126.8393168</LNG>
+	</row>
+	<row>
+		<M_CODE>4</M_CODE>
+		<GUNAME>강서구</GUNAME>
+		<M_NAME>화곡중앙시장</M_NAME>
+		<M_ADDR><![CDATA[화곡동 370-76]]></M_ADDR>
+		<LAT>37.5353395</LAT>
+		<LNG>126.8394669</LNG>
+	</row>
+	<row>
+		<M_CODE>6</M_CODE>
+		<GUNAME>광진구</GUNAME>
+		<M_NAME>화양제일골목시장</M_NAME>
+		<M_ADDR><![CDATA[화양동 34-72]]></M_ADDR>
+		<LAT>37.5434816</LAT>
+		<LNG>127.0692516</LNG>
+	</row>
+	<row>
+		<M_CODE>11</M_CODE>
+		<GUNAME>동대문구</GUNAME>
+		<M_NAME>회기시장</M_NAME>
+		<M_ADDR><![CDATA[회기동 57-22]]></M_ADDR>
+		<LAT>37.5909365</LAT>
+		<LNG>127.0549399</LNG>
+	</row>
+	<row>
+		<M_CODE>24</M_CODE>
+		<GUNAME>중구</GUNAME>
+		<M_NAME>회현지하도상가</M_NAME>
+		<M_ADDR><![CDATA[중구 회현동2가]]></M_ADDR>
+		<LAT>37.5572864</LAT>
+		<LNG>126.9793216</LNG>
+	</row>
+	<row>
+		<M_CODE>21</M_CODE>
+		<GUNAME>용산구</GUNAME>
+		<M_NAME>후암시장</M_NAME>
+		<M_ADDR><![CDATA[후암동 103]]></M_ADDR>
+		<LAT>37.550008</LAT>
+		<LNG>126.9765534</LNG>
+	</row>
+</ListTraditionalMarket>
+
