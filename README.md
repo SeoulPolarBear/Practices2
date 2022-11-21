@@ -11,6 +11,7 @@
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov14_1_2_Python">Python DB Connect</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov14_2_2_Python">Python DB and file</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov15_1_2_Python">Python DB and file2</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov16_1_2_WebCrawling">Python Crawling, Beautiful Soup</a></li>
  </ol>
  
  ### 2022-the first half(Python)
