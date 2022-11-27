@@ -14,6 +14,8 @@
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov16_1_2_WebCrawling">Python Crawling, Beautiful Soup</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov17_1_Matplotlib">Python Matplotlib</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov18_1_2_Python">Python DB and file3</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov21_2_Matplotlib">Python matplotlib2</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov22_1_2_Matplotlib">Python matplotlib3</a></li>
  </ol>
  
  ### 2022-the first half(Python)
