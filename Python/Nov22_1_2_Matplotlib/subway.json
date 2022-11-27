@@ -1,0 +1,6101 @@
+{
+	"CardSubwayPayFree": {
+		"list_total_count": 609,
+		"RESULT": {
+			"CODE": "INFO-000",
+			"MESSAGE": "정상 처리되었습니다"
+		},
+		"row": [
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "1호선",
+				"SUB_STA_NM": "신설동",
+				"PAY_RIDE_NUM": 261608.0,
+				"FREE_RIDE_NUM": 101018.0,
+				"PAY_ALIGHT_NUM": 255008.0,
+				"FREE_ALIGHT_NUM": 97747.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "1호선",
+				"SUB_STA_NM": "동대문",
+				"PAY_RIDE_NUM": 203911.0,
+				"FREE_RIDE_NUM": 104871.0,
+				"PAY_ALIGHT_NUM": 186986.0,
+				"FREE_ALIGHT_NUM": 102595.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "1호선",
+				"SUB_STA_NM": "시청",
+				"PAY_RIDE_NUM": 504322.0,
+				"FREE_RIDE_NUM": 65715.0,
+				"PAY_ALIGHT_NUM": 504450.0,
+				"FREE_ALIGHT_NUM": 65083.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "1호선",
+				"SUB_STA_NM": "동묘앞",
+				"PAY_RIDE_NUM": 112756.0,
+				"FREE_RIDE_NUM": 122515.0,
+				"PAY_ALIGHT_NUM": 119021.0,
+				"FREE_ALIGHT_NUM": 123248.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "1호선",
+				"SUB_STA_NM": "서울역",
+				"PAY_RIDE_NUM": 1023496.0,
+				"FREE_RIDE_NUM": 158933.0,
+				"PAY_ALIGHT_NUM": 992919.0,
+				"FREE_ALIGHT_NUM": 149469.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "1호선",
+				"SUB_STA_NM": "제기동",
+				"PAY_RIDE_NUM": 217819.0,
+				"FREE_RIDE_NUM": 226280.0,
+				"PAY_ALIGHT_NUM": 208609.0,
+				"FREE_ALIGHT_NUM": 241771.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "1호선",
+				"SUB_STA_NM": "종각",
+				"PAY_RIDE_NUM": 755897.0,
+				"FREE_RIDE_NUM": 116282.0,
+				"PAY_ALIGHT_NUM": 740655.0,
+				"FREE_ALIGHT_NUM": 108719.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "1호선",
+				"SUB_STA_NM": "종로3가",
+				"PAY_RIDE_NUM": 407934.0,
+				"FREE_RIDE_NUM": 249355.0,
+				"PAY_ALIGHT_NUM": 375067.0,
+				"FREE_ALIGHT_NUM": 234742.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "1호선",
+				"SUB_STA_NM": "종로5가",
+				"PAY_RIDE_NUM": 359249.0,
+				"FREE_RIDE_NUM": 220044.0,
+				"PAY_ALIGHT_NUM": 362984.0,
+				"FREE_ALIGHT_NUM": 210306.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "1호선",
+				"SUB_STA_NM": "청량리(서울시립대입구)",
+				"PAY_RIDE_NUM": 310669.0,
+				"FREE_RIDE_NUM": 220908.0,
+				"PAY_ALIGHT_NUM": 311345.0,
+				"FREE_ALIGHT_NUM": 221568.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "한양대",
+				"PAY_RIDE_NUM": 190894.0,
+				"FREE_RIDE_NUM": 11090.0,
+				"PAY_ALIGHT_NUM": 203182.0,
+				"FREE_ALIGHT_NUM": 11286.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "영등포구청",
+				"PAY_RIDE_NUM": 513079.0,
+				"FREE_RIDE_NUM": 91349.0,
+				"PAY_ALIGHT_NUM": 525031.0,
+				"FREE_ALIGHT_NUM": 89727.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "양천구청",
+				"PAY_RIDE_NUM": 139297.0,
+				"FREE_RIDE_NUM": 39410.0,
+				"PAY_ALIGHT_NUM": 147569.0,
+				"FREE_ALIGHT_NUM": 40048.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "뚝섬",
+				"PAY_RIDE_NUM": 527139.0,
+				"FREE_RIDE_NUM": 52803.0,
+				"PAY_ALIGHT_NUM": 561612.0,
+				"FREE_ALIGHT_NUM": 53527.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "당산",
+				"PAY_RIDE_NUM": 432468.0,
+				"FREE_RIDE_NUM": 50543.0,
+				"PAY_ALIGHT_NUM": 503801.0,
+				"FREE_ALIGHT_NUM": 55349.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "아현",
+				"PAY_RIDE_NUM": 216985.0,
+				"FREE_RIDE_NUM": 55583.0,
+				"PAY_ALIGHT_NUM": 208737.0,
+				"FREE_ALIGHT_NUM": 55013.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "대림(구로구청)",
+				"PAY_RIDE_NUM": 544247.0,
+				"FREE_RIDE_NUM": 101581.0,
+				"PAY_ALIGHT_NUM": 555254.0,
+				"FREE_ALIGHT_NUM": 105474.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "종합운동장",
+				"PAY_RIDE_NUM": 157245.0,
+				"FREE_RIDE_NUM": 33220.0,
+				"PAY_ALIGHT_NUM": 171325.0,
+				"FREE_ALIGHT_NUM": 34300.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "잠실새내",
+				"PAY_RIDE_NUM": 479495.0,
+				"FREE_RIDE_NUM": 89134.0,
+				"PAY_ALIGHT_NUM": 483488.0,
+				"FREE_ALIGHT_NUM": 89009.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "서초",
+				"PAY_RIDE_NUM": 497366.0,
+				"FREE_RIDE_NUM": 64735.0,
+				"PAY_ALIGHT_NUM": 476180.0,
+				"FREE_ALIGHT_NUM": 64091.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "방배",
+				"PAY_RIDE_NUM": 370160.0,
+				"FREE_RIDE_NUM": 63384.0,
+				"PAY_ALIGHT_NUM": 391002.0,
+				"FREE_ALIGHT_NUM": 62418.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "잠실나루",
+				"PAY_RIDE_NUM": 295802.0,
+				"FREE_RIDE_NUM": 69511.0,
+				"PAY_ALIGHT_NUM": 284133.0,
+				"FREE_ALIGHT_NUM": 69653.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "왕십리(성동구청)",
+				"PAY_RIDE_NUM": 400478.0,
+				"FREE_RIDE_NUM": 44846.0,
+				"PAY_ALIGHT_NUM": 339296.0,
+				"FREE_ALIGHT_NUM": 38549.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "삼성(무역센터)",
+				"PAY_RIDE_NUM": 1316032.0,
+				"FREE_RIDE_NUM": 105062.0,
+				"PAY_ALIGHT_NUM": 1329333.0,
+				"FREE_ALIGHT_NUM": 96936.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "교대(법원.검찰청)",
+				"PAY_RIDE_NUM": 722883.0,
+				"FREE_RIDE_NUM": 127929.0,
+				"PAY_ALIGHT_NUM": 820071.0,
+				"FREE_ALIGHT_NUM": 143147.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "이대",
+				"PAY_RIDE_NUM": 311527.0,
+				"FREE_RIDE_NUM": 40478.0,
+				"PAY_ALIGHT_NUM": 326661.0,
+				"FREE_ALIGHT_NUM": 42304.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "을지로4가",
+				"PAY_RIDE_NUM": 255754.0,
+				"FREE_RIDE_NUM": 76676.0,
+				"PAY_ALIGHT_NUM": 254756.0,
+				"FREE_ALIGHT_NUM": 74906.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "용답",
+				"PAY_RIDE_NUM": 59726.0,
+				"FREE_RIDE_NUM": 15472.0,
+				"PAY_ALIGHT_NUM": 59331.0,
+				"FREE_ALIGHT_NUM": 15432.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "충정로(경기대입구)",
+				"PAY_RIDE_NUM": 215278.0,
+				"FREE_RIDE_NUM": 42287.0,
+				"PAY_ALIGHT_NUM": 231078.0,
+				"FREE_ALIGHT_NUM": 42115.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "동대문역사문화공원(DDP)",
+				"PAY_RIDE_NUM": 286952.0,
+				"FREE_RIDE_NUM": 48376.0,
+				"PAY_ALIGHT_NUM": 327550.0,
+				"FREE_ALIGHT_NUM": 51074.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "성수",
+				"PAY_RIDE_NUM": 857242.0,
+				"FREE_RIDE_NUM": 95402.0,
+				"PAY_ALIGHT_NUM": 938218.0,
+				"FREE_ALIGHT_NUM": 97223.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "신정네거리",
+				"PAY_RIDE_NUM": 213219.0,
+				"FREE_RIDE_NUM": 59590.0,
+				"PAY_ALIGHT_NUM": 220374.0,
+				"FREE_ALIGHT_NUM": 60611.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "신설동",
+				"PAY_RIDE_NUM": 66641.0,
+				"FREE_RIDE_NUM": 27957.0,
+				"PAY_ALIGHT_NUM": 65309.0,
+				"FREE_ALIGHT_NUM": 29919.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "문래",
+				"PAY_RIDE_NUM": 486820.0,
+				"FREE_RIDE_NUM": 67482.0,
+				"PAY_ALIGHT_NUM": 501625.0,
+				"FREE_ALIGHT_NUM": 66648.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "낙성대(강감찬)",
+				"PAY_RIDE_NUM": 650182.0,
+				"FREE_RIDE_NUM": 90234.0,
+				"PAY_ALIGHT_NUM": 619644.0,
+				"FREE_ALIGHT_NUM": 92040.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "을지로입구",
+				"PAY_RIDE_NUM": 982885.0,
+				"FREE_RIDE_NUM": 86779.0,
+				"PAY_ALIGHT_NUM": 988632.0,
+				"FREE_ALIGHT_NUM": 80990.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "강변(동서울터미널)",
+				"PAY_RIDE_NUM": 743776.0,
+				"FREE_RIDE_NUM": 94027.0,
+				"PAY_ALIGHT_NUM": 720856.0,
+				"FREE_ALIGHT_NUM": 90651.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "홍대입구",
+				"PAY_RIDE_NUM": 1499404.0,
+				"FREE_RIDE_NUM": 82749.0,
+				"PAY_ALIGHT_NUM": 1574086.0,
+				"FREE_ALIGHT_NUM": 78997.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "강남",
+				"PAY_RIDE_NUM": 2039844.0,
+				"FREE_RIDE_NUM": 153264.0,
+				"PAY_ALIGHT_NUM": 2034226.0,
+				"FREE_ALIGHT_NUM": 137102.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "도림천",
+				"PAY_RIDE_NUM": 29636.0,
+				"FREE_RIDE_NUM": 6423.0,
+				"PAY_ALIGHT_NUM": 30387.0,
+				"FREE_ALIGHT_NUM": 7049.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "구의(광진구청)",
+				"PAY_RIDE_NUM": 543750.0,
+				"FREE_RIDE_NUM": 89370.0,
+				"PAY_ALIGHT_NUM": 532520.0,
+				"FREE_ALIGHT_NUM": 91337.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "을지로3가",
+				"PAY_RIDE_NUM": 506065.0,
+				"FREE_RIDE_NUM": 67899.0,
+				"PAY_ALIGHT_NUM": 507522.0,
+				"FREE_ALIGHT_NUM": 66751.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "시청",
+				"PAY_RIDE_NUM": 540680.0,
+				"FREE_RIDE_NUM": 45989.0,
+				"PAY_ALIGHT_NUM": 509452.0,
+				"FREE_ALIGHT_NUM": 41650.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "신촌",
+				"PAY_RIDE_NUM": 791705.0,
+				"FREE_RIDE_NUM": 103893.0,
+				"PAY_ALIGHT_NUM": 810826.0,
+				"FREE_ALIGHT_NUM": 100750.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "신림",
+				"PAY_RIDE_NUM": 1539965.0,
+				"FREE_RIDE_NUM": 193877.0,
+				"PAY_ALIGHT_NUM": 1480893.0,
+				"FREE_ALIGHT_NUM": 197464.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "신대방",
+				"PAY_RIDE_NUM": 604102.0,
+				"FREE_RIDE_NUM": 107709.0,
+				"PAY_ALIGHT_NUM": 581850.0,
+				"FREE_ALIGHT_NUM": 109601.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "잠실(송파구청)",
+				"PAY_RIDE_NUM": 1818728.0,
+				"FREE_RIDE_NUM": 157744.0,
+				"PAY_ALIGHT_NUM": 1800757.0,
+				"FREE_ALIGHT_NUM": 150693.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "봉천",
+				"PAY_RIDE_NUM": 514606.0,
+				"FREE_RIDE_NUM": 121295.0,
+				"PAY_ALIGHT_NUM": 466119.0,
+				"FREE_ALIGHT_NUM": 121944.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "서울대입구(관악구청)",
+				"PAY_RIDE_NUM": 1136453.0,
+				"FREE_RIDE_NUM": 158698.0,
+				"PAY_ALIGHT_NUM": 1118181.0,
+				"FREE_ALIGHT_NUM": 151755.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "역삼",
+				"PAY_RIDE_NUM": 1149888.0,
+				"FREE_RIDE_NUM": 133013.0,
+				"PAY_ALIGHT_NUM": 1284203.0,
+				"FREE_ALIGHT_NUM": 133875.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "건대입구",
+				"PAY_RIDE_NUM": 893632.0,
+				"FREE_RIDE_NUM": 77515.0,
+				"PAY_ALIGHT_NUM": 962717.0,
+				"FREE_ALIGHT_NUM": 81692.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "합정",
+				"PAY_RIDE_NUM": 798384.0,
+				"FREE_RIDE_NUM": 58214.0,
+				"PAY_ALIGHT_NUM": 850900.0,
+				"FREE_ALIGHT_NUM": 57604.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "선릉",
+				"PAY_RIDE_NUM": 1220815.0,
+				"FREE_RIDE_NUM": 187935.0,
+				"PAY_ALIGHT_NUM": 1087432.0,
+				"FREE_ALIGHT_NUM": 165934.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "용두(동대문구청)",
+				"PAY_RIDE_NUM": 44326.0,
+				"FREE_RIDE_NUM": 20365.0,
+				"PAY_ALIGHT_NUM": 44259.0,
+				"FREE_ALIGHT_NUM": 21497.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "신당",
+				"PAY_RIDE_NUM": 291309.0,
+				"FREE_RIDE_NUM": 82439.0,
+				"PAY_ALIGHT_NUM": 306517.0,
+				"FREE_ALIGHT_NUM": 84251.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "구로디지털단지",
+				"PAY_RIDE_NUM": 1423173.0,
+				"FREE_RIDE_NUM": 146156.0,
+				"PAY_ALIGHT_NUM": 1419575.0,
+				"FREE_ALIGHT_NUM": 148585.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "신도림",
+				"PAY_RIDE_NUM": 1133288.0,
+				"FREE_RIDE_NUM": 162357.0,
+				"PAY_ALIGHT_NUM": 1133622.0,
+				"FREE_ALIGHT_NUM": 153213.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "사당",
+				"PAY_RIDE_NUM": 833943.0,
+				"FREE_RIDE_NUM": 151989.0,
+				"PAY_ALIGHT_NUM": 936935.0,
+				"FREE_ALIGHT_NUM": 146637.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "상왕십리",
+				"PAY_RIDE_NUM": 322628.0,
+				"FREE_RIDE_NUM": 59983.0,
+				"PAY_ALIGHT_NUM": 311510.0,
+				"FREE_ALIGHT_NUM": 60404.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "2호선",
+				"SUB_STA_NM": "신답",
+				"PAY_RIDE_NUM": 35129.0,
+				"FREE_RIDE_NUM": 8071.0,
+				"PAY_ALIGHT_NUM": 40152.0,
+				"FREE_ALIGHT_NUM": 9016.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "대청",
+				"PAY_RIDE_NUM": 213509.0,
+				"FREE_RIDE_NUM": 50414.0,
+				"PAY_ALIGHT_NUM": 194287.0,
+				"FREE_ALIGHT_NUM": 48651.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "충무로",
+				"PAY_RIDE_NUM": 22.0,
+				"FREE_RIDE_NUM": 2.0,
+				"PAY_ALIGHT_NUM": 0.0,
+				"FREE_ALIGHT_NUM": 0.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "오금",
+				"PAY_RIDE_NUM": 138506.0,
+				"FREE_RIDE_NUM": 24443.0,
+				"PAY_ALIGHT_NUM": 123397.0,
+				"FREE_ALIGHT_NUM": 23180.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "학여울",
+				"PAY_RIDE_NUM": 41876.0,
+				"FREE_RIDE_NUM": 12063.0,
+				"PAY_ALIGHT_NUM": 44677.0,
+				"FREE_ALIGHT_NUM": 11948.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "가락시장",
+				"PAY_RIDE_NUM": 171954.0,
+				"FREE_RIDE_NUM": 61759.0,
+				"PAY_ALIGHT_NUM": 168277.0,
+				"FREE_ALIGHT_NUM": 60417.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "대치",
+				"PAY_RIDE_NUM": 222269.0,
+				"FREE_RIDE_NUM": 53576.0,
+				"PAY_ALIGHT_NUM": 224314.0,
+				"FREE_ALIGHT_NUM": 51355.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "동대입구",
+				"PAY_RIDE_NUM": 188309.0,
+				"FREE_RIDE_NUM": 27373.0,
+				"PAY_ALIGHT_NUM": 197411.0,
+				"FREE_ALIGHT_NUM": 29723.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "경찰병원",
+				"PAY_RIDE_NUM": 154512.0,
+				"FREE_RIDE_NUM": 35698.0,
+				"PAY_ALIGHT_NUM": 153381.0,
+				"FREE_ALIGHT_NUM": 36579.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "잠원",
+				"PAY_RIDE_NUM": 101462.0,
+				"FREE_RIDE_NUM": 26594.0,
+				"PAY_ALIGHT_NUM": 100158.0,
+				"FREE_ALIGHT_NUM": 25895.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "도곡",
+				"PAY_RIDE_NUM": 115694.0,
+				"FREE_RIDE_NUM": 21970.0,
+				"PAY_ALIGHT_NUM": 119419.0,
+				"FREE_ALIGHT_NUM": 19954.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "매봉",
+				"PAY_RIDE_NUM": 266825.0,
+				"FREE_RIDE_NUM": 52860.0,
+				"PAY_ALIGHT_NUM": 259136.0,
+				"FREE_ALIGHT_NUM": 48550.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "무악재",
+				"PAY_RIDE_NUM": 79041.0,
+				"FREE_RIDE_NUM": 24476.0,
+				"PAY_ALIGHT_NUM": 78094.0,
+				"FREE_ALIGHT_NUM": 26906.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "일원",
+				"PAY_RIDE_NUM": 203133.0,
+				"FREE_RIDE_NUM": 53728.0,
+				"PAY_ALIGHT_NUM": 195514.0,
+				"FREE_ALIGHT_NUM": 53141.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "을지로3가",
+				"PAY_RIDE_NUM": 225223.0,
+				"FREE_RIDE_NUM": 46869.0,
+				"PAY_ALIGHT_NUM": 234470.0,
+				"FREE_ALIGHT_NUM": 44938.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "약수",
+				"PAY_RIDE_NUM": 277379.0,
+				"FREE_RIDE_NUM": 70072.0,
+				"PAY_ALIGHT_NUM": 271526.0,
+				"FREE_ALIGHT_NUM": 66411.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "종로3가",
+				"PAY_RIDE_NUM": 210194.0,
+				"FREE_RIDE_NUM": 50337.0,
+				"PAY_ALIGHT_NUM": 250323.0,
+				"FREE_ALIGHT_NUM": 55058.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "안국",
+				"PAY_RIDE_NUM": 457832.0,
+				"FREE_RIDE_NUM": 66179.0,
+				"PAY_ALIGHT_NUM": 477853.0,
+				"FREE_ALIGHT_NUM": 67704.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "구파발",
+				"PAY_RIDE_NUM": 454299.0,
+				"FREE_RIDE_NUM": 98956.0,
+				"PAY_ALIGHT_NUM": 434568.0,
+				"FREE_ALIGHT_NUM": 94981.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "옥수",
+				"PAY_RIDE_NUM": 189472.0,
+				"FREE_RIDE_NUM": 48376.0,
+				"PAY_ALIGHT_NUM": 199238.0,
+				"FREE_ALIGHT_NUM": 49109.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "압구정",
+				"PAY_RIDE_NUM": 760131.0,
+				"FREE_RIDE_NUM": 113237.0,
+				"PAY_ALIGHT_NUM": 817241.0,
+				"FREE_ALIGHT_NUM": 111286.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "고속터미널",
+				"PAY_RIDE_NUM": 1055775.0,
+				"FREE_RIDE_NUM": 144347.0,
+				"PAY_ALIGHT_NUM": 1054989.0,
+				"FREE_ALIGHT_NUM": 138220.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "금호",
+				"PAY_RIDE_NUM": 167531.0,
+				"FREE_RIDE_NUM": 46150.0,
+				"PAY_ALIGHT_NUM": 155447.0,
+				"FREE_ALIGHT_NUM": 45179.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "양재(서초구청)",
+				"PAY_RIDE_NUM": 878763.0,
+				"FREE_RIDE_NUM": 128125.0,
+				"PAY_ALIGHT_NUM": 961970.0,
+				"FREE_ALIGHT_NUM": 129476.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "불광",
+				"PAY_RIDE_NUM": 321928.0,
+				"FREE_RIDE_NUM": 117579.0,
+				"PAY_ALIGHT_NUM": 344114.0,
+				"FREE_ALIGHT_NUM": 129643.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "수서",
+				"PAY_RIDE_NUM": 379436.0,
+				"FREE_RIDE_NUM": 89361.0,
+				"PAY_ALIGHT_NUM": 386512.0,
+				"FREE_ALIGHT_NUM": 87295.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "경복궁(정부서울청사)",
+				"PAY_RIDE_NUM": 456804.0,
+				"FREE_RIDE_NUM": 66583.0,
+				"PAY_ALIGHT_NUM": 456338.0,
+				"FREE_ALIGHT_NUM": 63429.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "녹번",
+				"PAY_RIDE_NUM": 346758.0,
+				"FREE_RIDE_NUM": 66430.0,
+				"PAY_ALIGHT_NUM": 307051.0,
+				"FREE_ALIGHT_NUM": 65478.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "연신내",
+				"PAY_RIDE_NUM": 773989.0,
+				"FREE_RIDE_NUM": 219200.0,
+				"PAY_ALIGHT_NUM": 727150.0,
+				"FREE_ALIGHT_NUM": 213071.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "신사",
+				"PAY_RIDE_NUM": 769003.0,
+				"FREE_RIDE_NUM": 66071.0,
+				"PAY_ALIGHT_NUM": 815919.0,
+				"FREE_ALIGHT_NUM": 63197.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "홍제",
+				"PAY_RIDE_NUM": 341161.0,
+				"FREE_RIDE_NUM": 117295.0,
+				"PAY_ALIGHT_NUM": 320988.0,
+				"FREE_ALIGHT_NUM": 115650.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "교대(법원.검찰청)",
+				"PAY_RIDE_NUM": 299560.0,
+				"FREE_RIDE_NUM": 56554.0,
+				"PAY_ALIGHT_NUM": 194672.0,
+				"FREE_ALIGHT_NUM": 34731.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "남부터미널(예술의전당)",
+				"PAY_RIDE_NUM": 669418.0,
+				"FREE_RIDE_NUM": 100762.0,
+				"PAY_ALIGHT_NUM": 689398.0,
+				"FREE_ALIGHT_NUM": 101702.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "독립문",
+				"PAY_RIDE_NUM": 126293.0,
+				"FREE_RIDE_NUM": 56741.0,
+				"PAY_ALIGHT_NUM": 133374.0,
+				"FREE_ALIGHT_NUM": 55705.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "3호선",
+				"SUB_STA_NM": "지축",
+				"PAY_RIDE_NUM": 96731.0,
+				"FREE_RIDE_NUM": 21583.0,
+				"PAY_ALIGHT_NUM": 92614.0,
+				"FREE_ALIGHT_NUM": 20576.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "남태령",
+				"PAY_RIDE_NUM": 26065.0,
+				"FREE_RIDE_NUM": 7599.0,
+				"PAY_ALIGHT_NUM": 21258.0,
+				"FREE_ALIGHT_NUM": 6938.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "동작(현충원)",
+				"PAY_RIDE_NUM": 23601.0,
+				"FREE_RIDE_NUM": 13341.0,
+				"PAY_ALIGHT_NUM": 28139.0,
+				"FREE_ALIGHT_NUM": 13194.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "삼각지",
+				"PAY_RIDE_NUM": 110593.0,
+				"FREE_RIDE_NUM": 20002.0,
+				"PAY_ALIGHT_NUM": 128719.0,
+				"FREE_ALIGHT_NUM": 20921.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "명동",
+				"PAY_RIDE_NUM": 542595.0,
+				"FREE_RIDE_NUM": 53954.0,
+				"PAY_ALIGHT_NUM": 578115.0,
+				"FREE_ALIGHT_NUM": 55399.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "신용산",
+				"PAY_RIDE_NUM": 394284.0,
+				"FREE_RIDE_NUM": 44486.0,
+				"PAY_ALIGHT_NUM": 418722.0,
+				"FREE_ALIGHT_NUM": 44856.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "동대문",
+				"PAY_RIDE_NUM": 370786.0,
+				"FREE_RIDE_NUM": 125715.0,
+				"PAY_ALIGHT_NUM": 390668.0,
+				"FREE_ALIGHT_NUM": 123456.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "창동",
+				"PAY_RIDE_NUM": 526631.0,
+				"FREE_RIDE_NUM": 161414.0,
+				"PAY_ALIGHT_NUM": 560510.0,
+				"FREE_ALIGHT_NUM": 167430.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "노원",
+				"PAY_RIDE_NUM": 440952.0,
+				"FREE_RIDE_NUM": 75700.0,
+				"PAY_ALIGHT_NUM": 504179.0,
+				"FREE_ALIGHT_NUM": 75467.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "이촌(국립중앙박물관)",
+				"PAY_RIDE_NUM": 160160.0,
+				"FREE_RIDE_NUM": 37475.0,
+				"PAY_ALIGHT_NUM": 178033.0,
+				"FREE_ALIGHT_NUM": 39500.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "총신대입구(이수)",
+				"PAY_RIDE_NUM": 379354.0,
+				"FREE_RIDE_NUM": 123924.0,
+				"PAY_ALIGHT_NUM": 415589.0,
+				"FREE_ALIGHT_NUM": 130922.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "사당",
+				"PAY_RIDE_NUM": 605576.0,
+				"FREE_RIDE_NUM": 72618.0,
+				"PAY_ALIGHT_NUM": 504803.0,
+				"FREE_ALIGHT_NUM": 71871.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "혜화",
+				"PAY_RIDE_NUM": 787836.0,
+				"FREE_RIDE_NUM": 111027.0,
+				"PAY_ALIGHT_NUM": 798457.0,
+				"FREE_ALIGHT_NUM": 109440.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "길음",
+				"PAY_RIDE_NUM": 441814.0,
+				"FREE_RIDE_NUM": 95193.0,
+				"PAY_ALIGHT_NUM": 425926.0,
+				"FREE_ALIGHT_NUM": 95820.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "쌍문",
+				"PAY_RIDE_NUM": 659053.0,
+				"FREE_RIDE_NUM": 136571.0,
+				"PAY_ALIGHT_NUM": 593050.0,
+				"FREE_ALIGHT_NUM": 135066.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "숙대입구(갈월)",
+				"PAY_RIDE_NUM": 300467.0,
+				"FREE_RIDE_NUM": 45490.0,
+				"PAY_ALIGHT_NUM": 295217.0,
+				"FREE_ALIGHT_NUM": 42365.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "미아(서울사이버대학)",
+				"PAY_RIDE_NUM": 307397.0,
+				"FREE_RIDE_NUM": 94244.0,
+				"PAY_ALIGHT_NUM": 290712.0,
+				"FREE_ALIGHT_NUM": 96599.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "수유(강북구청)",
+				"PAY_RIDE_NUM": 761220.0,
+				"FREE_RIDE_NUM": 165420.0,
+				"PAY_ALIGHT_NUM": 759740.0,
+				"FREE_ALIGHT_NUM": 166307.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "당고개",
+				"PAY_RIDE_NUM": 272832.0,
+				"FREE_RIDE_NUM": 75008.0,
+				"PAY_ALIGHT_NUM": 242158.0,
+				"FREE_ALIGHT_NUM": 73874.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "한성대입구(삼선교)",
+				"PAY_RIDE_NUM": 302986.0,
+				"FREE_RIDE_NUM": 62951.0,
+				"PAY_ALIGHT_NUM": 295841.0,
+				"FREE_ALIGHT_NUM": 61759.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "서울역",
+				"PAY_RIDE_NUM": 244273.0,
+				"FREE_RIDE_NUM": 31275.0,
+				"PAY_ALIGHT_NUM": 411988.0,
+				"FREE_ALIGHT_NUM": 37820.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "충무로",
+				"PAY_RIDE_NUM": 556721.0,
+				"FREE_RIDE_NUM": 102383.0,
+				"PAY_ALIGHT_NUM": 585230.0,
+				"FREE_ALIGHT_NUM": 102767.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "회현(남대문시장)",
+				"PAY_RIDE_NUM": 531190.0,
+				"FREE_RIDE_NUM": 145939.0,
+				"PAY_ALIGHT_NUM": 570135.0,
+				"FREE_ALIGHT_NUM": 146201.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "동대문역사문화공원(DDP)",
+				"PAY_RIDE_NUM": 363487.0,
+				"FREE_RIDE_NUM": 49989.0,
+				"PAY_ALIGHT_NUM": 333652.0,
+				"FREE_ALIGHT_NUM": 44671.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "미아사거리",
+				"PAY_RIDE_NUM": 603754.0,
+				"FREE_RIDE_NUM": 152744.0,
+				"PAY_ALIGHT_NUM": 580222.0,
+				"FREE_ALIGHT_NUM": 152209.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "성신여대입구(돈암)",
+				"PAY_RIDE_NUM": 483174.0,
+				"FREE_RIDE_NUM": 72221.0,
+				"PAY_ALIGHT_NUM": 463258.0,
+				"FREE_ALIGHT_NUM": 70670.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "4호선",
+				"SUB_STA_NM": "상계",
+				"PAY_RIDE_NUM": 410976.0,
+				"FREE_RIDE_NUM": 100132.0,
+				"PAY_ALIGHT_NUM": 375350.0,
+				"FREE_ALIGHT_NUM": 98932.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "신길",
+				"PAY_RIDE_NUM": 98968.0,
+				"FREE_RIDE_NUM": 9786.0,
+				"PAY_ALIGHT_NUM": 107316.0,
+				"FREE_ALIGHT_NUM": 10243.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "강동",
+				"PAY_RIDE_NUM": 408836.0,
+				"FREE_RIDE_NUM": 86710.0,
+				"PAY_ALIGHT_NUM": 387515.0,
+				"FREE_ALIGHT_NUM": 84014.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "신금호",
+				"PAY_RIDE_NUM": 139709.0,
+				"FREE_RIDE_NUM": 31957.0,
+				"PAY_ALIGHT_NUM": 141838.0,
+				"FREE_ALIGHT_NUM": 35996.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "길동",
+				"PAY_RIDE_NUM": 155977.0,
+				"FREE_RIDE_NUM": 62643.0,
+				"PAY_ALIGHT_NUM": 164777.0,
+				"FREE_ALIGHT_NUM": 64721.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "강일",
+				"PAY_RIDE_NUM": 77546.0,
+				"FREE_RIDE_NUM": 25265.0,
+				"PAY_ALIGHT_NUM": 77257.0,
+				"FREE_ALIGHT_NUM": 25098.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "아차산(어린이대공원후문)",
+				"PAY_RIDE_NUM": 317002.0,
+				"FREE_RIDE_NUM": 83296.0,
+				"PAY_ALIGHT_NUM": 304650.0,
+				"FREE_ALIGHT_NUM": 81726.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "동대문역사문화공원(DDP)",
+				"PAY_RIDE_NUM": 65436.0,
+				"FREE_RIDE_NUM": 7564.0,
+				"PAY_ALIGHT_NUM": 77307.0,
+				"FREE_ALIGHT_NUM": 8246.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "마포",
+				"PAY_RIDE_NUM": 318205.0,
+				"FREE_RIDE_NUM": 53283.0,
+				"PAY_ALIGHT_NUM": 328622.0,
+				"FREE_ALIGHT_NUM": 52715.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "굽은다리(강동구민회관앞)",
+				"PAY_RIDE_NUM": 204887.0,
+				"FREE_RIDE_NUM": 59856.0,
+				"PAY_ALIGHT_NUM": 198549.0,
+				"FREE_ALIGHT_NUM": 55507.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "답십리",
+				"PAY_RIDE_NUM": 360370.0,
+				"FREE_RIDE_NUM": 68212.0,
+				"PAY_ALIGHT_NUM": 325725.0,
+				"FREE_ALIGHT_NUM": 66676.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "올림픽공원(한국체대)",
+				"PAY_RIDE_NUM": 89368.0,
+				"FREE_RIDE_NUM": 30395.0,
+				"PAY_ALIGHT_NUM": 79313.0,
+				"FREE_ALIGHT_NUM": 28174.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "을지로4가",
+				"PAY_RIDE_NUM": 114531.0,
+				"FREE_RIDE_NUM": 39807.0,
+				"PAY_ALIGHT_NUM": 118399.0,
+				"FREE_ALIGHT_NUM": 38892.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "발산",
+				"PAY_RIDE_NUM": 455533.0,
+				"FREE_RIDE_NUM": 78004.0,
+				"PAY_ALIGHT_NUM": 475091.0,
+				"FREE_ALIGHT_NUM": 75358.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "청구",
+				"PAY_RIDE_NUM": 83466.0,
+				"FREE_RIDE_NUM": 22118.0,
+				"PAY_ALIGHT_NUM": 79549.0,
+				"FREE_ALIGHT_NUM": 17688.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "방이",
+				"PAY_RIDE_NUM": 151596.0,
+				"FREE_RIDE_NUM": 38986.0,
+				"PAY_ALIGHT_NUM": 157706.0,
+				"FREE_ALIGHT_NUM": 38970.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "명일",
+				"PAY_RIDE_NUM": 174760.0,
+				"FREE_RIDE_NUM": 57576.0,
+				"PAY_ALIGHT_NUM": 179998.0,
+				"FREE_ALIGHT_NUM": 60443.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "장한평",
+				"PAY_RIDE_NUM": 413551.0,
+				"FREE_RIDE_NUM": 77396.0,
+				"PAY_ALIGHT_NUM": 409875.0,
+				"FREE_ALIGHT_NUM": 78790.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "신정(은행정)",
+				"PAY_RIDE_NUM": 315470.0,
+				"FREE_RIDE_NUM": 53078.0,
+				"PAY_ALIGHT_NUM": 249988.0,
+				"FREE_ALIGHT_NUM": 51546.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "왕십리(성동구청)",
+				"PAY_RIDE_NUM": 107083.0,
+				"FREE_RIDE_NUM": 20374.0,
+				"PAY_ALIGHT_NUM": 125893.0,
+				"FREE_ALIGHT_NUM": 19973.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "행당",
+				"PAY_RIDE_NUM": 172826.0,
+				"FREE_RIDE_NUM": 42335.0,
+				"PAY_ALIGHT_NUM": 153815.0,
+				"FREE_ALIGHT_NUM": 38685.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "공덕",
+				"PAY_RIDE_NUM": 318324.0,
+				"FREE_RIDE_NUM": 37664.0,
+				"PAY_ALIGHT_NUM": 343702.0,
+				"FREE_ALIGHT_NUM": 35498.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "우장산",
+				"PAY_RIDE_NUM": 306300.0,
+				"FREE_RIDE_NUM": 74738.0,
+				"PAY_ALIGHT_NUM": 298741.0,
+				"FREE_ALIGHT_NUM": 78121.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "서대문",
+				"PAY_RIDE_NUM": 410440.0,
+				"FREE_RIDE_NUM": 57092.0,
+				"PAY_ALIGHT_NUM": 418870.0,
+				"FREE_ALIGHT_NUM": 53799.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "개화산",
+				"PAY_RIDE_NUM": 114933.0,
+				"FREE_RIDE_NUM": 33410.0,
+				"PAY_ALIGHT_NUM": 108598.0,
+				"FREE_ALIGHT_NUM": 32961.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "충정로(경기대입구)",
+				"PAY_RIDE_NUM": 108908.0,
+				"FREE_RIDE_NUM": 12541.0,
+				"PAY_ALIGHT_NUM": 109956.0,
+				"FREE_ALIGHT_NUM": 12797.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "광나루(장신대)",
+				"PAY_RIDE_NUM": 296996.0,
+				"FREE_RIDE_NUM": 60313.0,
+				"PAY_ALIGHT_NUM": 273433.0,
+				"FREE_ALIGHT_NUM": 57957.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "마천",
+				"PAY_RIDE_NUM": 136460.0,
+				"FREE_RIDE_NUM": 48066.0,
+				"PAY_ALIGHT_NUM": 132677.0,
+				"FREE_ALIGHT_NUM": 49888.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "오목교(목동운동장앞)",
+				"PAY_RIDE_NUM": 516845.0,
+				"FREE_RIDE_NUM": 71816.0,
+				"PAY_ALIGHT_NUM": 558807.0,
+				"FREE_ALIGHT_NUM": 71856.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "애오개",
+				"PAY_RIDE_NUM": 143845.0,
+				"FREE_RIDE_NUM": 31905.0,
+				"PAY_ALIGHT_NUM": 145615.0,
+				"FREE_ALIGHT_NUM": 31161.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "마장",
+				"PAY_RIDE_NUM": 118278.0,
+				"FREE_RIDE_NUM": 34655.0,
+				"PAY_ALIGHT_NUM": 110973.0,
+				"FREE_ALIGHT_NUM": 33556.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "마곡",
+				"PAY_RIDE_NUM": 239756.0,
+				"FREE_RIDE_NUM": 34573.0,
+				"PAY_ALIGHT_NUM": 238717.0,
+				"FREE_ALIGHT_NUM": 33797.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "고덕",
+				"PAY_RIDE_NUM": 199651.0,
+				"FREE_RIDE_NUM": 55581.0,
+				"PAY_ALIGHT_NUM": 197455.0,
+				"FREE_ALIGHT_NUM": 55131.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "김포공항",
+				"PAY_RIDE_NUM": 191693.0,
+				"FREE_RIDE_NUM": 28522.0,
+				"PAY_ALIGHT_NUM": 178405.0,
+				"FREE_ALIGHT_NUM": 29846.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "미사",
+				"PAY_RIDE_NUM": 371416.0,
+				"FREE_RIDE_NUM": 59829.0,
+				"PAY_ALIGHT_NUM": 368353.0,
+				"FREE_ALIGHT_NUM": 59778.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "영등포구청",
+				"PAY_RIDE_NUM": 80642.0,
+				"FREE_RIDE_NUM": 17148.0,
+				"PAY_ALIGHT_NUM": 83966.0,
+				"FREE_ALIGHT_NUM": 17158.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "천호(풍납토성)",
+				"PAY_RIDE_NUM": 404436.0,
+				"FREE_RIDE_NUM": 105761.0,
+				"PAY_ALIGHT_NUM": 394611.0,
+				"FREE_ALIGHT_NUM": 107909.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "양평",
+				"PAY_RIDE_NUM": 169878.0,
+				"FREE_RIDE_NUM": 24507.0,
+				"PAY_ALIGHT_NUM": 167763.0,
+				"FREE_ALIGHT_NUM": 24234.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "여의나루",
+				"PAY_RIDE_NUM": 203601.0,
+				"FREE_RIDE_NUM": 22894.0,
+				"PAY_ALIGHT_NUM": 234821.0,
+				"FREE_ALIGHT_NUM": 22473.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "영등포시장",
+				"PAY_RIDE_NUM": 215137.0,
+				"FREE_RIDE_NUM": 56445.0,
+				"PAY_ALIGHT_NUM": 223297.0,
+				"FREE_ALIGHT_NUM": 57760.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "여의도",
+				"PAY_RIDE_NUM": 669824.0,
+				"FREE_RIDE_NUM": 47553.0,
+				"PAY_ALIGHT_NUM": 700698.0,
+				"FREE_ALIGHT_NUM": 44174.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "하남검단산",
+				"PAY_RIDE_NUM": 117877.0,
+				"FREE_RIDE_NUM": 36165.0,
+				"PAY_ALIGHT_NUM": 112777.0,
+				"FREE_ALIGHT_NUM": 36208.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "목동",
+				"PAY_RIDE_NUM": 370302.0,
+				"FREE_RIDE_NUM": 70937.0,
+				"PAY_ALIGHT_NUM": 403213.0,
+				"FREE_ALIGHT_NUM": 71907.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "오금",
+				"PAY_RIDE_NUM": 81084.0,
+				"FREE_RIDE_NUM": 17657.0,
+				"PAY_ALIGHT_NUM": 80524.0,
+				"FREE_ALIGHT_NUM": 16993.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "종로3가",
+				"PAY_RIDE_NUM": 263264.0,
+				"FREE_RIDE_NUM": 77553.0,
+				"PAY_ALIGHT_NUM": 256876.0,
+				"FREE_ALIGHT_NUM": 81859.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "송정",
+				"PAY_RIDE_NUM": 136233.0,
+				"FREE_RIDE_NUM": 43154.0,
+				"PAY_ALIGHT_NUM": 127634.0,
+				"FREE_ALIGHT_NUM": 42042.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "방화",
+				"PAY_RIDE_NUM": 137066.0,
+				"FREE_RIDE_NUM": 43624.0,
+				"PAY_ALIGHT_NUM": 132502.0,
+				"FREE_ALIGHT_NUM": 42482.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "하남시청(덕풍·신장)",
+				"PAY_RIDE_NUM": 122772.0,
+				"FREE_RIDE_NUM": 49470.0,
+				"PAY_ALIGHT_NUM": 118553.0,
+				"FREE_ALIGHT_NUM": 50653.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "군자(능동)",
+				"PAY_RIDE_NUM": 271065.0,
+				"FREE_RIDE_NUM": 35537.0,
+				"PAY_ALIGHT_NUM": 300073.0,
+				"FREE_ALIGHT_NUM": 36942.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "까치산",
+				"PAY_RIDE_NUM": 648808.0,
+				"FREE_RIDE_NUM": 134073.0,
+				"PAY_ALIGHT_NUM": 617345.0,
+				"FREE_ALIGHT_NUM": 136081.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "하남풍산",
+				"PAY_RIDE_NUM": 90906.0,
+				"FREE_RIDE_NUM": 21205.0,
+				"PAY_ALIGHT_NUM": 92041.0,
+				"FREE_ALIGHT_NUM": 21327.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "개롱",
+				"PAY_RIDE_NUM": 132668.0,
+				"FREE_RIDE_NUM": 39863.0,
+				"PAY_ALIGHT_NUM": 138690.0,
+				"FREE_ALIGHT_NUM": 41299.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "광화문(세종문화회관)",
+				"PAY_RIDE_NUM": 713028.0,
+				"FREE_RIDE_NUM": 65033.0,
+				"PAY_ALIGHT_NUM": 744706.0,
+				"FREE_ALIGHT_NUM": 62995.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "상일동",
+				"PAY_RIDE_NUM": 331600.0,
+				"FREE_RIDE_NUM": 76397.0,
+				"PAY_ALIGHT_NUM": 300767.0,
+				"FREE_ALIGHT_NUM": 73478.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "화곡",
+				"PAY_RIDE_NUM": 639132.0,
+				"FREE_RIDE_NUM": 123907.0,
+				"PAY_ALIGHT_NUM": 592399.0,
+				"FREE_ALIGHT_NUM": 119035.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "둔촌동",
+				"PAY_RIDE_NUM": 179326.0,
+				"FREE_RIDE_NUM": 53193.0,
+				"PAY_ALIGHT_NUM": 179195.0,
+				"FREE_ALIGHT_NUM": 53716.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "5호선",
+				"SUB_STA_NM": "거여",
+				"PAY_RIDE_NUM": 193951.0,
+				"FREE_RIDE_NUM": 52171.0,
+				"PAY_ALIGHT_NUM": 183060.0,
+				"FREE_ALIGHT_NUM": 51793.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "녹사평(용산구청)",
+				"PAY_RIDE_NUM": 119476.0,
+				"FREE_RIDE_NUM": 15367.0,
+				"PAY_ALIGHT_NUM": 122904.0,
+				"FREE_ALIGHT_NUM": 14685.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "신내",
+				"PAY_RIDE_NUM": 7.0,
+				"FREE_RIDE_NUM": 1.0,
+				"PAY_ALIGHT_NUM": 0.0,
+				"FREE_ALIGHT_NUM": 0.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "보문",
+				"PAY_RIDE_NUM": 170742.0,
+				"FREE_RIDE_NUM": 26092.0,
+				"PAY_ALIGHT_NUM": 155933.0,
+				"FREE_ALIGHT_NUM": 24645.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "청구",
+				"PAY_RIDE_NUM": 82366.0,
+				"FREE_RIDE_NUM": 17106.0,
+				"PAY_ALIGHT_NUM": 84211.0,
+				"FREE_ALIGHT_NUM": 19911.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "태릉입구",
+				"PAY_RIDE_NUM": 121431.0,
+				"FREE_RIDE_NUM": 25561.0,
+				"PAY_ALIGHT_NUM": 132599.0,
+				"FREE_ALIGHT_NUM": 26465.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "고려대(종암)",
+				"PAY_RIDE_NUM": 179387.0,
+				"FREE_RIDE_NUM": 28835.0,
+				"PAY_ALIGHT_NUM": 170423.0,
+				"FREE_ALIGHT_NUM": 28952.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "응암",
+				"PAY_RIDE_NUM": 376425.0,
+				"FREE_RIDE_NUM": 97795.0,
+				"PAY_ALIGHT_NUM": 371677.0,
+				"FREE_ALIGHT_NUM": 97665.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "디지털미디어시티",
+				"PAY_RIDE_NUM": 305505.0,
+				"FREE_RIDE_NUM": 46558.0,
+				"PAY_ALIGHT_NUM": 334073.0,
+				"FREE_ALIGHT_NUM": 46896.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "안암(고대병원앞)",
+				"PAY_RIDE_NUM": 246564.0,
+				"FREE_RIDE_NUM": 30259.0,
+				"PAY_ALIGHT_NUM": 244274.0,
+				"FREE_ALIGHT_NUM": 28606.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "돌곶이",
+				"PAY_RIDE_NUM": 199731.0,
+				"FREE_RIDE_NUM": 49586.0,
+				"PAY_ALIGHT_NUM": 183185.0,
+				"FREE_ALIGHT_NUM": 49242.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "동묘앞",
+				"PAY_RIDE_NUM": 160788.0,
+				"FREE_RIDE_NUM": 57379.0,
+				"PAY_ALIGHT_NUM": 167347.0,
+				"FREE_ALIGHT_NUM": 53093.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "대흥(서강대앞)",
+				"PAY_RIDE_NUM": 173751.0,
+				"FREE_RIDE_NUM": 36262.0,
+				"PAY_ALIGHT_NUM": 178738.0,
+				"FREE_ALIGHT_NUM": 36326.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "새절(신사)",
+				"PAY_RIDE_NUM": 268559.0,
+				"FREE_RIDE_NUM": 71699.0,
+				"PAY_ALIGHT_NUM": 246247.0,
+				"FREE_ALIGHT_NUM": 71878.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "독바위",
+				"PAY_RIDE_NUM": 56098.0,
+				"FREE_RIDE_NUM": 16387.0,
+				"PAY_ALIGHT_NUM": 57368.0,
+				"FREE_ALIGHT_NUM": 20146.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "석계",
+				"PAY_RIDE_NUM": 264283.0,
+				"FREE_RIDE_NUM": 64591.0,
+				"PAY_ALIGHT_NUM": 274982.0,
+				"FREE_ALIGHT_NUM": 64866.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "버티고개",
+				"PAY_RIDE_NUM": 41838.0,
+				"FREE_RIDE_NUM": 10318.0,
+				"PAY_ALIGHT_NUM": 41339.0,
+				"FREE_ALIGHT_NUM": 12802.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "상월곡(한국과학기술연구원)",
+				"PAY_RIDE_NUM": 131888.0,
+				"FREE_RIDE_NUM": 34141.0,
+				"PAY_ALIGHT_NUM": 114032.0,
+				"FREE_ALIGHT_NUM": 33180.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "역촌",
+				"PAY_RIDE_NUM": 77616.0,
+				"FREE_RIDE_NUM": 27413.0,
+				"PAY_ALIGHT_NUM": 95618.0,
+				"FREE_ALIGHT_NUM": 27012.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "약수",
+				"PAY_RIDE_NUM": 76822.0,
+				"FREE_RIDE_NUM": 19408.0,
+				"PAY_ALIGHT_NUM": 77318.0,
+				"FREE_ALIGHT_NUM": 18607.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "망원",
+				"PAY_RIDE_NUM": 320664.0,
+				"FREE_RIDE_NUM": 68673.0,
+				"PAY_ALIGHT_NUM": 349017.0,
+				"FREE_ALIGHT_NUM": 71844.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "한강진",
+				"PAY_RIDE_NUM": 235437.0,
+				"FREE_RIDE_NUM": 13275.0,
+				"PAY_ALIGHT_NUM": 271693.0,
+				"FREE_ALIGHT_NUM": 13159.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "상수",
+				"PAY_RIDE_NUM": 218372.0,
+				"FREE_RIDE_NUM": 18844.0,
+				"PAY_ALIGHT_NUM": 249152.0,
+				"FREE_ALIGHT_NUM": 19166.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "구산",
+				"PAY_RIDE_NUM": 163552.0,
+				"FREE_RIDE_NUM": 42856.0,
+				"PAY_ALIGHT_NUM": 110309.0,
+				"FREE_ALIGHT_NUM": 44952.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "월곡(동덕여대)",
+				"PAY_RIDE_NUM": 244882.0,
+				"FREE_RIDE_NUM": 59101.0,
+				"PAY_ALIGHT_NUM": 241300.0,
+				"FREE_ALIGHT_NUM": 59368.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "신당",
+				"PAY_RIDE_NUM": 202757.0,
+				"FREE_RIDE_NUM": 32546.0,
+				"PAY_ALIGHT_NUM": 207715.0,
+				"FREE_ALIGHT_NUM": 31070.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "이태원",
+				"PAY_RIDE_NUM": 261242.0,
+				"FREE_RIDE_NUM": 26692.0,
+				"PAY_ALIGHT_NUM": 276930.0,
+				"FREE_ALIGHT_NUM": 27411.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "공덕",
+				"PAY_RIDE_NUM": 411388.0,
+				"FREE_RIDE_NUM": 63228.0,
+				"PAY_ALIGHT_NUM": 400544.0,
+				"FREE_ALIGHT_NUM": 58915.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "불광",
+				"PAY_RIDE_NUM": 86847.0,
+				"FREE_RIDE_NUM": 33395.0,
+				"PAY_ALIGHT_NUM": 88297.0,
+				"FREE_ALIGHT_NUM": 27654.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "증산(명지대앞)",
+				"PAY_RIDE_NUM": 212246.0,
+				"FREE_RIDE_NUM": 61236.0,
+				"PAY_ALIGHT_NUM": 208197.0,
+				"FREE_ALIGHT_NUM": 62054.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "월드컵경기장(성산)",
+				"PAY_RIDE_NUM": 68806.0,
+				"FREE_RIDE_NUM": 37019.0,
+				"PAY_ALIGHT_NUM": 76700.0,
+				"FREE_ALIGHT_NUM": 37239.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "삼각지",
+				"PAY_RIDE_NUM": 153499.0,
+				"FREE_RIDE_NUM": 14121.0,
+				"PAY_ALIGHT_NUM": 134640.0,
+				"FREE_ALIGHT_NUM": 11920.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "합정",
+				"PAY_RIDE_NUM": 332715.0,
+				"FREE_RIDE_NUM": 34052.0,
+				"PAY_ALIGHT_NUM": 324775.0,
+				"FREE_ALIGHT_NUM": 31844.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "봉화산(서울의료원)",
+				"PAY_RIDE_NUM": 191667.0,
+				"FREE_RIDE_NUM": 41030.0,
+				"PAY_ALIGHT_NUM": 177701.0,
+				"FREE_ALIGHT_NUM": 40803.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "화랑대(서울여대입구)",
+				"PAY_RIDE_NUM": 266684.0,
+				"FREE_RIDE_NUM": 40598.0,
+				"PAY_ALIGHT_NUM": 206470.0,
+				"FREE_ALIGHT_NUM": 36108.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "광흥창(서강)",
+				"PAY_RIDE_NUM": 196613.0,
+				"FREE_RIDE_NUM": 39541.0,
+				"PAY_ALIGHT_NUM": 190729.0,
+				"FREE_ALIGHT_NUM": 39057.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "마포구청",
+				"PAY_RIDE_NUM": 319351.0,
+				"FREE_RIDE_NUM": 67871.0,
+				"PAY_ALIGHT_NUM": 287917.0,
+				"FREE_ALIGHT_NUM": 61479.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "효창공원앞",
+				"PAY_RIDE_NUM": 152378.0,
+				"FREE_RIDE_NUM": 33059.0,
+				"PAY_ALIGHT_NUM": 136119.0,
+				"FREE_ALIGHT_NUM": 31220.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "연신내",
+				"PAY_RIDE_NUM": 26.0,
+				"FREE_RIDE_NUM": 0.0,
+				"PAY_ALIGHT_NUM": 0.0,
+				"FREE_ALIGHT_NUM": 0.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "6호선",
+				"SUB_STA_NM": "창신",
+				"PAY_RIDE_NUM": 77475.0,
+				"FREE_RIDE_NUM": 16150.0,
+				"PAY_ALIGHT_NUM": 62383.0,
+				"FREE_ALIGHT_NUM": 15267.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "부천시청",
+				"PAY_RIDE_NUM": 305597.0,
+				"FREE_RIDE_NUM": 49611.0,
+				"PAY_ALIGHT_NUM": 306461.0,
+				"FREE_ALIGHT_NUM": 47365.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "부평구청",
+				"PAY_RIDE_NUM": 175486.0,
+				"FREE_RIDE_NUM": 23303.0,
+				"PAY_ALIGHT_NUM": 156920.0,
+				"FREE_ALIGHT_NUM": 21570.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "대림(구로구청)",
+				"PAY_RIDE_NUM": 193886.0,
+				"FREE_RIDE_NUM": 30968.0,
+				"PAY_ALIGHT_NUM": 196499.0,
+				"FREE_ALIGHT_NUM": 30258.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "장승배기",
+				"PAY_RIDE_NUM": 194964.0,
+				"FREE_RIDE_NUM": 57612.0,
+				"PAY_ALIGHT_NUM": 189574.0,
+				"FREE_ALIGHT_NUM": 58061.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "내방",
+				"PAY_RIDE_NUM": 315837.0,
+				"FREE_RIDE_NUM": 59107.0,
+				"PAY_ALIGHT_NUM": 324784.0,
+				"FREE_ALIGHT_NUM": 57711.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "마들",
+				"PAY_RIDE_NUM": 271286.0,
+				"FREE_RIDE_NUM": 72547.0,
+				"PAY_ALIGHT_NUM": 254683.0,
+				"FREE_ALIGHT_NUM": 72409.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "뚝섬유원지",
+				"PAY_RIDE_NUM": 163369.0,
+				"FREE_RIDE_NUM": 34353.0,
+				"PAY_ALIGHT_NUM": 157787.0,
+				"FREE_ALIGHT_NUM": 34597.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "춘의",
+				"PAY_RIDE_NUM": 232320.0,
+				"FREE_RIDE_NUM": 30120.0,
+				"PAY_ALIGHT_NUM": 227437.0,
+				"FREE_ALIGHT_NUM": 29709.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "숭실대입구(살피재)",
+				"PAY_RIDE_NUM": 280642.0,
+				"FREE_RIDE_NUM": 51190.0,
+				"PAY_ALIGHT_NUM": 280828.0,
+				"FREE_ALIGHT_NUM": 53507.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "어린이대공원(세종대)",
+				"PAY_RIDE_NUM": 294458.0,
+				"FREE_RIDE_NUM": 33418.0,
+				"PAY_ALIGHT_NUM": 290527.0,
+				"FREE_ALIGHT_NUM": 33520.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "보라매",
+				"PAY_RIDE_NUM": 223427.0,
+				"FREE_RIDE_NUM": 38059.0,
+				"PAY_ALIGHT_NUM": 221070.0,
+				"FREE_ALIGHT_NUM": 36648.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "까치울",
+				"PAY_RIDE_NUM": 180875.0,
+				"FREE_RIDE_NUM": 25757.0,
+				"PAY_ALIGHT_NUM": 173393.0,
+				"FREE_ALIGHT_NUM": 25841.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "반포",
+				"PAY_RIDE_NUM": 128991.0,
+				"FREE_RIDE_NUM": 27833.0,
+				"PAY_ALIGHT_NUM": 124218.0,
+				"FREE_ALIGHT_NUM": 26398.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "청담",
+				"PAY_RIDE_NUM": 435624.0,
+				"FREE_RIDE_NUM": 64497.0,
+				"PAY_ALIGHT_NUM": 499209.0,
+				"FREE_ALIGHT_NUM": 62025.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "군자(능동)",
+				"PAY_RIDE_NUM": 338826.0,
+				"FREE_RIDE_NUM": 63948.0,
+				"PAY_ALIGHT_NUM": 266562.0,
+				"FREE_ALIGHT_NUM": 56560.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "가산디지털단지",
+				"PAY_RIDE_NUM": 1063645.0,
+				"FREE_RIDE_NUM": 80985.0,
+				"PAY_ALIGHT_NUM": 1051417.0,
+				"FREE_ALIGHT_NUM": 76341.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "남구로",
+				"PAY_RIDE_NUM": 363267.0,
+				"FREE_RIDE_NUM": 52625.0,
+				"PAY_ALIGHT_NUM": 383043.0,
+				"FREE_ALIGHT_NUM": 52709.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "상도",
+				"PAY_RIDE_NUM": 231349.0,
+				"FREE_RIDE_NUM": 50587.0,
+				"PAY_ALIGHT_NUM": 222335.0,
+				"FREE_ALIGHT_NUM": 49026.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "강남구청",
+				"PAY_RIDE_NUM": 386872.0,
+				"FREE_RIDE_NUM": 44024.0,
+				"PAY_ALIGHT_NUM": 428129.0,
+				"FREE_ALIGHT_NUM": 44547.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "굴포천",
+				"PAY_RIDE_NUM": 218908.0,
+				"FREE_RIDE_NUM": 32782.0,
+				"PAY_ALIGHT_NUM": 229702.0,
+				"FREE_ALIGHT_NUM": 33248.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "중화",
+				"PAY_RIDE_NUM": 238171.0,
+				"FREE_RIDE_NUM": 55825.0,
+				"PAY_ALIGHT_NUM": 231824.0,
+				"FREE_ALIGHT_NUM": 56451.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "상동",
+				"PAY_RIDE_NUM": 320060.0,
+				"FREE_RIDE_NUM": 44081.0,
+				"PAY_ALIGHT_NUM": 334615.0,
+				"FREE_ALIGHT_NUM": 44142.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "공릉(서울과학기술대)",
+				"PAY_RIDE_NUM": 263562.0,
+				"FREE_RIDE_NUM": 61501.0,
+				"PAY_ALIGHT_NUM": 260113.0,
+				"FREE_ALIGHT_NUM": 61593.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "신풍",
+				"PAY_RIDE_NUM": 250754.0,
+				"FREE_RIDE_NUM": 59283.0,
+				"PAY_ALIGHT_NUM": 236029.0,
+				"FREE_ALIGHT_NUM": 60412.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "고속터미널",
+				"PAY_RIDE_NUM": 375860.0,
+				"FREE_RIDE_NUM": 60132.0,
+				"PAY_ALIGHT_NUM": 310457.0,
+				"FREE_ALIGHT_NUM": 52698.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "철산",
+				"PAY_RIDE_NUM": 483921.0,
+				"FREE_RIDE_NUM": 85752.0,
+				"PAY_ALIGHT_NUM": 499672.0,
+				"FREE_ALIGHT_NUM": 85337.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "천왕",
+				"PAY_RIDE_NUM": 255814.0,
+				"FREE_RIDE_NUM": 47698.0,
+				"PAY_ALIGHT_NUM": 240602.0,
+				"FREE_ALIGHT_NUM": 47075.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "용마산(용마폭포공원)",
+				"PAY_RIDE_NUM": 133694.0,
+				"FREE_RIDE_NUM": 30663.0,
+				"PAY_ALIGHT_NUM": 126451.0,
+				"FREE_ALIGHT_NUM": 32949.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "먹골",
+				"PAY_RIDE_NUM": 221524.0,
+				"FREE_RIDE_NUM": 55010.0,
+				"PAY_ALIGHT_NUM": 214143.0,
+				"FREE_ALIGHT_NUM": 55990.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "중계",
+				"PAY_RIDE_NUM": 303292.0,
+				"FREE_RIDE_NUM": 74330.0,
+				"PAY_ALIGHT_NUM": 272540.0,
+				"FREE_ALIGHT_NUM": 71764.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "태릉입구",
+				"PAY_RIDE_NUM": 189740.0,
+				"FREE_RIDE_NUM": 38712.0,
+				"PAY_ALIGHT_NUM": 178404.0,
+				"FREE_ALIGHT_NUM": 36323.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "삼산체육관",
+				"PAY_RIDE_NUM": 122493.0,
+				"FREE_RIDE_NUM": 23375.0,
+				"PAY_ALIGHT_NUM": 110986.0,
+				"FREE_ALIGHT_NUM": 22031.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "신중동",
+				"PAY_RIDE_NUM": 337987.0,
+				"FREE_RIDE_NUM": 46736.0,
+				"PAY_ALIGHT_NUM": 338848.0,
+				"FREE_ALIGHT_NUM": 45541.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "신대방삼거리",
+				"PAY_RIDE_NUM": 365650.0,
+				"FREE_RIDE_NUM": 77090.0,
+				"PAY_ALIGHT_NUM": 344015.0,
+				"FREE_ALIGHT_NUM": 79100.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "온수(성공회대입구)",
+				"PAY_RIDE_NUM": 240426.0,
+				"FREE_RIDE_NUM": 34615.0,
+				"PAY_ALIGHT_NUM": 222417.0,
+				"FREE_ALIGHT_NUM": 33124.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "장암",
+				"PAY_RIDE_NUM": 52636.0,
+				"FREE_RIDE_NUM": 7758.0,
+				"PAY_ALIGHT_NUM": 20199.0,
+				"FREE_ALIGHT_NUM": 5277.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "부천종합운동장",
+				"PAY_RIDE_NUM": 115966.0,
+				"FREE_RIDE_NUM": 18001.0,
+				"PAY_ALIGHT_NUM": 100166.0,
+				"FREE_ALIGHT_NUM": 17771.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "남성",
+				"PAY_RIDE_NUM": 238957.0,
+				"FREE_RIDE_NUM": 58547.0,
+				"PAY_ALIGHT_NUM": 219336.0,
+				"FREE_ALIGHT_NUM": 58644.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "상봉(시외버스터미널)",
+				"PAY_RIDE_NUM": 403172.0,
+				"FREE_RIDE_NUM": 61581.0,
+				"PAY_ALIGHT_NUM": 377646.0,
+				"FREE_ALIGHT_NUM": 59754.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "수락산",
+				"PAY_RIDE_NUM": 262886.0,
+				"FREE_RIDE_NUM": 79539.0,
+				"PAY_ALIGHT_NUM": 253942.0,
+				"FREE_ALIGHT_NUM": 80159.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "논현",
+				"PAY_RIDE_NUM": 477352.0,
+				"FREE_RIDE_NUM": 44905.0,
+				"PAY_ALIGHT_NUM": 526388.0,
+				"FREE_ALIGHT_NUM": 44754.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "광���사거리",
+				"PAY_RIDE_NUM": 481698.0,
+				"FREE_RIDE_NUM": 129457.0,
+				"PAY_ALIGHT_NUM": 469748.0,
+				"FREE_ALIGHT_NUM": 133130.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "노원",
+				"PAY_RIDE_NUM": 434194.0,
+				"FREE_RIDE_NUM": 103597.0,
+				"PAY_ALIGHT_NUM": 455663.0,
+				"FREE_ALIGHT_NUM": 103646.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "사가정",
+				"PAY_RIDE_NUM": 352365.0,
+				"FREE_RIDE_NUM": 85407.0,
+				"PAY_ALIGHT_NUM": 350194.0,
+				"FREE_ALIGHT_NUM": 85930.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "하계",
+				"PAY_RIDE_NUM": 386604.0,
+				"FREE_RIDE_NUM": 87276.0,
+				"PAY_ALIGHT_NUM": 360468.0,
+				"FREE_ALIGHT_NUM": 84604.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "학동",
+				"PAY_RIDE_NUM": 566535.0,
+				"FREE_RIDE_NUM": 53809.0,
+				"PAY_ALIGHT_NUM": 607281.0,
+				"FREE_ALIGHT_NUM": 50560.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "중곡",
+				"PAY_RIDE_NUM": 240269.0,
+				"FREE_RIDE_NUM": 53415.0,
+				"PAY_ALIGHT_NUM": 221498.0,
+				"FREE_ALIGHT_NUM": 54647.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "건대입구",
+				"PAY_RIDE_NUM": 299730.0,
+				"FREE_RIDE_NUM": 47300.0,
+				"PAY_ALIGHT_NUM": 316262.0,
+				"FREE_ALIGHT_NUM": 41976.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "도봉산",
+				"PAY_RIDE_NUM": 206651.0,
+				"FREE_RIDE_NUM": 40213.0,
+				"PAY_ALIGHT_NUM": 232000.0,
+				"FREE_ALIGHT_NUM": 56282.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "면목",
+				"PAY_RIDE_NUM": 349653.0,
+				"FREE_RIDE_NUM": 83426.0,
+				"PAY_ALIGHT_NUM": 337756.0,
+				"FREE_ALIGHT_NUM": 86316.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "7호선",
+				"SUB_STA_NM": "이수",
+				"PAY_RIDE_NUM": 359105.0,
+				"FREE_RIDE_NUM": 66260.0,
+				"PAY_ALIGHT_NUM": 348365.0,
+				"FREE_ALIGHT_NUM": 63480.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "송파",
+				"PAY_RIDE_NUM": 157581.0,
+				"FREE_RIDE_NUM": 45900.0,
+				"PAY_ALIGHT_NUM": 159069.0,
+				"FREE_ALIGHT_NUM": 46211.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "남위례",
+				"PAY_RIDE_NUM": 33069.0,
+				"FREE_RIDE_NUM": 7473.0,
+				"PAY_ALIGHT_NUM": 37802.0,
+				"FREE_ALIGHT_NUM": 7645.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "장지",
+				"PAY_RIDE_NUM": 403072.0,
+				"FREE_RIDE_NUM": 67372.0,
+				"PAY_ALIGHT_NUM": 390610.0,
+				"FREE_ALIGHT_NUM": 63755.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "암사",
+				"PAY_RIDE_NUM": 415325.0,
+				"FREE_RIDE_NUM": 90954.0,
+				"PAY_ALIGHT_NUM": 359285.0,
+				"FREE_ALIGHT_NUM": 90076.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "수진",
+				"PAY_RIDE_NUM": 108082.0,
+				"FREE_RIDE_NUM": 37614.0,
+				"PAY_ALIGHT_NUM": 95662.0,
+				"FREE_ALIGHT_NUM": 36998.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "천호(풍납토성)",
+				"PAY_RIDE_NUM": 346886.0,
+				"FREE_RIDE_NUM": 69491.0,
+				"PAY_ALIGHT_NUM": 413008.0,
+				"FREE_ALIGHT_NUM": 66359.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "단대오거리",
+				"PAY_RIDE_NUM": 221593.0,
+				"FREE_RIDE_NUM": 61933.0,
+				"PAY_ALIGHT_NUM": 214574.0,
+				"FREE_ALIGHT_NUM": 60532.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "문정",
+				"PAY_RIDE_NUM": 500123.0,
+				"FREE_RIDE_NUM": 52730.0,
+				"PAY_ALIGHT_NUM": 525627.0,
+				"FREE_ALIGHT_NUM": 52124.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "신흥",
+				"PAY_RIDE_NUM": 87597.0,
+				"FREE_RIDE_NUM": 32328.0,
+				"PAY_ALIGHT_NUM": 95822.0,
+				"FREE_ALIGHT_NUM": 33863.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "강동구청",
+				"PAY_RIDE_NUM": 223958.0,
+				"FREE_RIDE_NUM": 55412.0,
+				"PAY_ALIGHT_NUM": 233411.0,
+				"FREE_ALIGHT_NUM": 55631.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "남한산성입구(성남법원.검찰청)",
+				"PAY_RIDE_NUM": 304256.0,
+				"FREE_RIDE_NUM": 67543.0,
+				"PAY_ALIGHT_NUM": 271495.0,
+				"FREE_ALIGHT_NUM": 65384.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "잠실(송파구청)",
+				"PAY_RIDE_NUM": 358557.0,
+				"FREE_RIDE_NUM": 57818.0,
+				"PAY_ALIGHT_NUM": 433200.0,
+				"FREE_ALIGHT_NUM": 56316.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "산성",
+				"PAY_RIDE_NUM": 124044.0,
+				"FREE_RIDE_NUM": 27104.0,
+				"PAY_ALIGHT_NUM": 121303.0,
+				"FREE_ALIGHT_NUM": 30062.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "복정",
+				"PAY_RIDE_NUM": 244721.0,
+				"FREE_RIDE_NUM": 38609.0,
+				"PAY_ALIGHT_NUM": 208316.0,
+				"FREE_ALIGHT_NUM": 35031.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "가락시장",
+				"PAY_RIDE_NUM": 153976.0,
+				"FREE_RIDE_NUM": 50654.0,
+				"PAY_ALIGHT_NUM": 175532.0,
+				"FREE_ALIGHT_NUM": 51417.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "모란",
+				"PAY_RIDE_NUM": 80916.0,
+				"FREE_RIDE_NUM": 45183.0,
+				"PAY_ALIGHT_NUM": 65310.0,
+				"FREE_ALIGHT_NUM": 34730.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "몽촌토성(평화의문)",
+				"PAY_RIDE_NUM": 139347.0,
+				"FREE_RIDE_NUM": 27975.0,
+				"PAY_ALIGHT_NUM": 143094.0,
+				"FREE_ALIGHT_NUM": 27154.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "8호선",
+				"SUB_STA_NM": "석촌",
+				"PAY_RIDE_NUM": 171305.0,
+				"FREE_RIDE_NUM": 42734.0,
+				"PAY_ALIGHT_NUM": 202785.0,
+				"FREE_ALIGHT_NUM": 44952.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "공항시장",
+				"PAY_RIDE_NUM": 60111.0,
+				"FREE_RIDE_NUM": 21372.0,
+				"PAY_ALIGHT_NUM": 64600.0,
+				"FREE_ALIGHT_NUM": 23338.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "신반포",
+				"PAY_RIDE_NUM": 70859.0,
+				"FREE_RIDE_NUM": 17159.0,
+				"PAY_ALIGHT_NUM": 69591.0,
+				"FREE_ALIGHT_NUM": 17145.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "신방화",
+				"PAY_RIDE_NUM": 146705.0,
+				"FREE_RIDE_NUM": 38720.0,
+				"PAY_ALIGHT_NUM": 141351.0,
+				"FREE_ALIGHT_NUM": 38347.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "증미",
+				"PAY_RIDE_NUM": 155767.0,
+				"FREE_RIDE_NUM": 35582.0,
+				"PAY_ALIGHT_NUM": 153255.0,
+				"FREE_ALIGHT_NUM": 36454.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "신논현",
+				"PAY_RIDE_NUM": 815578.0,
+				"FREE_RIDE_NUM": 54044.0,
+				"PAY_ALIGHT_NUM": 816171.0,
+				"FREE_ALIGHT_NUM": 49885.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "김포공항",
+				"PAY_RIDE_NUM": 206425.0,
+				"FREE_RIDE_NUM": 15774.0,
+				"PAY_ALIGHT_NUM": 331704.0,
+				"FREE_ALIGHT_NUM": 19808.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "사평",
+				"PAY_RIDE_NUM": 75482.0,
+				"FREE_RIDE_NUM": 17366.0,
+				"PAY_ALIGHT_NUM": 73666.0,
+				"FREE_ALIGHT_NUM": 17641.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "노량진",
+				"PAY_RIDE_NUM": 638126.0,
+				"FREE_RIDE_NUM": 70951.0,
+				"PAY_ALIGHT_NUM": 614948.0,
+				"FREE_ALIGHT_NUM": 71282.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "고속터미널",
+				"PAY_RIDE_NUM": 297182.0,
+				"FREE_RIDE_NUM": 47563.0,
+				"PAY_ALIGHT_NUM": 399977.0,
+				"FREE_ALIGHT_NUM": 53626.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "동작(현충원)",
+				"PAY_RIDE_NUM": 39528.0,
+				"FREE_RIDE_NUM": 9772.0,
+				"PAY_ALIGHT_NUM": 31085.0,
+				"FREE_ALIGHT_NUM": 8388.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "염창",
+				"PAY_RIDE_NUM": 398911.0,
+				"FREE_RIDE_NUM": 60618.0,
+				"PAY_ALIGHT_NUM": 383939.0,
+				"FREE_ALIGHT_NUM": 59680.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "구반포",
+				"PAY_RIDE_NUM": 30478.0,
+				"FREE_RIDE_NUM": 12848.0,
+				"PAY_ALIGHT_NUM": 32316.0,
+				"FREE_ALIGHT_NUM": 12667.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "가양",
+				"PAY_RIDE_NUM": 434546.0,
+				"FREE_RIDE_NUM": 110006.0,
+				"PAY_ALIGHT_NUM": 420178.0,
+				"FREE_ALIGHT_NUM": 106874.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "선유도",
+				"PAY_RIDE_NUM": 196967.0,
+				"FREE_RIDE_NUM": 26100.0,
+				"PAY_ALIGHT_NUM": 188779.0,
+				"FREE_ALIGHT_NUM": 25184.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "신목동",
+				"PAY_RIDE_NUM": 87362.0,
+				"FREE_RIDE_NUM": 17958.0,
+				"PAY_ALIGHT_NUM": 76506.0,
+				"FREE_ALIGHT_NUM": 16794.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "샛강",
+				"PAY_RIDE_NUM": 124619.0,
+				"FREE_RIDE_NUM": 21653.0,
+				"PAY_ALIGHT_NUM": 132566.0,
+				"FREE_ALIGHT_NUM": 21893.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "당산",
+				"PAY_RIDE_NUM": 428306.0,
+				"FREE_RIDE_NUM": 55001.0,
+				"PAY_ALIGHT_NUM": 429904.0,
+				"FREE_ALIGHT_NUM": 50818.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "마곡나루(서울식물원)",
+				"PAY_RIDE_NUM": 283891.0,
+				"FREE_RIDE_NUM": 26418.0,
+				"PAY_ALIGHT_NUM": 281063.0,
+				"FREE_ALIGHT_NUM": 26004.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "등촌",
+				"PAY_RIDE_NUM": 239126.0,
+				"FREE_RIDE_NUM": 69564.0,
+				"PAY_ALIGHT_NUM": 232033.0,
+				"FREE_ALIGHT_NUM": 70128.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "국회의사당",
+				"PAY_RIDE_NUM": 354814.0,
+				"FREE_RIDE_NUM": 47205.0,
+				"PAY_ALIGHT_NUM": 370501.0,
+				"FREE_ALIGHT_NUM": 41307.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "개화",
+				"PAY_RIDE_NUM": 54139.0,
+				"FREE_RIDE_NUM": 10149.0,
+				"PAY_ALIGHT_NUM": 38611.0,
+				"FREE_ALIGHT_NUM": 7933.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "양천향교",
+				"PAY_RIDE_NUM": 215800.0,
+				"FREE_RIDE_NUM": 38140.0,
+				"PAY_ALIGHT_NUM": 218976.0,
+				"FREE_ALIGHT_NUM": 38308.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "노들",
+				"PAY_RIDE_NUM": 93089.0,
+				"FREE_RIDE_NUM": 26661.0,
+				"PAY_ALIGHT_NUM": 77345.0,
+				"FREE_ALIGHT_NUM": 24480.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "흑석(중앙대입구)",
+				"PAY_RIDE_NUM": 163396.0,
+				"FREE_RIDE_NUM": 46128.0,
+				"PAY_ALIGHT_NUM": 171286.0,
+				"FREE_ALIGHT_NUM": 46569.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선",
+				"SUB_STA_NM": "여의도",
+				"PAY_RIDE_NUM": 648069.0,
+				"FREE_RIDE_NUM": 40649.0,
+				"PAY_ALIGHT_NUM": 617940.0,
+				"FREE_ALIGHT_NUM": 37534.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "석촌",
+				"PAY_RIDE_NUM": 198942.0,
+				"FREE_RIDE_NUM": 28978.0,
+				"PAY_ALIGHT_NUM": 175108.0,
+				"FREE_ALIGHT_NUM": 25011.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "석촌고분",
+				"PAY_RIDE_NUM": 136880.0,
+				"FREE_RIDE_NUM": 28289.0,
+				"PAY_ALIGHT_NUM": 134931.0,
+				"FREE_ALIGHT_NUM": 28640.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "삼성중앙",
+				"PAY_RIDE_NUM": 151244.0,
+				"FREE_RIDE_NUM": 19844.0,
+				"PAY_ALIGHT_NUM": 160460.0,
+				"FREE_ALIGHT_NUM": 19733.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "종합운동장",
+				"PAY_RIDE_NUM": 96243.0,
+				"FREE_RIDE_NUM": 14633.0,
+				"PAY_ALIGHT_NUM": 94625.0,
+				"FREE_ALIGHT_NUM": 13309.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "둔촌오륜",
+				"PAY_RIDE_NUM": 25647.0,
+				"FREE_RIDE_NUM": 4961.0,
+				"PAY_ALIGHT_NUM": 23413.0,
+				"FREE_ALIGHT_NUM": 5252.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "중앙보훈병원",
+				"PAY_RIDE_NUM": 197071.0,
+				"FREE_RIDE_NUM": 66674.0,
+				"PAY_ALIGHT_NUM": 167678.0,
+				"FREE_ALIGHT_NUM": 65619.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "봉은사",
+				"PAY_RIDE_NUM": 419619.0,
+				"FREE_RIDE_NUM": 38448.0,
+				"PAY_ALIGHT_NUM": 436224.0,
+				"FREE_ALIGHT_NUM": 36782.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "선정릉",
+				"PAY_RIDE_NUM": 223428.0,
+				"FREE_RIDE_NUM": 21101.0,
+				"PAY_ALIGHT_NUM": 246875.0,
+				"FREE_ALIGHT_NUM": 21588.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "한성백제",
+				"PAY_RIDE_NUM": 55169.0,
+				"FREE_RIDE_NUM": 13524.0,
+				"PAY_ALIGHT_NUM": 50072.0,
+				"FREE_ALIGHT_NUM": 12203.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "올림픽공원(한국체대)",
+				"PAY_RIDE_NUM": 173628.0,
+				"FREE_RIDE_NUM": 24037.0,
+				"PAY_ALIGHT_NUM": 169556.0,
+				"FREE_ALIGHT_NUM": 23451.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "송파나루",
+				"PAY_RIDE_NUM": 119079.0,
+				"FREE_RIDE_NUM": 21811.0,
+				"PAY_ALIGHT_NUM": 127711.0,
+				"FREE_ALIGHT_NUM": 22652.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "삼전",
+				"PAY_RIDE_NUM": 155870.0,
+				"FREE_RIDE_NUM": 30887.0,
+				"PAY_ALIGHT_NUM": 150788.0,
+				"FREE_ALIGHT_NUM": 30062.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "9호선2~3단계",
+				"SUB_STA_NM": "언주",
+				"PAY_RIDE_NUM": 255778.0,
+				"FREE_RIDE_NUM": 25433.0,
+				"PAY_ALIGHT_NUM": 260881.0,
+				"FREE_ALIGHT_NUM": 25087.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경강선",
+				"SUB_STA_NM": "곤지암",
+				"PAY_RIDE_NUM": 51486.0,
+				"FREE_RIDE_NUM": 10741.0,
+				"PAY_ALIGHT_NUM": 50045.0,
+				"FREE_ALIGHT_NUM": 10766.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경강선",
+				"SUB_STA_NM": "판교",
+				"PAY_RIDE_NUM": 115355.0,
+				"FREE_RIDE_NUM": 11701.0,
+				"PAY_ALIGHT_NUM": 115182.0,
+				"FREE_ALIGHT_NUM": 10634.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경강선",
+				"SUB_STA_NM": "신둔도예촌",
+				"PAY_RIDE_NUM": 33054.0,
+				"FREE_RIDE_NUM": 6016.0,
+				"PAY_ALIGHT_NUM": 30775.0,
+				"FREE_ALIGHT_NUM": 5956.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경강선",
+				"SUB_STA_NM": "부발",
+				"PAY_RIDE_NUM": 52830.0,
+				"FREE_RIDE_NUM": 7020.0,
+				"PAY_ALIGHT_NUM": 48651.0,
+				"FREE_ALIGHT_NUM": 6664.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경강선",
+				"SUB_STA_NM": "경기광주",
+				"PAY_RIDE_NUM": 178018.0,
+				"FREE_RIDE_NUM": 25884.0,
+				"PAY_ALIGHT_NUM": 167415.0,
+				"FREE_ALIGHT_NUM": 26210.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경강선",
+				"SUB_STA_NM": "이매",
+				"PAY_RIDE_NUM": 25032.0,
+				"FREE_RIDE_NUM": 5352.0,
+				"PAY_ALIGHT_NUM": 20287.0,
+				"FREE_ALIGHT_NUM": 4937.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경강선",
+				"SUB_STA_NM": "이천",
+				"PAY_RIDE_NUM": 64447.0,
+				"FREE_RIDE_NUM": 10761.0,
+				"PAY_ALIGHT_NUM": 67071.0,
+				"FREE_ALIGHT_NUM": 11270.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경강선",
+				"SUB_STA_NM": "여주",
+				"PAY_RIDE_NUM": 48639.0,
+				"FREE_RIDE_NUM": 12017.0,
+				"PAY_ALIGHT_NUM": 49487.0,
+				"FREE_ALIGHT_NUM": 11743.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경강선",
+				"SUB_STA_NM": "초월",
+				"PAY_RIDE_NUM": 72145.0,
+				"FREE_RIDE_NUM": 12194.0,
+				"PAY_ALIGHT_NUM": 68523.0,
+				"FREE_ALIGHT_NUM": 12000.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경강선",
+				"SUB_STA_NM": "삼동",
+				"PAY_RIDE_NUM": 52245.0,
+				"FREE_RIDE_NUM": 10402.0,
+				"PAY_ALIGHT_NUM": 47493.0,
+				"FREE_ALIGHT_NUM": 10335.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경강선",
+				"SUB_STA_NM": "세종대왕릉",
+				"PAY_RIDE_NUM": 5887.0,
+				"FREE_RIDE_NUM": 2618.0,
+				"PAY_ALIGHT_NUM": 5812.0,
+				"FREE_ALIGHT_NUM": 2553.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "서동탄",
+				"PAY_RIDE_NUM": 31822.0,
+				"FREE_RIDE_NUM": 6230.0,
+				"PAY_ALIGHT_NUM": 28376.0,
+				"FREE_ALIGHT_NUM": 5866.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "세류",
+				"PAY_RIDE_NUM": 70548.0,
+				"FREE_RIDE_NUM": 12787.0,
+				"PAY_ALIGHT_NUM": 64890.0,
+				"FREE_ALIGHT_NUM": 12369.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "병점",
+				"PAY_RIDE_NUM": 345184.0,
+				"FREE_RIDE_NUM": 52267.0,
+				"PAY_ALIGHT_NUM": 346022.0,
+				"FREE_ALIGHT_NUM": 51785.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "진위",
+				"PAY_RIDE_NUM": 37518.0,
+				"FREE_RIDE_NUM": 6640.0,
+				"PAY_ALIGHT_NUM": 32270.0,
+				"FREE_ALIGHT_NUM": 6235.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "광명",
+				"PAY_RIDE_NUM": 86274.0,
+				"FREE_RIDE_NUM": 7890.0,
+				"PAY_ALIGHT_NUM": 74347.0,
+				"FREE_ALIGHT_NUM": 7387.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "서울역",
+				"PAY_RIDE_NUM": 177398.0,
+				"FREE_RIDE_NUM": 9415.0,
+				"PAY_ALIGHT_NUM": 58435.0,
+				"FREE_ALIGHT_NUM": 2303.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "관악",
+				"PAY_RIDE_NUM": 154289.0,
+				"FREE_RIDE_NUM": 43372.0,
+				"PAY_ALIGHT_NUM": 141605.0,
+				"FREE_ALIGHT_NUM": 41340.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "용산",
+				"PAY_RIDE_NUM": 907868.0,
+				"FREE_RIDE_NUM": 101261.0,
+				"PAY_ALIGHT_NUM": 924148.0,
+				"FREE_ALIGHT_NUM": 99436.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "대방",
+				"PAY_RIDE_NUM": 279324.0,
+				"FREE_RIDE_NUM": 57845.0,
+				"PAY_ALIGHT_NUM": 289331.0,
+				"FREE_ALIGHT_NUM": 57567.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "평택",
+				"PAY_RIDE_NUM": 295623.0,
+				"FREE_RIDE_NUM": 52663.0,
+				"PAY_ALIGHT_NUM": 293097.0,
+				"FREE_ALIGHT_NUM": 51452.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "명학",
+				"PAY_RIDE_NUM": 198988.0,
+				"FREE_RIDE_NUM": 35794.0,
+				"PAY_ALIGHT_NUM": 195758.0,
+				"FREE_ALIGHT_NUM": 35004.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "화서",
+				"PAY_RIDE_NUM": 174040.0,
+				"FREE_RIDE_NUM": 34882.0,
+				"PAY_ALIGHT_NUM": 167810.0,
+				"FREE_ALIGHT_NUM": 34273.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "당정",
+				"PAY_RIDE_NUM": 136740.0,
+				"FREE_RIDE_NUM": 25776.0,
+				"PAY_ALIGHT_NUM": 130199.0,
+				"FREE_ALIGHT_NUM": 24735.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "오산대",
+				"PAY_RIDE_NUM": 80980.0,
+				"FREE_RIDE_NUM": 13127.0,
+				"PAY_ALIGHT_NUM": 74199.0,
+				"FREE_ALIGHT_NUM": 12559.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "평택지제",
+				"PAY_RIDE_NUM": 88319.0,
+				"FREE_RIDE_NUM": 9654.0,
+				"PAY_ALIGHT_NUM": 83559.0,
+				"FREE_ALIGHT_NUM": 9178.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "오산",
+				"PAY_RIDE_NUM": 240677.0,
+				"FREE_RIDE_NUM": 37898.0,
+				"PAY_ALIGHT_NUM": 236886.0,
+				"FREE_ALIGHT_NUM": 38706.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "가산디지털단지",
+				"PAY_RIDE_NUM": 415656.0,
+				"FREE_RIDE_NUM": 30578.0,
+				"PAY_ALIGHT_NUM": 491304.0,
+				"FREE_ALIGHT_NUM": 34454.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "천안",
+				"PAY_RIDE_NUM": 112529.0,
+				"FREE_RIDE_NUM": 38439.0,
+				"PAY_ALIGHT_NUM": 116487.0,
+				"FREE_ALIGHT_NUM": 38964.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "안양",
+				"PAY_RIDE_NUM": 525601.0,
+				"FREE_RIDE_NUM": 94802.0,
+				"PAY_ALIGHT_NUM": 518927.0,
+				"FREE_ALIGHT_NUM": 98771.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "송탄",
+				"PAY_RIDE_NUM": 109661.0,
+				"FREE_RIDE_NUM": 17834.0,
+				"PAY_ALIGHT_NUM": 105742.0,
+				"FREE_ALIGHT_NUM": 17068.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "남영",
+				"PAY_RIDE_NUM": 211254.0,
+				"FREE_RIDE_NUM": 30349.0,
+				"PAY_ALIGHT_NUM": 220955.0,
+				"FREE_ALIGHT_NUM": 31251.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "서정리",
+				"PAY_RIDE_NUM": 173956.0,
+				"FREE_RIDE_NUM": 25968.0,
+				"PAY_ALIGHT_NUM": 161335.0,
+				"FREE_ALIGHT_NUM": 25360.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "금정",
+				"PAY_RIDE_NUM": 609979.0,
+				"FREE_RIDE_NUM": 98226.0,
+				"PAY_ALIGHT_NUM": 622262.0,
+				"FREE_ALIGHT_NUM": 99100.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "독산",
+				"PAY_RIDE_NUM": 416179.0,
+				"FREE_RIDE_NUM": 57134.0,
+				"PAY_ALIGHT_NUM": 431286.0,
+				"FREE_ALIGHT_NUM": 58299.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "석수",
+				"PAY_RIDE_NUM": 219371.0,
+				"FREE_RIDE_NUM": 40783.0,
+				"PAY_ALIGHT_NUM": 193315.0,
+				"FREE_ALIGHT_NUM": 38810.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "수원",
+				"PAY_RIDE_NUM": 898472.0,
+				"FREE_RIDE_NUM": 113682.0,
+				"PAY_ALIGHT_NUM": 952563.0,
+				"FREE_ALIGHT_NUM": 116547.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "의왕",
+				"PAY_RIDE_NUM": 204467.0,
+				"FREE_RIDE_NUM": 36752.0,
+				"PAY_ALIGHT_NUM": 203678.0,
+				"FREE_ALIGHT_NUM": 36594.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "신길",
+				"PAY_RIDE_NUM": 202406.0,
+				"FREE_RIDE_NUM": 37138.0,
+				"PAY_ALIGHT_NUM": 168902.0,
+				"FREE_ALIGHT_NUM": 34608.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "세마",
+				"PAY_RIDE_NUM": 63377.0,
+				"FREE_RIDE_NUM": 12750.0,
+				"PAY_ALIGHT_NUM": 59284.0,
+				"FREE_ALIGHT_NUM": 11910.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "군포",
+				"PAY_RIDE_NUM": 170535.0,
+				"FREE_RIDE_NUM": 30255.0,
+				"PAY_ALIGHT_NUM": 167995.0,
+				"FREE_ALIGHT_NUM": 30211.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "직산",
+				"PAY_RIDE_NUM": 17803.0,
+				"FREE_RIDE_NUM": 3768.0,
+				"PAY_ALIGHT_NUM": 17217.0,
+				"FREE_ALIGHT_NUM": 3583.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "성균관대",
+				"PAY_RIDE_NUM": 339363.0,
+				"FREE_RIDE_NUM": 41779.0,
+				"PAY_ALIGHT_NUM": 334179.0,
+				"FREE_ALIGHT_NUM": 41869.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "노량진",
+				"PAY_RIDE_NUM": 200555.0,
+				"FREE_RIDE_NUM": 29892.0,
+				"PAY_ALIGHT_NUM": 204590.0,
+				"FREE_ALIGHT_NUM": 27884.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "두정",
+				"PAY_RIDE_NUM": 131870.0,
+				"FREE_RIDE_NUM": 18176.0,
+				"PAY_ALIGHT_NUM": 132480.0,
+				"FREE_ALIGHT_NUM": 18364.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "성환",
+				"PAY_RIDE_NUM": 86075.0,
+				"FREE_RIDE_NUM": 15834.0,
+				"PAY_ALIGHT_NUM": 85127.0,
+				"FREE_ALIGHT_NUM": 15915.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "금천구청",
+				"PAY_RIDE_NUM": 251825.0,
+				"FREE_RIDE_NUM": 66450.0,
+				"PAY_ALIGHT_NUM": 247607.0,
+				"FREE_ALIGHT_NUM": 68043.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "영등포",
+				"PAY_RIDE_NUM": 920681.0,
+				"FREE_RIDE_NUM": 193008.0,
+				"PAY_ALIGHT_NUM": 950719.0,
+				"FREE_ALIGHT_NUM": 191977.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "신도림",
+				"PAY_RIDE_NUM": 86876.0,
+				"FREE_RIDE_NUM": 21334.0,
+				"PAY_ALIGHT_NUM": 83966.0,
+				"FREE_ALIGHT_NUM": 24030.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경부선",
+				"SUB_STA_NM": "구로",
+				"PAY_RIDE_NUM": 419890.0,
+				"FREE_RIDE_NUM": 82902.0,
+				"PAY_ALIGHT_NUM": 433592.0,
+				"FREE_ALIGHT_NUM": 80005.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "한남",
+				"PAY_RIDE_NUM": 83396.0,
+				"FREE_RIDE_NUM": 24953.0,
+				"PAY_ALIGHT_NUM": 80581.0,
+				"FREE_ALIGHT_NUM": 23607.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "소요산",
+				"PAY_RIDE_NUM": 27560.0,
+				"FREE_RIDE_NUM": 43711.0,
+				"PAY_ALIGHT_NUM": 21036.0,
+				"FREE_ALIGHT_NUM": 39288.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "서빙고",
+				"PAY_RIDE_NUM": 40816.0,
+				"FREE_RIDE_NUM": 13431.0,
+				"PAY_ALIGHT_NUM": 39264.0,
+				"FREE_ALIGHT_NUM": 12360.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "이촌(국립중앙박물관)",
+				"PAY_RIDE_NUM": 75378.0,
+				"FREE_RIDE_NUM": 22554.0,
+				"PAY_ALIGHT_NUM": 56722.0,
+				"FREE_ALIGHT_NUM": 19202.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "방학",
+				"PAY_RIDE_NUM": 169391.0,
+				"FREE_RIDE_NUM": 90307.0,
+				"PAY_ALIGHT_NUM": 164429.0,
+				"FREE_ALIGHT_NUM": 89545.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "덕정",
+				"PAY_RIDE_NUM": 126626.0,
+				"FREE_RIDE_NUM": 28078.0,
+				"PAY_ALIGHT_NUM": 122029.0,
+				"FREE_ALIGHT_NUM": 27859.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "망월사",
+				"PAY_RIDE_NUM": 145476.0,
+				"FREE_RIDE_NUM": 58005.0,
+				"PAY_ALIGHT_NUM": 147952.0,
+				"FREE_ALIGHT_NUM": 60011.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "창동",
+				"PAY_RIDE_NUM": 7.0,
+				"FREE_RIDE_NUM": 1.0,
+				"PAY_ALIGHT_NUM": 0.0,
+				"FREE_ALIGHT_NUM": 0.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "석계",
+				"PAY_RIDE_NUM": 166023.0,
+				"FREE_RIDE_NUM": 51839.0,
+				"PAY_ALIGHT_NUM": 189617.0,
+				"FREE_ALIGHT_NUM": 56293.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "광운대",
+				"PAY_RIDE_NUM": 170183.0,
+				"FREE_RIDE_NUM": 43086.0,
+				"PAY_ALIGHT_NUM": 164750.0,
+				"FREE_ALIGHT_NUM": 43063.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "동두천중앙",
+				"PAY_RIDE_NUM": 55350.0,
+				"FREE_RIDE_NUM": 30204.0,
+				"PAY_ALIGHT_NUM": 53602.0,
+				"FREE_ALIGHT_NUM": 29886.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "녹천",
+				"PAY_RIDE_NUM": 91404.0,
+				"FREE_RIDE_NUM": 31971.0,
+				"PAY_ALIGHT_NUM": 75730.0,
+				"FREE_ALIGHT_NUM": 28686.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "양주",
+				"PAY_RIDE_NUM": 164004.0,
+				"FREE_RIDE_NUM": 44763.0,
+				"PAY_ALIGHT_NUM": 153200.0,
+				"FREE_ALIGHT_NUM": 43531.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "동두천",
+				"PAY_RIDE_NUM": 37503.0,
+				"FREE_RIDE_NUM": 19707.0,
+				"PAY_ALIGHT_NUM": 40944.0,
+				"FREE_ALIGHT_NUM": 22844.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "녹양",
+				"PAY_RIDE_NUM": 92246.0,
+				"FREE_RIDE_NUM": 30922.0,
+				"PAY_ALIGHT_NUM": 86939.0,
+				"FREE_ALIGHT_NUM": 29351.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "덕계",
+				"PAY_RIDE_NUM": 64156.0,
+				"FREE_RIDE_NUM": 18458.0,
+				"PAY_ALIGHT_NUM": 56195.0,
+				"FREE_ALIGHT_NUM": 17738.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "가능",
+				"PAY_RIDE_NUM": 131258.0,
+				"FREE_RIDE_NUM": 48087.0,
+				"PAY_ALIGHT_NUM": 124709.0,
+				"FREE_ALIGHT_NUM": 48055.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "옥수",
+				"PAY_RIDE_NUM": 1377.0,
+				"FREE_RIDE_NUM": 122.0,
+				"PAY_ALIGHT_NUM": 897.0,
+				"FREE_ALIGHT_NUM": 83.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "청량리(서울시립대입구)",
+				"PAY_RIDE_NUM": 320615.0,
+				"FREE_RIDE_NUM": 118023.0,
+				"PAY_ALIGHT_NUM": 327031.0,
+				"FREE_ALIGHT_NUM": 124522.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "응봉",
+				"PAY_RIDE_NUM": 35325.0,
+				"FREE_RIDE_NUM": 13980.0,
+				"PAY_ALIGHT_NUM": 29287.0,
+				"FREE_ALIGHT_NUM": 12675.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "도봉산",
+				"PAY_RIDE_NUM": 121138.0,
+				"FREE_RIDE_NUM": 89056.0,
+				"PAY_ALIGHT_NUM": 67093.0,
+				"FREE_ALIGHT_NUM": 71093.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "의정부",
+				"PAY_RIDE_NUM": 430727.0,
+				"FREE_RIDE_NUM": 93275.0,
+				"PAY_ALIGHT_NUM": 444755.0,
+				"FREE_ALIGHT_NUM": 94717.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "외대앞",
+				"PAY_RIDE_NUM": 166573.0,
+				"FREE_RIDE_NUM": 36961.0,
+				"PAY_ALIGHT_NUM": 162638.0,
+				"FREE_ALIGHT_NUM": 38186.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "왕십리(성동구청)",
+				"PAY_RIDE_NUM": 342315.0,
+				"FREE_RIDE_NUM": 52876.0,
+				"PAY_ALIGHT_NUM": 384347.0,
+				"FREE_ALIGHT_NUM": 56823.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "신이문",
+				"PAY_RIDE_NUM": 168016.0,
+				"FREE_RIDE_NUM": 58660.0,
+				"PAY_ALIGHT_NUM": 152614.0,
+				"FREE_ALIGHT_NUM": 57687.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "회룡",
+				"PAY_RIDE_NUM": 213348.0,
+				"FREE_RIDE_NUM": 119089.0,
+				"PAY_ALIGHT_NUM": 210460.0,
+				"FREE_ALIGHT_NUM": 118172.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "월계",
+				"PAY_RIDE_NUM": 129701.0,
+				"FREE_RIDE_NUM": 52694.0,
+				"PAY_ALIGHT_NUM": 121120.0,
+				"FREE_ALIGHT_NUM": 50138.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "지행",
+				"PAY_RIDE_NUM": 142641.0,
+				"FREE_RIDE_NUM": 38494.0,
+				"PAY_ALIGHT_NUM": 141682.0,
+				"FREE_ALIGHT_NUM": 38514.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "보산",
+				"PAY_RIDE_NUM": 34709.0,
+				"FREE_RIDE_NUM": 11541.0,
+				"PAY_ALIGHT_NUM": 31767.0,
+				"FREE_ALIGHT_NUM": 10913.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경원선",
+				"SUB_STA_NM": "도봉",
+				"PAY_RIDE_NUM": 100860.0,
+				"FREE_RIDE_NUM": 60082.0,
+				"PAY_ALIGHT_NUM": 95686.0,
+				"FREE_ALIGHT_NUM": 60275.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "효창공원앞",
+				"PAY_RIDE_NUM": 64683.0,
+				"FREE_RIDE_NUM": 12414.0,
+				"PAY_ALIGHT_NUM": 74871.0,
+				"FREE_ALIGHT_NUM": 13577.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "백마",
+				"PAY_RIDE_NUM": 153203.0,
+				"FREE_RIDE_NUM": 28005.0,
+				"PAY_ALIGHT_NUM": 146202.0,
+				"FREE_ALIGHT_NUM": 27941.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "능곡",
+				"PAY_RIDE_NUM": 77582.0,
+				"FREE_RIDE_NUM": 24457.0,
+				"PAY_ALIGHT_NUM": 70862.0,
+				"FREE_ALIGHT_NUM": 23813.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "가좌",
+				"PAY_RIDE_NUM": 105610.0,
+				"FREE_RIDE_NUM": 35685.0,
+				"PAY_ALIGHT_NUM": 99462.0,
+				"FREE_ALIGHT_NUM": 36098.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "수색",
+				"PAY_RIDE_NUM": 57020.0,
+				"FREE_RIDE_NUM": 12751.0,
+				"PAY_ALIGHT_NUM": 59261.0,
+				"FREE_ALIGHT_NUM": 12736.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "풍산",
+				"PAY_RIDE_NUM": 122604.0,
+				"FREE_RIDE_NUM": 28957.0,
+				"PAY_ALIGHT_NUM": 113657.0,
+				"FREE_ALIGHT_NUM": 28468.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "야당",
+				"PAY_RIDE_NUM": 169668.0,
+				"FREE_RIDE_NUM": 28910.0,
+				"PAY_ALIGHT_NUM": 166601.0,
+				"FREE_ALIGHT_NUM": 27602.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "화전",
+				"PAY_RIDE_NUM": 42197.0,
+				"FREE_RIDE_NUM": 7601.0,
+				"PAY_ALIGHT_NUM": 37887.0,
+				"FREE_ALIGHT_NUM": 7324.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "금릉",
+				"PAY_RIDE_NUM": 109420.0,
+				"FREE_RIDE_NUM": 22284.0,
+				"PAY_ALIGHT_NUM": 105528.0,
+				"FREE_ALIGHT_NUM": 21871.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "서울역",
+				"PAY_RIDE_NUM": 90878.0,
+				"FREE_RIDE_NUM": 12674.0,
+				"PAY_ALIGHT_NUM": 113848.0,
+				"FREE_ALIGHT_NUM": 15563.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "문산",
+				"PAY_RIDE_NUM": 105265.0,
+				"FREE_RIDE_NUM": 34131.0,
+				"PAY_ALIGHT_NUM": 104383.0,
+				"FREE_ALIGHT_NUM": 34095.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "검암",
+				"PAY_RIDE_NUM": 2.0,
+				"FREE_RIDE_NUM": 0.0,
+				"PAY_ALIGHT_NUM": 0.0,
+				"FREE_ALIGHT_NUM": 0.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "홍대입구",
+				"PAY_RIDE_NUM": 45197.0,
+				"FREE_RIDE_NUM": 4300.0,
+				"PAY_ALIGHT_NUM": 54155.0,
+				"FREE_ALIGHT_NUM": 4788.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "계양",
+				"PAY_RIDE_NUM": 8.0,
+				"FREE_RIDE_NUM": 0.0,
+				"PAY_ALIGHT_NUM": 0.0,
+				"FREE_ALIGHT_NUM": 0.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "탄현",
+				"PAY_RIDE_NUM": 175848.0,
+				"FREE_RIDE_NUM": 31460.0,
+				"PAY_ALIGHT_NUM": 166756.0,
+				"FREE_ALIGHT_NUM": 31074.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "월롱",
+				"PAY_RIDE_NUM": 60931.0,
+				"FREE_RIDE_NUM": 7317.0,
+				"PAY_ALIGHT_NUM": 55782.0,
+				"FREE_ALIGHT_NUM": 8037.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "파주",
+				"PAY_RIDE_NUM": 30011.0,
+				"FREE_RIDE_NUM": 6095.0,
+				"PAY_ALIGHT_NUM": 19704.0,
+				"FREE_ALIGHT_NUM": 4932.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "공덕",
+				"PAY_RIDE_NUM": 84566.0,
+				"FREE_RIDE_NUM": 11866.0,
+				"PAY_ALIGHT_NUM": 72492.0,
+				"FREE_ALIGHT_NUM": 11562.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "곡산",
+				"PAY_RIDE_NUM": 11095.0,
+				"FREE_RIDE_NUM": 4021.0,
+				"PAY_ALIGHT_NUM": 11696.0,
+				"FREE_ALIGHT_NUM": 4073.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "금촌",
+				"PAY_RIDE_NUM": 138724.0,
+				"FREE_RIDE_NUM": 38143.0,
+				"PAY_ALIGHT_NUM": 137643.0,
+				"FREE_ALIGHT_NUM": 38913.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "행신",
+				"PAY_RIDE_NUM": 182766.0,
+				"FREE_RIDE_NUM": 27539.0,
+				"PAY_ALIGHT_NUM": 183045.0,
+				"FREE_ALIGHT_NUM": 28209.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "디지털미디어시티",
+				"PAY_RIDE_NUM": 57526.0,
+				"FREE_RIDE_NUM": 9354.0,
+				"PAY_ALIGHT_NUM": 53124.0,
+				"FREE_ALIGHT_NUM": 9331.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "일산",
+				"PAY_RIDE_NUM": 199440.0,
+				"FREE_RIDE_NUM": 50042.0,
+				"PAY_ALIGHT_NUM": 196419.0,
+				"FREE_ALIGHT_NUM": 50183.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "강매",
+				"PAY_RIDE_NUM": 68509.0,
+				"FREE_RIDE_NUM": 15259.0,
+				"PAY_ALIGHT_NUM": 58848.0,
+				"FREE_ALIGHT_NUM": 14406.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "서강대",
+				"PAY_RIDE_NUM": 47859.0,
+				"FREE_RIDE_NUM": 10046.0,
+				"PAY_ALIGHT_NUM": 47220.0,
+				"FREE_ALIGHT_NUM": 9202.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "임진강",
+				"PAY_RIDE_NUM": 355.0,
+				"FREE_RIDE_NUM": 181.0,
+				"PAY_ALIGHT_NUM": 286.0,
+				"FREE_ALIGHT_NUM": 210.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "운정",
+				"PAY_RIDE_NUM": 155102.0,
+				"FREE_RIDE_NUM": 32936.0,
+				"PAY_ALIGHT_NUM": 146552.0,
+				"FREE_ALIGHT_NUM": 32700.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경의선",
+				"SUB_STA_NM": "신촌",
+				"PAY_RIDE_NUM": 17896.0,
+				"FREE_RIDE_NUM": 3072.0,
+				"PAY_ALIGHT_NUM": 22253.0,
+				"FREE_ALIGHT_NUM": 3416.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "개봉",
+				"PAY_RIDE_NUM": 446035.0,
+				"FREE_RIDE_NUM": 127990.0,
+				"PAY_ALIGHT_NUM": 439600.0,
+				"FREE_ALIGHT_NUM": 133819.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "소사",
+				"PAY_RIDE_NUM": 184114.0,
+				"FREE_RIDE_NUM": 53425.0,
+				"PAY_ALIGHT_NUM": 163560.0,
+				"FREE_ALIGHT_NUM": 47881.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "동암",
+				"PAY_RIDE_NUM": 324983.0,
+				"FREE_RIDE_NUM": 78775.0,
+				"PAY_ALIGHT_NUM": 329080.0,
+				"FREE_ALIGHT_NUM": 80139.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "인천",
+				"PAY_RIDE_NUM": 67506.0,
+				"FREE_RIDE_NUM": 26381.0,
+				"PAY_ALIGHT_NUM": 47799.0,
+				"FREE_ALIGHT_NUM": 23974.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "오류동",
+				"PAY_RIDE_NUM": 248589.0,
+				"FREE_RIDE_NUM": 76032.0,
+				"PAY_ALIGHT_NUM": 228270.0,
+				"FREE_ALIGHT_NUM": 75085.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "간석",
+				"PAY_RIDE_NUM": 121431.0,
+				"FREE_RIDE_NUM": 37052.0,
+				"PAY_ALIGHT_NUM": 115053.0,
+				"FREE_ALIGHT_NUM": 36096.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "중동",
+				"PAY_RIDE_NUM": 191437.0,
+				"FREE_RIDE_NUM": 58711.0,
+				"PAY_ALIGHT_NUM": 178173.0,
+				"FREE_ALIGHT_NUM": 58069.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "부개",
+				"PAY_RIDE_NUM": 177839.0,
+				"FREE_RIDE_NUM": 52653.0,
+				"PAY_ALIGHT_NUM": 164493.0,
+				"FREE_ALIGHT_NUM": 51746.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "도원",
+				"PAY_RIDE_NUM": 55450.0,
+				"FREE_RIDE_NUM": 23756.0,
+				"PAY_ALIGHT_NUM": 54565.0,
+				"FREE_ALIGHT_NUM": 25200.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "동인천",
+				"PAY_RIDE_NUM": 280599.0,
+				"FREE_RIDE_NUM": 96390.0,
+				"PAY_ALIGHT_NUM": 266512.0,
+				"FREE_ALIGHT_NUM": 93585.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "도화",
+				"PAY_RIDE_NUM": 79887.0,
+				"FREE_RIDE_NUM": 33675.0,
+				"PAY_ALIGHT_NUM": 73397.0,
+				"FREE_ALIGHT_NUM": 32468.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "온수(성공회대입구)",
+				"PAY_RIDE_NUM": 139450.0,
+				"FREE_RIDE_NUM": 40744.0,
+				"PAY_ALIGHT_NUM": 131469.0,
+				"FREE_ALIGHT_NUM": 39661.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "부천",
+				"PAY_RIDE_NUM": 723018.0,
+				"FREE_RIDE_NUM": 173554.0,
+				"PAY_ALIGHT_NUM": 727835.0,
+				"FREE_ALIGHT_NUM": 175532.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "부평",
+				"PAY_RIDE_NUM": 708218.0,
+				"FREE_RIDE_NUM": 117220.0,
+				"PAY_ALIGHT_NUM": 766701.0,
+				"FREE_ALIGHT_NUM": 119498.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "백운",
+				"PAY_RIDE_NUM": 140577.0,
+				"FREE_RIDE_NUM": 46912.0,
+				"PAY_ALIGHT_NUM": 137138.0,
+				"FREE_ALIGHT_NUM": 47732.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "주안",
+				"PAY_RIDE_NUM": 444243.0,
+				"FREE_RIDE_NUM": 73103.0,
+				"PAY_ALIGHT_NUM": 398761.0,
+				"FREE_ALIGHT_NUM": 65491.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "역곡",
+				"PAY_RIDE_NUM": 598547.0,
+				"FREE_RIDE_NUM": 129008.0,
+				"PAY_ALIGHT_NUM": 585409.0,
+				"FREE_ALIGHT_NUM": 132098.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "송내",
+				"PAY_RIDE_NUM": 603943.0,
+				"FREE_RIDE_NUM": 101255.0,
+				"PAY_ALIGHT_NUM": 601788.0,
+				"FREE_ALIGHT_NUM": 100343.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "제물포",
+				"PAY_RIDE_NUM": 232961.0,
+				"FREE_RIDE_NUM": 53884.0,
+				"PAY_ALIGHT_NUM": 220338.0,
+				"FREE_ALIGHT_NUM": 52824.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경인선",
+				"SUB_STA_NM": "구일",
+				"PAY_RIDE_NUM": 146435.0,
+				"FREE_RIDE_NUM": 35432.0,
+				"PAY_ALIGHT_NUM": 147750.0,
+				"FREE_ALIGHT_NUM": 35232.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "강촌",
+				"PAY_RIDE_NUM": 8293.0,
+				"FREE_RIDE_NUM": 3442.0,
+				"PAY_ALIGHT_NUM": 8203.0,
+				"FREE_ALIGHT_NUM": 3483.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "굴봉산",
+				"PAY_RIDE_NUM": 2044.0,
+				"FREE_RIDE_NUM": 1488.0,
+				"PAY_ALIGHT_NUM": 2343.0,
+				"FREE_ALIGHT_NUM": 1585.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "평내호평",
+				"PAY_RIDE_NUM": 126178.0,
+				"FREE_RIDE_NUM": 37409.0,
+				"PAY_ALIGHT_NUM": 123454.0,
+				"FREE_ALIGHT_NUM": 35834.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "백양리",
+				"PAY_RIDE_NUM": 5303.0,
+				"FREE_RIDE_NUM": 936.0,
+				"PAY_ALIGHT_NUM": 4907.0,
+				"FREE_ALIGHT_NUM": 912.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "춘천",
+				"PAY_RIDE_NUM": 27178.0,
+				"FREE_RIDE_NUM": 10764.0,
+				"PAY_ALIGHT_NUM": 24866.0,
+				"FREE_ALIGHT_NUM": 9359.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "김유정",
+				"PAY_RIDE_NUM": 6393.0,
+				"FREE_RIDE_NUM": 2689.0,
+				"PAY_ALIGHT_NUM": 6639.0,
+				"FREE_ALIGHT_NUM": 2641.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "신내",
+				"PAY_RIDE_NUM": 40274.0,
+				"FREE_RIDE_NUM": 14013.0,
+				"PAY_ALIGHT_NUM": 38004.0,
+				"FREE_ALIGHT_NUM": 13292.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "가평",
+				"PAY_RIDE_NUM": 32441.0,
+				"FREE_RIDE_NUM": 10690.0,
+				"PAY_ALIGHT_NUM": 33221.0,
+				"FREE_ALIGHT_NUM": 10413.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "상천",
+				"PAY_RIDE_NUM": 3341.0,
+				"FREE_RIDE_NUM": 3079.0,
+				"PAY_ALIGHT_NUM": 3084.0,
+				"FREE_ALIGHT_NUM": 2954.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "대성리",
+				"PAY_RIDE_NUM": 8607.0,
+				"FREE_RIDE_NUM": 4344.0,
+				"PAY_ALIGHT_NUM": 7741.0,
+				"FREE_ALIGHT_NUM": 3975.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "퇴계원",
+				"PAY_RIDE_NUM": 73128.0,
+				"FREE_RIDE_NUM": 23844.0,
+				"PAY_ALIGHT_NUM": 65421.0,
+				"FREE_ALIGHT_NUM": 23268.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "갈매",
+				"PAY_RIDE_NUM": 64367.0,
+				"FREE_RIDE_NUM": 17106.0,
+				"PAY_ALIGHT_NUM": 54586.0,
+				"FREE_ALIGHT_NUM": 16001.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "천마산",
+				"PAY_RIDE_NUM": 29098.0,
+				"FREE_RIDE_NUM": 15702.0,
+				"PAY_ALIGHT_NUM": 25966.0,
+				"FREE_ALIGHT_NUM": 15886.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "남춘천",
+				"PAY_RIDE_NUM": 49937.0,
+				"FREE_RIDE_NUM": 18178.0,
+				"PAY_ALIGHT_NUM": 50745.0,
+				"FREE_ALIGHT_NUM": 18480.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "별내",
+				"PAY_RIDE_NUM": 71193.0,
+				"FREE_RIDE_NUM": 19542.0,
+				"PAY_ALIGHT_NUM": 66830.0,
+				"FREE_ALIGHT_NUM": 18582.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "마석",
+				"PAY_RIDE_NUM": 76314.0,
+				"FREE_RIDE_NUM": 27542.0,
+				"PAY_ALIGHT_NUM": 75018.0,
+				"FREE_ALIGHT_NUM": 27503.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "청평",
+				"PAY_RIDE_NUM": 29560.0,
+				"FREE_RIDE_NUM": 12586.0,
+				"PAY_ALIGHT_NUM": 28861.0,
+				"FREE_ALIGHT_NUM": 12647.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "사릉",
+				"PAY_RIDE_NUM": 72017.0,
+				"FREE_RIDE_NUM": 17397.0,
+				"PAY_ALIGHT_NUM": 68017.0,
+				"FREE_ALIGHT_NUM": 17811.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "경춘선",
+				"SUB_STA_NM": "금곡",
+				"PAY_RIDE_NUM": 26446.0,
+				"FREE_RIDE_NUM": 13704.0,
+				"PAY_ALIGHT_NUM": 24989.0,
+				"FREE_ALIGHT_NUM": 13344.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "영종",
+				"PAY_RIDE_NUM": 67448.0,
+				"FREE_RIDE_NUM": 15699.0,
+				"PAY_ALIGHT_NUM": 68034.0,
+				"FREE_ALIGHT_NUM": 15599.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "운서",
+				"PAY_RIDE_NUM": 164243.0,
+				"FREE_RIDE_NUM": 22137.0,
+				"PAY_ALIGHT_NUM": 165000.0,
+				"FREE_ALIGHT_NUM": 21934.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "인천공항2터미널",
+				"PAY_RIDE_NUM": 57914.0,
+				"FREE_RIDE_NUM": 6806.0,
+				"PAY_ALIGHT_NUM": 55449.0,
+				"FREE_ALIGHT_NUM": 6465.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "마곡나루(서울식물원)",
+				"PAY_RIDE_NUM": 190801.0,
+				"FREE_RIDE_NUM": 11242.0,
+				"PAY_ALIGHT_NUM": 186230.0,
+				"FREE_ALIGHT_NUM": 10966.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "김포공항",
+				"PAY_RIDE_NUM": 330062.0,
+				"FREE_RIDE_NUM": 20790.0,
+				"PAY_ALIGHT_NUM": 183864.0,
+				"FREE_ALIGHT_NUM": 13127.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "청라국제도시",
+				"PAY_RIDE_NUM": 167605.0,
+				"FREE_RIDE_NUM": 10553.0,
+				"PAY_ALIGHT_NUM": 157998.0,
+				"FREE_ALIGHT_NUM": 10495.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "인천공항1터미널",
+				"PAY_RIDE_NUM": 99340.0,
+				"FREE_RIDE_NUM": 12595.0,
+				"PAY_ALIGHT_NUM": 106101.0,
+				"FREE_ALIGHT_NUM": 12349.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "홍대입구",
+				"PAY_RIDE_NUM": 272448.0,
+				"FREE_RIDE_NUM": 15434.0,
+				"PAY_ALIGHT_NUM": 276846.0,
+				"FREE_ALIGHT_NUM": 14777.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "디지털미디어시티",
+				"PAY_RIDE_NUM": 321173.0,
+				"FREE_RIDE_NUM": 21783.0,
+				"PAY_ALIGHT_NUM": 294208.0,
+				"FREE_ALIGHT_NUM": 20465.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "검암",
+				"PAY_RIDE_NUM": 165656.0,
+				"FREE_RIDE_NUM": 14348.0,
+				"PAY_ALIGHT_NUM": 163519.0,
+				"FREE_ALIGHT_NUM": 14142.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "공덕",
+				"PAY_RIDE_NUM": 54118.0,
+				"FREE_RIDE_NUM": 6369.0,
+				"PAY_ALIGHT_NUM": 74033.0,
+				"FREE_ALIGHT_NUM": 7472.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "계양",
+				"PAY_RIDE_NUM": 245348.0,
+				"FREE_RIDE_NUM": 23915.0,
+				"PAY_ALIGHT_NUM": 230782.0,
+				"FREE_ALIGHT_NUM": 22743.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "공항화물청사",
+				"PAY_RIDE_NUM": 52550.0,
+				"FREE_RIDE_NUM": 8257.0,
+				"PAY_ALIGHT_NUM": 57941.0,
+				"FREE_ALIGHT_NUM": 7899.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "공항철도 1호선",
+				"SUB_STA_NM": "서울역",
+				"PAY_RIDE_NUM": 201507.0,
+				"FREE_RIDE_NUM": 26237.0,
+				"PAY_ALIGHT_NUM": 190529.0,
+				"FREE_ALIGHT_NUM": 23590.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "과천선",
+				"SUB_STA_NM": "선바위",
+				"PAY_RIDE_NUM": 188529.0,
+				"FREE_RIDE_NUM": 27511.0,
+				"PAY_ALIGHT_NUM": 163009.0,
+				"FREE_ALIGHT_NUM": 26887.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "과천선",
+				"SUB_STA_NM": "인덕원",
+				"PAY_RIDE_NUM": 547728.0,
+				"FREE_RIDE_NUM": 89715.0,
+				"PAY_ALIGHT_NUM": 566072.0,
+				"FREE_ALIGHT_NUM": 93127.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "과천선",
+				"SUB_STA_NM": "과천",
+				"PAY_RIDE_NUM": 124478.0,
+				"FREE_RIDE_NUM": 35671.0,
+				"PAY_ALIGHT_NUM": 114397.0,
+				"FREE_ALIGHT_NUM": 34438.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "과천선",
+				"SUB_STA_NM": "대공원",
+				"PAY_RIDE_NUM": 37237.0,
+				"FREE_RIDE_NUM": 30048.0,
+				"PAY_ALIGHT_NUM": 39329.0,
+				"FREE_ALIGHT_NUM": 30791.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "과천선",
+				"SUB_STA_NM": "평촌",
+				"PAY_RIDE_NUM": 405397.0,
+				"FREE_RIDE_NUM": 55288.0,
+				"PAY_ALIGHT_NUM": 399458.0,
+				"FREE_ALIGHT_NUM": 55386.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "과천선",
+				"SUB_STA_NM": "경마공원",
+				"PAY_RIDE_NUM": 66422.0,
+				"FREE_RIDE_NUM": 36319.0,
+				"PAY_ALIGHT_NUM": 66423.0,
+				"FREE_ALIGHT_NUM": 36043.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "과천선",
+				"SUB_STA_NM": "정부과천청사",
+				"PAY_RIDE_NUM": 232149.0,
+				"FREE_RIDE_NUM": 42911.0,
+				"PAY_ALIGHT_NUM": 229963.0,
+				"FREE_ALIGHT_NUM": 42398.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "과천선",
+				"SUB_STA_NM": "범계",
+				"PAY_RIDE_NUM": 616219.0,
+				"FREE_RIDE_NUM": 86884.0,
+				"PAY_ALIGHT_NUM": 608365.0,
+				"FREE_ALIGHT_NUM": 84730.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "신갈",
+				"PAY_RIDE_NUM": 97113.0,
+				"FREE_RIDE_NUM": 24918.0,
+				"PAY_ALIGHT_NUM": 95123.0,
+				"FREE_ALIGHT_NUM": 24962.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "복정",
+				"PAY_RIDE_NUM": 16.0,
+				"FREE_RIDE_NUM": 0.0,
+				"PAY_ALIGHT_NUM": 0.0,
+				"FREE_ALIGHT_NUM": 0.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "오리",
+				"PAY_RIDE_NUM": 255706.0,
+				"FREE_RIDE_NUM": 61559.0,
+				"PAY_ALIGHT_NUM": 209893.0,
+				"FREE_ALIGHT_NUM": 52764.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "가천대",
+				"PAY_RIDE_NUM": 190827.0,
+				"FREE_RIDE_NUM": 23911.0,
+				"PAY_ALIGHT_NUM": 212812.0,
+				"FREE_ALIGHT_NUM": 24748.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "매탄권선",
+				"PAY_RIDE_NUM": 120506.0,
+				"FREE_RIDE_NUM": 16989.0,
+				"PAY_ALIGHT_NUM": 115014.0,
+				"FREE_ALIGHT_NUM": 16385.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "영통",
+				"PAY_RIDE_NUM": 210142.0,
+				"FREE_RIDE_NUM": 25486.0,
+				"PAY_ALIGHT_NUM": 210996.0,
+				"FREE_ALIGHT_NUM": 25759.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "상갈",
+				"PAY_RIDE_NUM": 117410.0,
+				"FREE_RIDE_NUM": 26876.0,
+				"PAY_ALIGHT_NUM": 113527.0,
+				"FREE_ALIGHT_NUM": 25632.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "구성",
+				"PAY_RIDE_NUM": 104036.0,
+				"FREE_RIDE_NUM": 30219.0,
+				"PAY_ALIGHT_NUM": 110806.0,
+				"FREE_ALIGHT_NUM": 30731.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "도곡",
+				"PAY_RIDE_NUM": 141532.0,
+				"FREE_RIDE_NUM": 38004.0,
+				"PAY_ALIGHT_NUM": 141031.0,
+				"FREE_ALIGHT_NUM": 36633.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "태평",
+				"PAY_RIDE_NUM": 293603.0,
+				"FREE_RIDE_NUM": 80949.0,
+				"PAY_ALIGHT_NUM": 274001.0,
+				"FREE_ALIGHT_NUM": 84850.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "수원시청",
+				"PAY_RIDE_NUM": 322648.0,
+				"FREE_RIDE_NUM": 36102.0,
+				"PAY_ALIGHT_NUM": 350742.0,
+				"FREE_ALIGHT_NUM": 36858.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "죽전",
+				"PAY_RIDE_NUM": 311728.0,
+				"FREE_RIDE_NUM": 56575.0,
+				"PAY_ALIGHT_NUM": 343694.0,
+				"FREE_ALIGHT_NUM": 61427.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "청명",
+				"PAY_RIDE_NUM": 97990.0,
+				"FREE_RIDE_NUM": 16515.0,
+				"PAY_ALIGHT_NUM": 93255.0,
+				"FREE_ALIGHT_NUM": 16540.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "대모산입구",
+				"PAY_RIDE_NUM": 90516.0,
+				"FREE_RIDE_NUM": 26723.0,
+				"PAY_ALIGHT_NUM": 82134.0,
+				"FREE_ALIGHT_NUM": 26698.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "수서",
+				"PAY_RIDE_NUM": 318987.0,
+				"FREE_RIDE_NUM": 55888.0,
+				"PAY_ALIGHT_NUM": 331074.0,
+				"FREE_ALIGHT_NUM": 57384.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "수원",
+				"PAY_RIDE_NUM": 204719.0,
+				"FREE_RIDE_NUM": 25567.0,
+				"PAY_ALIGHT_NUM": 174829.0,
+				"FREE_ALIGHT_NUM": 22767.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "강남구청",
+				"PAY_RIDE_NUM": 230823.0,
+				"FREE_RIDE_NUM": 36034.0,
+				"PAY_ALIGHT_NUM": 267526.0,
+				"FREE_ALIGHT_NUM": 38721.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "망포",
+				"PAY_RIDE_NUM": 356098.0,
+				"FREE_RIDE_NUM": 31804.0,
+				"PAY_ALIGHT_NUM": 336362.0,
+				"FREE_ALIGHT_NUM": 30420.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "수내",
+				"PAY_RIDE_NUM": 290205.0,
+				"FREE_RIDE_NUM": 63224.0,
+				"PAY_ALIGHT_NUM": 289435.0,
+				"FREE_ALIGHT_NUM": 61205.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "선정릉",
+				"PAY_RIDE_NUM": 177692.0,
+				"FREE_RIDE_NUM": 24335.0,
+				"PAY_ALIGHT_NUM": 191307.0,
+				"FREE_ALIGHT_NUM": 23991.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "압구정로데오",
+				"PAY_RIDE_NUM": 501649.0,
+				"FREE_RIDE_NUM": 40831.0,
+				"PAY_ALIGHT_NUM": 562215.0,
+				"FREE_ALIGHT_NUM": 39130.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "서울숲",
+				"PAY_RIDE_NUM": 254896.0,
+				"FREE_RIDE_NUM": 23257.0,
+				"PAY_ALIGHT_NUM": 261561.0,
+				"FREE_ALIGHT_NUM": 22440.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "선릉",
+				"PAY_RIDE_NUM": 297680.0,
+				"FREE_RIDE_NUM": 38488.0,
+				"PAY_ALIGHT_NUM": 457327.0,
+				"FREE_ALIGHT_NUM": 50253.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "한티",
+				"PAY_RIDE_NUM": 319120.0,
+				"FREE_RIDE_NUM": 57090.0,
+				"PAY_ALIGHT_NUM": 341303.0,
+				"FREE_ALIGHT_NUM": 58111.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "미금",
+				"PAY_RIDE_NUM": 325102.0,
+				"FREE_RIDE_NUM": 91241.0,
+				"PAY_ALIGHT_NUM": 343849.0,
+				"FREE_ALIGHT_NUM": 96288.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "구룡",
+				"PAY_RIDE_NUM": 42304.0,
+				"FREE_RIDE_NUM": 12627.0,
+				"PAY_ALIGHT_NUM": 40284.0,
+				"FREE_ALIGHT_NUM": 12396.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "개포동",
+				"PAY_RIDE_NUM": 77317.0,
+				"FREE_RIDE_NUM": 22134.0,
+				"PAY_ALIGHT_NUM": 80596.0,
+				"FREE_ALIGHT_NUM": 22638.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "매교",
+				"PAY_RIDE_NUM": 65251.0,
+				"FREE_RIDE_NUM": 15516.0,
+				"PAY_ALIGHT_NUM": 65050.0,
+				"FREE_ALIGHT_NUM": 15834.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "서현",
+				"PAY_RIDE_NUM": 588595.0,
+				"FREE_RIDE_NUM": 103974.0,
+				"PAY_ALIGHT_NUM": 600232.0,
+				"FREE_ALIGHT_NUM": 99472.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "모란",
+				"PAY_RIDE_NUM": 421246.0,
+				"FREE_RIDE_NUM": 145280.0,
+				"PAY_ALIGHT_NUM": 418014.0,
+				"FREE_ALIGHT_NUM": 158320.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "정자",
+				"PAY_RIDE_NUM": 396626.0,
+				"FREE_RIDE_NUM": 57160.0,
+				"PAY_ALIGHT_NUM": 423880.0,
+				"FREE_ALIGHT_NUM": 58093.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "야탑",
+				"PAY_RIDE_NUM": 571402.0,
+				"FREE_RIDE_NUM": 126530.0,
+				"PAY_ALIGHT_NUM": 600948.0,
+				"FREE_ALIGHT_NUM": 126709.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "이매",
+				"PAY_RIDE_NUM": 121294.0,
+				"FREE_RIDE_NUM": 32988.0,
+				"PAY_ALIGHT_NUM": 114798.0,
+				"FREE_ALIGHT_NUM": 31918.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "기흥",
+				"PAY_RIDE_NUM": 227539.0,
+				"FREE_RIDE_NUM": 35477.0,
+				"PAY_ALIGHT_NUM": 213691.0,
+				"FREE_ALIGHT_NUM": 34824.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "분당선",
+				"SUB_STA_NM": "보정",
+				"PAY_RIDE_NUM": 49808.0,
+				"FREE_RIDE_NUM": 16235.0,
+				"PAY_ALIGHT_NUM": 42595.0,
+				"FREE_ALIGHT_NUM": 15483.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "소래포구",
+				"PAY_RIDE_NUM": 98431.0,
+				"FREE_RIDE_NUM": 42740.0,
+				"PAY_ALIGHT_NUM": 93270.0,
+				"FREE_ALIGHT_NUM": 41140.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "숭의",
+				"PAY_RIDE_NUM": 81498.0,
+				"FREE_RIDE_NUM": 24856.0,
+				"PAY_ALIGHT_NUM": 75044.0,
+				"FREE_ALIGHT_NUM": 23982.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "달월",
+				"PAY_RIDE_NUM": 1707.0,
+				"FREE_RIDE_NUM": 917.0,
+				"PAY_ALIGHT_NUM": 1349.0,
+				"FREE_ALIGHT_NUM": 453.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "월곶",
+				"PAY_RIDE_NUM": 58738.0,
+				"FREE_RIDE_NUM": 12884.0,
+				"PAY_ALIGHT_NUM": 54467.0,
+				"FREE_ALIGHT_NUM": 13040.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "호구포",
+				"PAY_RIDE_NUM": 88749.0,
+				"FREE_RIDE_NUM": 18026.0,
+				"PAY_ALIGHT_NUM": 91370.0,
+				"FREE_ALIGHT_NUM": 18261.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "신포",
+				"PAY_RIDE_NUM": 37180.0,
+				"FREE_RIDE_NUM": 11386.0,
+				"PAY_ALIGHT_NUM": 37631.0,
+				"FREE_ALIGHT_NUM": 11535.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "송도",
+				"PAY_RIDE_NUM": 50051.0,
+				"FREE_RIDE_NUM": 18099.0,
+				"PAY_ALIGHT_NUM": 46448.0,
+				"FREE_ALIGHT_NUM": 17897.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "오목천",
+				"PAY_RIDE_NUM": 72909.0,
+				"FREE_RIDE_NUM": 10581.0,
+				"PAY_ALIGHT_NUM": 65799.0,
+				"FREE_ALIGHT_NUM": 10512.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "남동인더스파크",
+				"PAY_RIDE_NUM": 50119.0,
+				"FREE_RIDE_NUM": 6371.0,
+				"PAY_ALIGHT_NUM": 55721.0,
+				"FREE_ALIGHT_NUM": 6609.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "인천",
+				"PAY_RIDE_NUM": 17632.0,
+				"FREE_RIDE_NUM": 11036.0,
+				"PAY_ALIGHT_NUM": 32399.0,
+				"FREE_ALIGHT_NUM": 13267.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "원인재",
+				"PAY_RIDE_NUM": 95892.0,
+				"FREE_RIDE_NUM": 26300.0,
+				"PAY_ALIGHT_NUM": 100467.0,
+				"FREE_ALIGHT_NUM": 26526.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "야목",
+				"PAY_RIDE_NUM": 6865.0,
+				"FREE_RIDE_NUM": 1806.0,
+				"PAY_ALIGHT_NUM": 5292.0,
+				"FREE_ALIGHT_NUM": 1426.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "연수",
+				"PAY_RIDE_NUM": 100377.0,
+				"FREE_RIDE_NUM": 24619.0,
+				"PAY_ALIGHT_NUM": 100130.0,
+				"FREE_ALIGHT_NUM": 24305.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "어천",
+				"PAY_RIDE_NUM": 16835.0,
+				"FREE_RIDE_NUM": 3729.0,
+				"PAY_ALIGHT_NUM": 16007.0,
+				"FREE_ALIGHT_NUM": 3991.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "사리",
+				"PAY_RIDE_NUM": 108679.0,
+				"FREE_RIDE_NUM": 14531.0,
+				"PAY_ALIGHT_NUM": 93906.0,
+				"FREE_ALIGHT_NUM": 13715.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "인하대",
+				"PAY_RIDE_NUM": 138345.0,
+				"FREE_RIDE_NUM": 22360.0,
+				"PAY_ALIGHT_NUM": 128594.0,
+				"FREE_ALIGHT_NUM": 21635.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "고색",
+				"PAY_RIDE_NUM": 105385.0,
+				"FREE_RIDE_NUM": 13865.0,
+				"PAY_ALIGHT_NUM": 100104.0,
+				"FREE_ALIGHT_NUM": 12865.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "수인선",
+				"SUB_STA_NM": "인천논현",
+				"PAY_RIDE_NUM": 120790.0,
+				"FREE_RIDE_NUM": 28218.0,
+				"PAY_ALIGHT_NUM": 129691.0,
+				"FREE_ALIGHT_NUM": 28674.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "초지",
+				"PAY_RIDE_NUM": 112048.0,
+				"FREE_RIDE_NUM": 12277.0,
+				"PAY_ALIGHT_NUM": 116610.0,
+				"FREE_ALIGHT_NUM": 12590.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "한대앞",
+				"PAY_RIDE_NUM": 214726.0,
+				"FREE_RIDE_NUM": 36412.0,
+				"PAY_ALIGHT_NUM": 214835.0,
+				"FREE_ALIGHT_NUM": 37364.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "반월",
+				"PAY_RIDE_NUM": 92404.0,
+				"FREE_RIDE_NUM": 24561.0,
+				"PAY_ALIGHT_NUM": 88028.0,
+				"FREE_ALIGHT_NUM": 23812.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "산본",
+				"PAY_RIDE_NUM": 348522.0,
+				"FREE_RIDE_NUM": 80183.0,
+				"PAY_ALIGHT_NUM": 368747.0,
+				"FREE_ALIGHT_NUM": 79924.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "대야미",
+				"PAY_RIDE_NUM": 108538.0,
+				"FREE_RIDE_NUM": 25810.0,
+				"PAY_ALIGHT_NUM": 95835.0,
+				"FREE_ALIGHT_NUM": 24179.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "고잔",
+				"PAY_RIDE_NUM": 207121.0,
+				"FREE_RIDE_NUM": 29442.0,
+				"PAY_ALIGHT_NUM": 196900.0,
+				"FREE_ALIGHT_NUM": 28158.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "오이도",
+				"PAY_RIDE_NUM": 203884.0,
+				"FREE_RIDE_NUM": 27426.0,
+				"PAY_ALIGHT_NUM": 200081.0,
+				"FREE_ALIGHT_NUM": 26968.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "신길온천",
+				"PAY_RIDE_NUM": 39219.0,
+				"FREE_RIDE_NUM": 8078.0,
+				"PAY_ALIGHT_NUM": 35925.0,
+				"FREE_ALIGHT_NUM": 8001.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "수리산",
+				"PAY_RIDE_NUM": 86102.0,
+				"FREE_RIDE_NUM": 27269.0,
+				"PAY_ALIGHT_NUM": 67752.0,
+				"FREE_ALIGHT_NUM": 25776.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "상록수",
+				"PAY_RIDE_NUM": 370784.0,
+				"FREE_RIDE_NUM": 57699.0,
+				"PAY_ALIGHT_NUM": 374412.0,
+				"FREE_ALIGHT_NUM": 59155.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "안산",
+				"PAY_RIDE_NUM": 291375.0,
+				"FREE_RIDE_NUM": 32133.0,
+				"PAY_ALIGHT_NUM": 268538.0,
+				"FREE_ALIGHT_NUM": 29725.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "정왕",
+				"PAY_RIDE_NUM": 214913.0,
+				"FREE_RIDE_NUM": 22960.0,
+				"PAY_ALIGHT_NUM": 222347.0,
+				"FREE_ALIGHT_NUM": 24175.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "안산선",
+				"SUB_STA_NM": "중앙",
+				"PAY_RIDE_NUM": 442155.0,
+				"FREE_RIDE_NUM": 48204.0,
+				"PAY_ALIGHT_NUM": 464245.0,
+				"FREE_ALIGHT_NUM": 47261.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "화계",
+				"PAY_RIDE_NUM": 55880.0,
+				"FREE_RIDE_NUM": 35650.0,
+				"PAY_ALIGHT_NUM": 49776.0,
+				"FREE_ALIGHT_NUM": 35975.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "삼양사거리",
+				"PAY_RIDE_NUM": 35291.0,
+				"FREE_RIDE_NUM": 31241.0,
+				"PAY_ALIGHT_NUM": 35426.0,
+				"FREE_ALIGHT_NUM": 31556.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "가오리",
+				"PAY_RIDE_NUM": 69532.0,
+				"FREE_RIDE_NUM": 40479.0,
+				"PAY_ALIGHT_NUM": 66657.0,
+				"FREE_ALIGHT_NUM": 41777.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "솔샘",
+				"PAY_RIDE_NUM": 120458.0,
+				"FREE_RIDE_NUM": 33698.0,
+				"PAY_ALIGHT_NUM": 108785.0,
+				"FREE_ALIGHT_NUM": 34833.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "북한산우이",
+				"PAY_RIDE_NUM": 48800.0,
+				"FREE_RIDE_NUM": 28006.0,
+				"PAY_ALIGHT_NUM": 41355.0,
+				"FREE_ALIGHT_NUM": 29543.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "신설동",
+				"PAY_RIDE_NUM": 32695.0,
+				"FREE_RIDE_NUM": 23074.0,
+				"PAY_ALIGHT_NUM": 34105.0,
+				"FREE_ALIGHT_NUM": 20167.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "솔밭공원",
+				"PAY_RIDE_NUM": 41215.0,
+				"FREE_RIDE_NUM": 24514.0,
+				"PAY_ALIGHT_NUM": 37000.0,
+				"FREE_ALIGHT_NUM": 25707.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "북한산보국문",
+				"PAY_RIDE_NUM": 125187.0,
+				"FREE_RIDE_NUM": 37419.0,
+				"PAY_ALIGHT_NUM": 115901.0,
+				"FREE_ALIGHT_NUM": 38055.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "삼양",
+				"PAY_RIDE_NUM": 31031.0,
+				"FREE_RIDE_NUM": 24156.0,
+				"PAY_ALIGHT_NUM": 31874.0,
+				"FREE_ALIGHT_NUM": 26805.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "성신여대입구(돈암)",
+				"PAY_RIDE_NUM": 66337.0,
+				"FREE_RIDE_NUM": 25234.0,
+				"PAY_ALIGHT_NUM": 76921.0,
+				"FREE_ALIGHT_NUM": 24405.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "정릉",
+				"PAY_RIDE_NUM": 85843.0,
+				"FREE_RIDE_NUM": 39037.0,
+				"PAY_ALIGHT_NUM": 76328.0,
+				"FREE_ALIGHT_NUM": 37053.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "보문",
+				"PAY_RIDE_NUM": 28095.0,
+				"FREE_RIDE_NUM": 12917.0,
+				"PAY_ALIGHT_NUM": 28281.0,
+				"FREE_ALIGHT_NUM": 12930.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "우이신설선",
+				"SUB_STA_NM": "4.19민주묘지",
+				"PAY_RIDE_NUM": 47280.0,
+				"FREE_RIDE_NUM": 29715.0,
+				"PAY_ALIGHT_NUM": 45573.0,
+				"FREE_ALIGHT_NUM": 27003.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "일산선",
+				"SUB_STA_NM": "삼송",
+				"PAY_RIDE_NUM": 436954.0,
+				"FREE_RIDE_NUM": 84561.0,
+				"PAY_ALIGHT_NUM": 420654.0,
+				"FREE_ALIGHT_NUM": 85320.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "일산선",
+				"SUB_STA_NM": "정발산",
+				"PAY_RIDE_NUM": 163504.0,
+				"FREE_RIDE_NUM": 40097.0,
+				"PAY_ALIGHT_NUM": 168532.0,
+				"FREE_ALIGHT_NUM": 37713.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "일산선",
+				"SUB_STA_NM": "주엽",
+				"PAY_RIDE_NUM": 167237.0,
+				"FREE_RIDE_NUM": 69439.0,
+				"PAY_ALIGHT_NUM": 163146.0,
+				"FREE_ALIGHT_NUM": 72516.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "일산선",
+				"SUB_STA_NM": "화정",
+				"PAY_RIDE_NUM": 363714.0,
+				"FREE_RIDE_NUM": 95842.0,
+				"PAY_ALIGHT_NUM": 374006.0,
+				"FREE_ALIGHT_NUM": 97792.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "일산선",
+				"SUB_STA_NM": "원당",
+				"PAY_RIDE_NUM": 232122.0,
+				"FREE_RIDE_NUM": 67483.0,
+				"PAY_ALIGHT_NUM": 216613.0,
+				"FREE_ALIGHT_NUM": 66465.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "일산선",
+				"SUB_STA_NM": "지축",
+				"PAY_RIDE_NUM": 11.0,
+				"FREE_RIDE_NUM": 0.0,
+				"PAY_ALIGHT_NUM": 0.0,
+				"FREE_ALIGHT_NUM": 0.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "일산선",
+				"SUB_STA_NM": "대곡",
+				"PAY_RIDE_NUM": 42245.0,
+				"FREE_RIDE_NUM": 8511.0,
+				"PAY_ALIGHT_NUM": 32698.0,
+				"FREE_ALIGHT_NUM": 7755.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "일산선",
+				"SUB_STA_NM": "대화",
+				"PAY_RIDE_NUM": 279710.0,
+				"FREE_RIDE_NUM": 66232.0,
+				"PAY_ALIGHT_NUM": 222373.0,
+				"FREE_ALIGHT_NUM": 61248.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "일산선",
+				"SUB_STA_NM": "백석",
+				"PAY_RIDE_NUM": 209643.0,
+				"FREE_RIDE_NUM": 60420.0,
+				"PAY_ALIGHT_NUM": 210733.0,
+				"FREE_ALIGHT_NUM": 59399.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "일산선",
+				"SUB_STA_NM": "마두",
+				"PAY_RIDE_NUM": 143848.0,
+				"FREE_RIDE_NUM": 55001.0,
+				"PAY_ALIGHT_NUM": 147865.0,
+				"FREE_ALIGHT_NUM": 56156.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "일산선",
+				"SUB_STA_NM": "원흥",
+				"PAY_RIDE_NUM": 236128.0,
+				"FREE_RIDE_NUM": 49778.0,
+				"PAY_ALIGHT_NUM": 221379.0,
+				"FREE_ALIGHT_NUM": 48397.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "장항선",
+				"SUB_STA_NM": "아산",
+				"PAY_RIDE_NUM": 81387.0,
+				"FREE_RIDE_NUM": 9086.0,
+				"PAY_ALIGHT_NUM": 73401.0,
+				"FREE_ALIGHT_NUM": 8417.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "장항선",
+				"SUB_STA_NM": "온양온천",
+				"PAY_RIDE_NUM": 65405.0,
+				"FREE_RIDE_NUM": 34693.0,
+				"PAY_ALIGHT_NUM": 67397.0,
+				"FREE_ALIGHT_NUM": 35784.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "장항선",
+				"SUB_STA_NM": "탕정",
+				"PAY_RIDE_NUM": 8874.0,
+				"FREE_RIDE_NUM": 1685.0,
+				"PAY_ALIGHT_NUM": 7808.0,
+				"FREE_ALIGHT_NUM": 1648.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "장항선",
+				"SUB_STA_NM": "봉명",
+				"PAY_RIDE_NUM": 22111.0,
+				"FREE_RIDE_NUM": 8338.0,
+				"PAY_ALIGHT_NUM": 21133.0,
+				"FREE_ALIGHT_NUM": 8038.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "장항선",
+				"SUB_STA_NM": "쌍용(나사렛대)",
+				"PAY_RIDE_NUM": 47243.0,
+				"FREE_RIDE_NUM": 9989.0,
+				"PAY_ALIGHT_NUM": 43747.0,
+				"FREE_ALIGHT_NUM": 9455.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "장항선",
+				"SUB_STA_NM": "신창(순천향대)",
+				"PAY_RIDE_NUM": 38020.0,
+				"FREE_RIDE_NUM": 5020.0,
+				"PAY_ALIGHT_NUM": 35783.0,
+				"FREE_ALIGHT_NUM": 4613.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "장항선",
+				"SUB_STA_NM": "배방",
+				"PAY_RIDE_NUM": 22755.0,
+				"FREE_RIDE_NUM": 5491.0,
+				"PAY_ALIGHT_NUM": 22157.0,
+				"FREE_ALIGHT_NUM": 5281.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "덕소",
+				"PAY_RIDE_NUM": 113074.0,
+				"FREE_RIDE_NUM": 37826.0,
+				"PAY_ALIGHT_NUM": 111707.0,
+				"FREE_ALIGHT_NUM": 37768.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "팔당",
+				"PAY_RIDE_NUM": 19096.0,
+				"FREE_RIDE_NUM": 6555.0,
+				"PAY_ALIGHT_NUM": 20219.0,
+				"FREE_ALIGHT_NUM": 6446.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "용문",
+				"PAY_RIDE_NUM": 25474.0,
+				"FREE_RIDE_NUM": 24252.0,
+				"PAY_ALIGHT_NUM": 25572.0,
+				"FREE_ALIGHT_NUM": 24337.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "회기",
+				"PAY_RIDE_NUM": 560120.0,
+				"FREE_RIDE_NUM": 106822.0,
+				"PAY_ALIGHT_NUM": 535963.0,
+				"FREE_ALIGHT_NUM": 104686.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "도심",
+				"PAY_RIDE_NUM": 48134.0,
+				"FREE_RIDE_NUM": 14836.0,
+				"PAY_ALIGHT_NUM": 35792.0,
+				"FREE_ALIGHT_NUM": 14001.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "신원",
+				"PAY_RIDE_NUM": 2703.0,
+				"FREE_RIDE_NUM": 2647.0,
+				"PAY_ALIGHT_NUM": 2578.0,
+				"FREE_ALIGHT_NUM": 2140.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "양정",
+				"PAY_RIDE_NUM": 13290.0,
+				"FREE_RIDE_NUM": 5752.0,
+				"PAY_ALIGHT_NUM": 11290.0,
+				"FREE_ALIGHT_NUM": 4957.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "국수",
+				"PAY_RIDE_NUM": 11785.0,
+				"FREE_RIDE_NUM": 7292.0,
+				"PAY_ALIGHT_NUM": 11318.0,
+				"FREE_ALIGHT_NUM": 7334.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "아신",
+				"PAY_RIDE_NUM": 9601.0,
+				"FREE_RIDE_NUM": 4517.0,
+				"PAY_ALIGHT_NUM": 9830.0,
+				"FREE_ALIGHT_NUM": 4387.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "오빈",
+				"PAY_RIDE_NUM": 4637.0,
+				"FREE_RIDE_NUM": 3058.0,
+				"PAY_ALIGHT_NUM": 4613.0,
+				"FREE_ALIGHT_NUM": 3082.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "양수",
+				"PAY_RIDE_NUM": 31392.0,
+				"FREE_RIDE_NUM": 16102.0,
+				"PAY_ALIGHT_NUM": 31907.0,
+				"FREE_ALIGHT_NUM": 16316.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "양평",
+				"PAY_RIDE_NUM": 50932.0,
+				"FREE_RIDE_NUM": 25006.0,
+				"PAY_ALIGHT_NUM": 51537.0,
+				"FREE_ALIGHT_NUM": 25572.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "양원",
+				"PAY_RIDE_NUM": 39905.0,
+				"FREE_RIDE_NUM": 15119.0,
+				"PAY_ALIGHT_NUM": 39513.0,
+				"FREE_ALIGHT_NUM": 15007.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "중랑",
+				"PAY_RIDE_NUM": 110517.0,
+				"FREE_RIDE_NUM": 41805.0,
+				"PAY_ALIGHT_NUM": 103341.0,
+				"FREE_ALIGHT_NUM": 40863.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "원덕",
+				"PAY_RIDE_NUM": 4559.0,
+				"FREE_RIDE_NUM": 4557.0,
+				"PAY_ALIGHT_NUM": 4452.0,
+				"FREE_ALIGHT_NUM": 4352.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "운길산",
+				"PAY_RIDE_NUM": 12324.0,
+				"FREE_RIDE_NUM": 6698.0,
+				"PAY_ALIGHT_NUM": 10926.0,
+				"FREE_ALIGHT_NUM": 6712.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "도농",
+				"PAY_RIDE_NUM": 226955.0,
+				"FREE_RIDE_NUM": 53170.0,
+				"PAY_ALIGHT_NUM": 204211.0,
+				"FREE_ALIGHT_NUM": 51107.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "지평",
+				"PAY_RIDE_NUM": 866.0,
+				"FREE_RIDE_NUM": 793.0,
+				"PAY_ALIGHT_NUM": 1086.0,
+				"FREE_ALIGHT_NUM": 723.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "상봉(시외버스터미널)",
+				"PAY_RIDE_NUM": 126865.0,
+				"FREE_RIDE_NUM": 33906.0,
+				"PAY_ALIGHT_NUM": 126417.0,
+				"FREE_ALIGHT_NUM": 32759.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "망우",
+				"PAY_RIDE_NUM": 150511.0,
+				"FREE_RIDE_NUM": 59433.0,
+				"PAY_ALIGHT_NUM": 147014.0,
+				"FREE_ALIGHT_NUM": 61454.0,
+				"WORK_DT": "20220103"
+			},
+			{
+				"USE_MON": "202112",
+				"LINE_NUM": "중앙선",
+				"SUB_STA_NM": "구리",
+				"PAY_RIDE_NUM": 296450.0,
+				"FREE_RIDE_NUM": 69042.0,
+				"PAY_ALIGHT_NUM": 300357.0,
+				"FREE_ALIGHT_NUM": 69854.0,
+				"WORK_DT": "20220103"
+			}
+		]
+	}
+}
