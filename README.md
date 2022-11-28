@@ -31,4 +31,10 @@
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220415">Python Pandas Practice</a></li>
  </ol>
  
+ # Django
+<ol>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Django/Nov22_2_MTVPattern">Django basic</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Django/Nov23_1_DRF">Django Rest Framework</a></li>
+</ol>
+ 
 
