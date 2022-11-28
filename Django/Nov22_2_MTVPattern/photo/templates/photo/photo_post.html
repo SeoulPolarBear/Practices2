@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>
+		<a href="/">Home</a>
+	</h1>
+	<div>
+		<section>
+			<h2>New Photo</h2>
+			<!-- 이 때 action을 넣어 주지 않으면 가기 자신으로 돌아오기 때문에 넣어줄 필요가 없다. (post로 돌아왔을 때는 redirect 하므로) -->
+			<form method="POST">
+				{% csrf_token %} {{form.as_p}}
+				<button>Success!</button>
+			</form>
+		</section>
+	</div>
+	<!-- 
+		csrf_token : 뭔가를 입력하는 폼에 악의적인 코드가 숨겨져 있어 사용자가 원하지 않는
+					글을 작성하도록 하는 보안 취약점을 방지하기 위한 보안토큰
+					
+		form.as_p : 폼을 <p> 태그를 사용하여 렌더링하도록 함
+					각 필드를 p 태그 안에서 레이블, 텍스트로 배치함
+	 -->
+</body>
+</html>
