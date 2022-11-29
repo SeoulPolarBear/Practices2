@@ -29,6 +29,7 @@
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220411">Python Numpy</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220413">Python Pandas</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220415">Python Pandas Practice</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220417">Python Crawling</a></li>
  </ol>
  
  # Django
