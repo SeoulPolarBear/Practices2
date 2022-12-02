@@ -43,6 +43,9 @@
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov24_1_BasicR.R">R basic1</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov24_2_basicR.R">R basic2</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov24_3_basic3.R">R basic3</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov25_1_graph1.R">R graph1</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov25_2_statistical.R">R statistical1</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov25_3_2_map.R">R map1</a></li>
 </ol>
  
 
