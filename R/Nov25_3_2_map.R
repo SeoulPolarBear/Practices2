@@ -35,7 +35,7 @@ library(ggmap)
 library(devtools)
 #install.packages("devtools")
 #AIzaSyAcisUlNxIQXAwFvEVIGBubj9IPHpZsVsU
-register_google(key="AIzaSyAcisUlNxIQXAwFvEVIGBubj9IPHpZsVsU")
+register_google(key="인증키")
 
 #y = 37.394776
 #x = 127.11116
