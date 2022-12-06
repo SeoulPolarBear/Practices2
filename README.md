@@ -47,5 +47,10 @@
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov25_2_statistical.R">R statistical1</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov25_3_2_map.R">R map1</a></li>
 </ol>
+
+ # Hadoop
+<ol>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Hadoop/Dec05_WordCount">Hadoop Mapper, Combiner, Reducer in Java</a></li>
+</ol>
  
 
