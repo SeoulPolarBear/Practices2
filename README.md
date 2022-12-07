@@ -46,6 +46,8 @@
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov25_1_graph1.R">R graph1</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov25_2_statistical.R">R statistical1</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov25_3_2_map.R">R map1</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov28_1_2_visualization.R">R visualization</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov29_1_practice.R">R integrate practice</a></li>
 </ol>
 
  # Hadoop
