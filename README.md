@@ -48,7 +48,7 @@
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov25_3_2_map.R">R map1</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov28_1_2_visualization.R">R visualization</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov29_1_practice.R">R integrate practice</a></li>
-  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov29_1_practice.R">R integrate practice</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov29_2_aMatch_chart.R">R practice Chart with aMatch</a></li>
 
 </ol>
 
