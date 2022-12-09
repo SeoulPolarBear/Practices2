@@ -1,0 +1,223 @@
+vim 저장 단축키 : shift + z + z
+
+
+Hadoop : Linux 컴퓨터 여러대로 병렬처리해서
+	분석해주는...
+
+1. DataNode 준비
+Hadoop 참여할 컴퓨터 : 
+	DataNode
+	들 중에서 Main 역할을 할 컴퓨터 :
+	NameNode
+	
+	ip1 : DataNode/ NameNode : ID1				ID pw1
+	ip2 : DataNode/		: ID2				ID2 pw2
+	ip3:DataNode/		: ID3				ID3 pw3
+다른 서버 들어갈 때 ssh ip 주소
+-----------------------------------------------------------------------------------
+2. ssh server 설치
+	3대 다] sudo apt-get install openssh-server
+
+	NN] ssh ip 주소
+
+2.1 인증서 만들기 (일일이 왔다갔다 하기 복잡하므로 패스워드를 입력하는 것을 없애기 위해서 사용)
+	3대 다]  ssh-keygen -t rsa
+
+2.2 인증서 다른 컴퓨터에 전송(현재 컴퓨터 포함)
+[3대다]
+	ssh-copy-id -i ~/.ssh/id_rsa.pub 계정@IP
+	ssh-copy-id -i ~/.ssh/id_rsa.pub ID1@ip1
+	ssh-copy-id -i ~/.ssh/id_rsa.pub ID2@ip2
+	ssh-copy-id -i ~/.ssh/id_rsa.pub ID3@ip3
+
+2.3 확인
+	ssh 계정@ip주소
+
+3. 기타 등등 필요한 것들 설치
+	vim-tiny 삭제 -> vim 
+	NN만]
+	
+	ftp 서버 설치 -설정 -재시작
+	NN만]
+	openJDK 저장소 - 업데이트 -설치 -확인
+	3대다]
+
+========================================================
+Hadoop 설치
+
+-apache.org에서 다운받거나
+
+-Linux에서 직접 받기
+wget https://downloads.apache.org/hadoop/common/hadoop-3.2.2/hadoop-3.2.2-src.tar.gz
+
+hadoop-3.2.2/ hadoop-3.2.2.tar.gz
+
+다운로드 받은거 ->NN쪽 알드라이브에 업로드까지!
+
+---------------------------------------------------------------------------------------
+압축 풀기
+	통일성을 위해서 폴더를 하나 만들기(hadoop)
+	mkdir hadoop
+	그 폴더로 tar.gz 파일 옮겨서
+	mv hadoop-3.2.2.tar.gz hadoop
+	압축 풀기
+	tar xvzf hadoop-3.2.2.tar.gz
+	-> 압축 풀었으니 압축파일 지우기
+	 rm -rf hadoop-3.2.2.tar.gz
+------------------------------------------------------------------------------------
+설정 파일이 있는 쪽으로 이동(최상위 폴더 기준)
+	cd ~
+	cd hadoop/hadoop-3.2.2/etc/hadoop
+
+--------------------------------------------------------------------------------------
+1. JDK위치 설정
+	1) vi hadoop-env.sh
+	2) 'export' 검색해서 export JAVA_HOME= ...
+	3) a 눌러서 insert 모드로 바꾸고
+	4) 그 줄 주석 해제
+	5 /usr/lib/jvm/java-8-openjdk-amd64 추가
+	6) 저장 후 종료
+	
+	export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+
+--------------------------------------------------------------------------------------
+2. 기본 설정
+	1) vi core-site.xml
+	2)<configuration></configuration> 속에
+	3)
+<configuration>
+	<property>
+		<name>fs.default.name</name>
+		<value>hdfs://[NameNodeIP]:9000</value>
+	</property>
+	<property>
+		<name>hadoop.tmp.dir</name>
+		<value>/home/[계정]/hadoopTmpData</value>
+	</property>
+</configuration>
+	4)값 채우고, 저장 후 종료
+
+--------------------------------------------------------------------------------------
+3. 하둡 파일시스템 관련 설정
+	1) vi hdfs-site.xml
+	2) 
+<configuration>
+	<property>
+		<name>dfs.replication</name>
+		<value>[컴퓨터수(NN합쳐서)]</value>
+	</property>
+	<property>
+		<name>dfs.http.address</name>
+		<value>[NameNodeIP]:50070</value>
+	</property>
+	<property>
+		<name>dfs.secondary.http.address</name>
+		<value>[다른컴퓨터IP]:50090</value>
+	</property>
+</configuration>
+
+	3) 값 채우고, 저장 후 종료
+--------------------------------------------------------------------------------------
+4. MapReduce 작업 관련설정
+	1) vi mapred-site.xml
+	2)
+<configuration>
+	<property>
+		<name>mapred.job.tracker</name>
+		<value>[NameNodeIP]:9001</value>
+	</property>
+</configuration>
+--------------------------------------------------------------------------------------
+5. 사용할 컴퓨터 등록
+	1) vi workers
+	2) 'localhost' 지우고
+	3) 사용할 컴퓨터 ip주소 다 등록
+		ex) ip1
+		    ip2
+		    ip3
+	(엔터처리)...
+	4) 등록할거 입력 다 했으면 엔터처리 한번 해준 후에
+	5) 저장 후 종료
+========================================================
+설정한거 -> 나머지 컴퓨터로 전송(1대로 할 땐느 필요 없음)
+
+최상위 폴더로 이동
+
+설정 끝난 Hadoop폴더를 압축해서
+
+알드라이브 - 새로고침 - 윈도우에 편한 위치에 저장
+tar cvzf myHadoop.tar.gz hadoop
+
+tar xvzf myHadoop.tar.gz
+
+압축해제
+	[NN제외 나머지 컴퓨터]
+	압축해제 -> 압축 파일 삭제
+
+cf ssh에서 이용) 압축파일을 각 컴퓨터로 보내기
+	NN]
+	scp myHadoop.tar.gz [계정]@[받을컴퓨터IP]:/home/[계정]@[받을컴퓨터IP]:/home
+
+
+
+[전부 다]
+	Hadoop 설정 잘 되어 있는지 확인
+-------------------------------------------------------------------------------------------------------
+Hadoop 실행... 하기 전에
+
+1. 찌꺼기 폴더 삭제
+	전부 다]
+	rm -rf ~/hadoopTmpData	
+
+2. 하둡 폴더로 이동
+	NN만]
+	cd ~/hadoop/hadoop-3.2.2
+
+3. 하둡시스템 포맷
+	NN만]
+	bin/hadoop namenode -format
+	bin/hadoop datanode -format
+
+4. 시작
+	NN만]
+	sbin/start-all.sh
+
+5. 확인
+	jps >> 확인
+
+6. 끄기
+	sbin/stop-all.sh
+
+jps 다 안나왔으면 - 설정 쪽에 문제가 있을 가능성이 높음
+하둡 끄기(6번) -> 설정 한번 더 확인 -> 1~5번까지 재실행
+------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
