@@ -54,7 +54,8 @@
 
  # Hadoop
 <ol>
-  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov29_2_aMatch_chart.R">R practice Chart with aMatch</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Hadoop/0.Hadoop_setting.txt">Hadoop setting</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov29_2_aMatch_chart.R">R practice Chart with aMatch</a></li>
 </ol>
  
 
