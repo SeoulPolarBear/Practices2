@@ -11,6 +11,7 @@
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov14_1_2_Python">Python DB Connect</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov14_2_2_Python">Python DB and file</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov15_1_2_Python">Python DB and file2</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov25_1_2_Python">Python DB and file3</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov16_1_2_WebCrawling">Python Crawling, Beautiful Soup</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov17_1_Matplotlib">Python Matplotlib</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/Nov18_1_2_Python">Python DB and file3</a></li>
