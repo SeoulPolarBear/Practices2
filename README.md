@@ -26,8 +26,8 @@
  
  ### Numpy
   <ol>
-   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/NumpyBasic.ipynb">Numpy Basic1</a></li>
-   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/NumpyBasic2.ipynb">Numpy Basic2</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Numpy/NumpyBasic.ipynb">Numpy Basic1</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Numpy/NumpyBasic2.ipynb">Numpy Basic2</a></li>
  </ol>
  
  ### 2022-the first half(Python)
