@@ -30,6 +30,13 @@
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Numpy/NumpyBasic2.ipynb">Numpy Basic2</a></li>
  </ol>
  
+ ### Pandas
+  <ol>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec07_Pandas_Series.ipynb">Pandas_Series</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec07_2_Series_Math.ipynb">Pandas_Series_Math</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec07_3_Read_Write.ipynb">Pandas_Read_Write</a></li>
+ </ol>
+ 
  ### 2022-the first half(Python)
 <ol>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220401">Data Structure</a></li>
