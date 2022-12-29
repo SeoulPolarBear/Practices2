@@ -35,11 +35,13 @@
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec07_Pandas_Series.ipynb">Pandas_Series</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec07_2_Series_Math.ipynb">Pandas_Series_Math</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec07_3_Read_Write.ipynb">Pandas_Read_Write</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec08_2_Duplication.ipynb">Pandas seaborn</a></li>
  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec08_3_static.ipynb">Pandas_
 Statistics</a></li>
  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec08_3_TypeCasting.ipynb">Pandas_TypeCasting</a></li>
  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec08_4_Timestamp.ipynb">Pandas_Timestamp</a></li>
  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec08_5_FunctionMapping.ipynb">Pandas_FunctionMapping</a></li>
+   
  </ol>
  
  ### 2022-the first half(Python)
