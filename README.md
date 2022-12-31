@@ -41,6 +41,9 @@ Statistics</a></li>
  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec08_3_TypeCasting.ipynb">Pandas_TypeCasting</a></li>
  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec08_4_Timestamp.ipynb">Pandas_Timestamp</a></li>
  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec08_5_FunctionMapping.ipynb">Pandas_FunctionMapping</a></li>
+ 
+ <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec09_1_Column.ipynb">Pandas Column</a></li>
+ <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec09_2_Example.ipynb">Pandas Crawling with soup, urlib5</a></li>
    
  </ol>
  
