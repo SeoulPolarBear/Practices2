@@ -44,6 +44,22 @@ Statistics</a></li>
  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec09_1_Column.ipynb">Pandas Column</a></li>
  </ol>
  
+ ### Colab
+ <ol>
+ <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/ColabBasic.ipynb">Colab Basic</a></li>
+ </ol>
+ 
+ ### TensorFlow
+  <ol>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec14_1_Tensorflow_indexing.ipynb">Tensorflow indexing</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec14_2_tf_bmi.ipynb">
+Tensorflow practice</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec14_3_Tensorflow_Keras.ipynb">
+Tensorflow Keras</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Python/Pandas/Dec14_4_keras_Callback.ipynb">
+Tensorflow Keras Callback</a></li>
+ </ol>
+ 
  ### 2022-the first half(Python)
 <ol>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Python/2022-the%20first%20half/20220401">Data Structure</a></li>
