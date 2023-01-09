@@ -1,0 +1,35 @@
+cmd - pip install django~=3.2.16
+
+###########################################################################
+# Project vs App
+	Project : 하나의 큰 서비스
+	Application(App) : 프로젝트 내의 기능
+
+	# manage.py : 명령어를 처리해주는 파일
+	# settings.py : 옵션을 설정할 수 있는 파일
+	# urls.py : url 주소를 등록해놓을 수 있는 파일
+	# asgi.py : 웹 서버, 프레임워크, 애플리케이션을 연결해주는 파일
+	# wsgi.py : asgi이전의 python 표준(asgi 나오기 전에 사용)
+##########################################################################
+	#Cross Domain
+	-pip install djnago-cors-headers : 동일 출처 정책(Same Origin Policy) 라는 정책을 두어. 다른 도메인의 서버에 요청하는 것을 보안 문제로 간주하고 이를 차단한다.
+
+##########################################################################
+	프로젝트 우클릭 - Django- create application
+	-photo 입력
+##########################################################################
+MTV 패턴
+Django 작동 원리 : (Model, Template, View)
+	(MVC의 	Model, View, Controller)
+	Model : 데이터베이스 관련된 업무 처리
+	Template(view 역할) : 사용자가 보게 될 화면에 대한 내용
+	View(controller 역할) : 데이터를 처리한 후 결과를 템플릿에 전달
+
+===========================================================================================================
+http://127.0.0.1:8000/admin/ 에서 사용할 관리자 id 만들기
+1) 프로젝트 우클릭 - Django-Migrate 클릭
+python manage.py createsuperuser : => manage.py 명령어 처리하는 기능을 한다.
+
+사용자 이름 (leave blank to use 'user'): polarbear
+이메일 주소: XXXX@XXXXX.com
+비밀번호 : P@xxXxxx
