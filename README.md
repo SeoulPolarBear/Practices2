@@ -76,6 +76,7 @@ Tensorflow Keras Callback</a></li>
  
  # Django
 <ol>
+<li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Django/django">Django Setting</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Django/Nov22_2_MTVPattern">Django basic</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Django/Nov23_1_DRF">Django Rest Framework</a></li>
 </ol>
