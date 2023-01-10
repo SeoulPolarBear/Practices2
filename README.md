@@ -101,4 +101,10 @@ Tensorflow Keras Callback</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov29_2_aMatch_chart.R">R practice Chart with aMatch</a></li>
 </ol>
  
+# AI
+### 2022-the first half(Python)
+<ol>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/ML/2022-the%20first%20half/01perceptron.ipynb">
+Perception</a></li>
+</ol> 
 
