@@ -102,7 +102,7 @@ Tensorflow Keras Callback</a></li>
 </ol>
  
 # AI
-### 2022-the first half(Python)
+### 2022-the first half(Deep Learning)
 <ol>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/ML/2022-the%20first%20half/01perceptron.ipynb">
 Perception</a></li>
