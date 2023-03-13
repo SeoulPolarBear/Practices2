@@ -1,0 +1,38 @@
+golang 설치 하기
+git, Atom Editor, GoPath Setting & Folder Create Test 하기
+
+https://go.dev/doc/install 그냥 경로 설정만 하면 됩니다.
+
+go Lang 실행 폴더 설정 후 
+폴더의 하위에 반드시 src(source), pkg(package), 
+bin(binary 환경변수)으로 폴더를 만들어야 한다.
+다른 이름은 불허한다.
+
+ 그다음에 환경변수에 경로를 등록을 해줘야 한다. 
+새로만들기 
+변수이름 : GOPATH, 변수 값 : C:\go_study\
+변수이름 : GOBIN, 변수 값 : C:\go_study\bin
+변수이름 : GOROOT, 변수 값 : C:\Program Files\Go\
+
+go env를 cmd에 입력하면 환경에 GOBIN이 보인다.
+godoc -http=:8080 => 로컬에서 go의 package나 공식문서를 확인할 수 있다.
+
+godoc not found 시 아래와 같이 다운로드 받을 수 있다.
+go install golang.org/x/tools/cmd/godoc@latest
+
+
+------------------------------------------------------------------------
+VSCode 다운로드
+
+VSCode -> file -> Setting -> install -> go 설치
+-> extension에서 go 다운로드
+-> CTRL + SHift + P -> Go: Install/Update tools
+-> 모두 선택후 Update
+
+go run ./helloworld.go -> 단위 테스트시
+go build ./helloworld.go -> exe 실행 프로그램으로 빌드시 사용
+go install ./helloworld.go -> exe 파일을 bin 파일에 종합적으로 배포 파일로 저장
+------------------------------------------------------------------------
+git 
+git help push 이렇게 입력하면 이에 대한 브라우저 Doc가 뜬다.
+
