@@ -91,8 +91,6 @@ Tensorflow Keras Callback</a></li>
  # Flask 
  <ol>
 <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Flask/flask%20tutorial.txt">Flask Tutorial</a></li>
-  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Django/Nov22_2_MTVPattern">Django basic</a></li>
-  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Django/Nov23_1_DRF">Django Rest Framework</a></li>
 </ol>
 
  # R
