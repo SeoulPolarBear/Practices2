@@ -81,6 +81,20 @@ Tensorflow Keras Callback</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Django/Nov23_1_DRF">Django Rest Framework</a></li>
 </ol>
 
+### Django inflearn
+<ol>
+<li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Django/inflearn/Django/Django%20Tutourial.txt">Django Tutorial</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Django/inflearn/Django/2-1.Django%20%ED%8A%B9%EC%A7%95.txt">Django Feature</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Django/inflearn/Django/2-2.%20Django%20superuser%20%EC%83%9D%EC%84%B1.txt">Django superuser</a></li>
+</ol>
+
+ # Flask 
+ <ol>
+<li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Flask/flask%20tutorial.txt">Flask Tutorial</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Django/Nov22_2_MTVPattern">Django basic</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Django/Nov23_1_DRF">Django Rest Framework</a></li>
+</ol>
+
  # R
 <ol>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/R/Nov24_1_BasicR.R">R basic1</a></li>
