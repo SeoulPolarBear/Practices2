@@ -1,0 +1,41 @@
+C드라이브에 workspace 폴더 생성
+-> 실습 디렉토리 생성 Django
+-> 폴더에서 cmd 실행
+->  section1 dir 생성
+-> python -m venv myenv(파이썬 모듈 중 venv라는 모듈을 사용하여
+가상 디렉토리 생성) 명령어를 통해서 가상환경 구축 -> 폴더 100여개, 900여개 
+-> myenv(가상환경) 디렉토리로 이동 후 -> scripts 디렉토리 -> 활성화 작업 activate.bat 실행 -> 강상환경 안에서 -> pip install Django 하면 Django가 설치가 된다.
+즉, 가상환경 모드는 C:\ > Django > myenv > Scripts > activate.bat (가상환경 모드로 진입)
+빠져나올 때 deactivate
+※ C드라이브에 바로 만들지 말고 폴더를 만들고 거기에 Django를 설치해 주자
+Root에는 하면 안 되므로
+가상환경을 빠져나오는 방법 -> deactivate
+
+-------------------------------------------------------------------------------------
+Django 특정버전 지정 설치
+-> pip install Django==특정 버전
+-> pip uninstall Django (삭제 시는 장고 버전을 따로 지정하지 않아도 됨)
+
+장고 Framework 버전 확인
+python
+import django
+print(django.get_version()) # 장고 임포트 후 장고 프레임웤 버전 확인
+
+python 환경에서 나오려면 Ctrl + z + enter 하면 된다.
+혹은 python -m django --version
+--------------------------------------------------------------------------------------
+Django 삭제 방법
+
+윈도우에서 장고 프레임워크 삭제
+구축한 가상환경 디렉토리를 서브디렉토리까지 모두 지우는 도스 명령어
+옵션을 줘서 삭제해주면 된다,
+
+-> c:\ > md 디렉토리명 : 디렉토리 생성
+-> c:\ > rd 디렉토리명 : 디렉토리 삭제
+-> /s 옵션 : 서브 디렉토리까지 삭제, 이 옵션을 사용하면 
+서브 디렉토리까지 삭제할 것인지 물음
+-> /q 옵션 : 삭제여부를 묻지않고 삭제
+
+s : sub / q : question
+
+장고를 삭제시에는 pip uninstall Django 하면 된다.
