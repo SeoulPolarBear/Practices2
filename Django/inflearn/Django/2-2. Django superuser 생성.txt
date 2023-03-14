@@ -1,0 +1,23 @@
+superuser 생성 및 기본 테이블 생성
+
+장고 프레임워크 슈퍼유저 및 기본 테이블 생성
+
+C:\Django\section1\myproject> python manage.py createsuperuser
+
+->그런데 "기본테이블 생성이 안되어있기 때문에" 수퍼유저 생성이 안된다. (superuser info를 저장할 공간이 없기 때문에)
+(즉, 관리자 모드와 그냥 웹 페이지 접속하는 것을 따로 두기 위해서 )
+
+-> 기본 테이블 생성 --> python manage.py migrate    // migrate : 이행하다라는 뜻으로 쓰인다. 이주가 일반적인데
+
+-> "기본 테이블 생성 후"다시 --> 수퍼유저 생성 --> python manage.py createsuperuser
+-> 관리자모드 접속은?? --> "localhost:8000/admin"
+
+Username (leave blank to use 'user'): admin
+Email address: admin@localhost.com
+Password:p@ssw0rd
+
+1. 첫 페이지 Users에 들어가면 내가 만들어놓은 회원이 존재한다.
+2. +Add를 누르면 새로운 User를 추가할 수 있다.
+ex)
+testman 
+qweiop123890
