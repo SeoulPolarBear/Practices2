@@ -1,0 +1,20 @@
+Django 특징
+
+경량 웹 서버를 자체적으로 가지고 있다.
+따라서 다른 것을 다운로드 할 필요 없이 Django만 다운로드 받으면 된다.
+하지만 실제 실무에서는 사용하면 안 된다. 오직 공부용
+
+웹 사이트 띄우기 == Hello, World
+
+1. 프로젝트 생성 --> mywebsite or mysite or myproject
+	1-1. 제일 먼저 가상환경 모드로 진입 --> myenvironment --> Scripts --> activate.bat 활성화
+	1-2. 만약 가상환경 모드로 진입하지 않고 뭔가를 하려고 하면 (버전확인) -> X
+2. C:\section1 --> 실습 폴더 루트로 이동해서 --> 프로젝트 생성
+	2-1. django-admin startproject myproject --> 프로젝트 폴더 및 관련 파일들이 자동 생성
+		이때 프로젝트는 section1 폴더 안에서 실행을 시켜줘야 하므로 cd C:\Django/section에서 하면 된다.
+		ex) urls.py, view.py, models.py
+	2-2. 프로젝트를 생성하면 폴더안에 myproject 폴더와 manage.py 파일이 있다.
+		manage.py를 통해서 나의 웹사이트에 대한 APP 프로그램을 만들 때 사용한다. 
+		하나의 기능마다 폴더하나를 차지한다.
+	2-3. 프로젝트에 하나의 app을 추가 하고 싶으면 startapp App이름 이렇게 하면 된다.
+	2-4. 가상환경에서 App을 띄우기 위해서 "python manage.py runserver" 해야한다. Django default port : 8000
