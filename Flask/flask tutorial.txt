@@ -1,0 +1,33 @@
+anaconda
+- 파이썬 기본(컴파일러), 주요 라이브러리, 주요 툴을 모아놓은 패키지 -> 한꺼번에 패키지를 받을 수 있다.
+- 파이썬의 장점 : 라이브러리
+	-pip install library-name
+
+
+jupyter notebook이란
+	Editor VS jupyter Notebook
+	- 한줄 한줄 코드 실행 결과 확인이 쉽다
+	- 문서와 코드를 함께 작성/저장할 수 있다.
+
+anaconda 
+https://www.anaconda.com/products/distribution
+-> download -> 설치 중 Advanced Installation Options가 뜨면
+-> Register Anaconda3 as my default Python 3.9 체크하고 Install
+Anaconda Navigator를 접속
+-> juypter Notebook launch
+
+
+jupyter notebook 셀 생성하는 방법
+
+ctrl + a 하면 위에 생성
+ctrl + b 하면 아래에 생성된다.
+셀 삭제 : ctrl + dd
+
+
+----------------------------------------
+사용가능한 editor
+Notepad
+Pioo
+Visual Studio
+vi
+emaos
