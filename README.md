@@ -124,6 +124,8 @@ Perception</a></li>
 <ol>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Go%20Lang/Go%20Lang%20tutorial.txt">Go Tutorial</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Go%20Lang/2-1%20Go%20%ED%8A%B9%EC%A7%95.txt">Go feature</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Go%20Lang/section1">Go fmt</a></li>
+   <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Go%20Lang/section2">const, enumeration, variable</a></li>
 </ol>
 
 # Dart
