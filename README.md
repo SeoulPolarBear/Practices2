@@ -132,4 +132,8 @@ Perception</a></li>
 # Dart
 <ol>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Dart/Dart%20tutorial.txt">Dart Tutorial</a></li>
+ <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Dart/1-1.%20dart%20var%2Cdynamic.txt">var, dynamic</a></li>
 </ol>
+
+
+var, dynamic
