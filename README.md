@@ -86,6 +86,9 @@ Tensorflow Keras Callback</a></li>
 <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Django/inflearn/Django/Django%20Tutourial.txt">Django Tutorial</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Django/inflearn/Django/2-1.Django%20%ED%8A%B9%EC%A7%95.txt">Django Feature</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Django/inflearn/Django/2-2.%20Django%20superuser%20%EC%83%9D%EC%84%B1.txt">Django superuser</a></li>
+  
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Django/inflearn/Django/3-1.%20Django%20%EC%A3%BC%EC%9A%94%20%EA%B0%9C%EB%85%90.txt">Django 주요 개념</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Django/inflearn/Django/4-1.%20Django%20App%20%EC%83%9D%EC%84%B1.txt">Django App 생성</a></li>
 </ol>
 
  # Flask 
