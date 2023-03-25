@@ -130,6 +130,7 @@ Perception</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Go%20Lang/section1">Go fmt</a></li>
    <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Go%20Lang/section2">const, enumeration, variable</a></li>
      <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Go%20Lang/section3">feature, for, if, switch</a></li>
+     <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Go%20Lang/section4">access, package, compile init</a></li>
 </ol>
 
 # Dart
