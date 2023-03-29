@@ -139,5 +139,8 @@ Perception</a></li>
  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Dart/1-1.%20dart%20var%2Cdynamic.txt">var, dynamic</a></li>
 </ol>
 
-
-var, dynamic
+# GraphQL
+<ol>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/GraphQL/2-1%20API.txt">API</a></li>
+ <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/GraphQL/3-1.GraphQL%EC%9D%B4%EB%9E%80.txt">GraphQL </a></li>
+</ol>
