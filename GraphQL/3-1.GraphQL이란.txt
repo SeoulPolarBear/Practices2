@@ -1,0 +1,89 @@
+graphQL은 하나의 specification이다.
+graphQL은 domain-specific 언어로
+사람들이 원하는 방식대로 구현하도록 하는 언어이다.
+
+
+rest API가 가지는 2가지 문제점 및 이를 해결하는 GraphQL
+---------------------------------------------------------------------
+1) over-fetching : 내가 데이터를 쓴던 말던 간에 너무 많은 data를 받는 것을 의미한다.
+즉, 내가 원하는 data만 받을 수 있는 선택권이 존재하지 않는다.
+이말은 backend와 database가 data를 보내는데 느려질 수 있다.
+
+GraphQL은 data를 url로 받지 않고
+필요한 data를 요청한다.
+즉, 그냥 data를 일방적으로 받는 것이 아닌
+요청한 data만 받을 수 있다.
+
+ex) name, year, summary, title, cover image를 줄 수 있어?
+-> 그럼 요청한 값만 받을 수 있다.
+
+Ask for what you need,
+get exactly that
+Send a GraphQL query to your API and get exactly what you need, 
+nothing more and nothing less. GraphQL queries always return predictable 
+results. Apps using GraphQL are fast and stable because they control the data
+ they get, not the server.
+
+{
+hero {
+	name
+	height
+	mass
+	}
+}
+
+result :
+{
+"hero": {
+	"name" : "Luke Skywalker",
+	"height" : 1.72,
+	"mass" : 77
+	}
+}
+
+
+---------------------------------------------------------------------
+2) under-fetching : 내가 만약에 장르에 대한 정보를 얻고 싶다.
+근데 rest api 같은 경우에는 genre_ids라고 하면서
+genre의 id만 보내주고 실질적으로 무슨 장르인지는 받지 못하여
+이런 id를 통해서 두번의 http 통신을 해야하는 경우가 발생할 수 있다.
+
+
+
+Get many resources
+in a single request
+GraphQL queries access not just the properties of one resource but also 
+smoothly follow references between them. While typical REST APIs require 
+loading from multiple URLs, GraphQL APIs get all the data your app needs 
+in a single request. Apps using GraphQL can be quick even on slow mobile 
+network connections.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
