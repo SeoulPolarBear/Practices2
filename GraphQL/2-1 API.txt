@@ -1,0 +1,20 @@
+API : Application Programming Interface
+
+Interface : 무언과 상호작용하기 위해 있는 것을 뜻한다.
+ex) TV와 나를 연결해주는 리모컨 같은 관계
+
+https://developer.mozilla.org/ko/docs/Web/API
+여기서 이제 Web으로 사용할 수 있는 API가 전부 수록 되어 있다.
+
+Rest API
+는 URL의 뭉치일 뿐이다.
+
+RestAPI와 GraphQL API는 둘다 리모콘 이지만
+버튼들이 다르게 생긴 것 뿐이다.
+즉, 버튼 누르는 방식이 다르다.
+
+GET,POST,PUT,DELETE를 주로 상요한다.
+
+Web API가 JS 코드를 사용해 브라우저에 노출되어 있는 버튼을 누르는 방식이라면
+REST api는 URL을 호출함으로써 버튼을 누를 수 있는 방식이다. 따라서 노출 될 수 있다.
+URL과 HTTP메소드를 조합해서 버튼을 누를 수 있게끔 서버에서 허용해준다.
