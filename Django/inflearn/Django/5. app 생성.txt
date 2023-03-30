@@ -1,0 +1,90 @@
+App 생성하고 DB 추가 하는 순서
+-----------------------------------
+---------------------------------Views 생성-------------------------------------------------
+
+1) python manage.py startapp 앱명 (폴더 위치 : myproject)
+
+-----------------------------------
+2) views.py에 함수 생성 (폴더 위치 : myproject/myapp/view.py)
+def index(request):
+    return HttpResponse("Onememos~Hello, World~ ^.~")
+처럼 controller 생성
+
+-----------------------------------
+3) app 내의 urls.py에 urls 생성 (폴더 위치 : myproject/myapp/urls.py)
+from . import views
+
+urlpatterns = [
+    path('', views.index, name = 'index'), # (router, view function) -> default IP : localhost:8000/onememos/
+]
+
+-----------------------------------
+4) path를 환경설정에서 urls와 연결을 시키기 위해 등록 (폴더 위치 : myproject/myproject/urls.py)
+from django.urls import path, include
+
+urlpatterns = [
+    path('onememos/', include('onememos.urls')), # routes 등록한 것
+    path('admin/', admin.site.urls),
+    ]
+
+---------------------------------Models 생성------------------------------------------------
+
+-----------------------------------
+5) models 생성 (폴더 위치 : myproject/myapp/models.py)
+
+class Memo(models.Model):
+    memo_text = models.CharField(max_length=200) # 200자 이하 같이 제한이 있는 것을 사용할 때 쓰는 함수
+    memo_text2 = models.TextField()
+    published_date=models.DateTimeField(auto_now_add=True) # 현재 시간을 저장한다.
+
+------------------------------------    
+6) 생성한 Model을 App admin에 등록 (폴더 위치 : myproject/myapp/admin.py)
+즉, 생성한 모델을 admin site에 등록이 되어야 하기 떄문에 등록
+
+from django.contrib import admin
+from onememos.models import Memo
+
+# Register your models here.
+admin.site.register(Memo) 
+
+-----------------------------------
+7) 생성한 app을 admin에서 인식하기 위해 ISTALLED_APPS에 등록
+(폴더 위치 : myproject/myproject/settings.py)
+
+INSTALLED_APPS = [
+    'onememos.apps.OnememosConfig',
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+]
+
+-----------------------------------
+8) py manage.py makemigrations (폴더 위치 : myproject)
+이제 app들 안에 migrations 폴더에 db가 실행 될 수 있게 cmmand
+
+-----------------------------------
+9) 그 다음 프로젝트 migrate (폴더 위치 : myproject)
+py manage.py migrate
+
+-----------------------------------
+10) 변경 사항이 있을 시 다시 
+py manage.py makemigrations (폴더 위치 : myproject) : 설정 추가
+py manage.py makemigrations (폴더 위치 : myproject) : 설정 추가
+py manage.py makemigrations (폴더 위치 : myproject) : 설정 추가
+py manage.py makemigrations (폴더 위치 : myproject) : 설정 추가
+py manage.py makemigrations (폴더 위치 : myproject) : 설정 추가 
+
+py manage.py migrate (폴더 위치 : myproject) : 최종적으로 migration 한 것을 반영한다.
+실행 
+
+-----------------------------------
+
+
+
+
+
+
+-----------------------------------
