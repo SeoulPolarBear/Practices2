@@ -136,6 +136,7 @@ Perception</a></li>
      <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Go%20Lang/section4">access, package, compile init</a></li>
      <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Go%20Lang/section5">Bool,Numeric,String,Operation</a></li>
      <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Go%20Lang/section6">Array,Map,Pointer,Slice</a></li>
+     <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Go%20Lang/section7">Function, Closure, Defer</a></li>
 </ol>
 
 # Dart
