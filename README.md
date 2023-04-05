@@ -92,6 +92,7 @@ Tensorflow Keras Callback</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Django/inflearn/Django/5-1.%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0.txt">테이블 생성</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Django/inflearn/Django/6-1.%20template.txt">Django template</a></li>
   <li><a href = "https://github.com/SeoulPolarBear/Practices2/blob/main/Django/inflearn/Django/7-1.%20CMD%EB%A1%9C%20db%20%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B0.txt">Django CMD로 DB 조작</a></li>
+  <li><a href = "https://github.com/SeoulPolarBear/Practices2/tree/main/Django/inflearn/Django/section1">Django Example</a></li>
 </ol>
 
  # Flask 
